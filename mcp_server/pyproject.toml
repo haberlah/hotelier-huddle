@@ -1,0 +1,16 @@
+[project]
+name = "hotelier-huddle-mcp"
+version = "1.0.0"
+description = "Model Context Protocol (MCP) server for The Hotelier Huddle podcast knowledge base"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=1.0.0",
+]
+
+[project.scripts]
+hotelier-huddle-mcp = "server:mcp.run"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment & Virtualenvs
+.env
+.venv/
+env/
+venv/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Local audio binaries (Total 1.14 GB - download via scripts/download_audio.sh)
+audio/*.m4a
+audio/*.mp3
+*.m4a
+*.mp3
+
+# Scratch and temporary testing artifacts
+/tmp/
+*.log
+scratch/

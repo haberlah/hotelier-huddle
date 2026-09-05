@@ -1,0 +1,587 @@
+{
+  "podcast_name": "Hotelier Huddle",
+  "podcast_summary": "Conversations with global hospitality leaders focused on leadership, revenue management, commercial strategy, and career development.",
+  "host": {
+    "name": "Shannon Knapp",
+    "credentials": [
+      "CHIA (Certification in Hotel Industry Analytics)"
+    ],
+    "bio": "Shannon Knapp was a hotel industry veteran with over 26 years of experience in reservations, revenue optimisation, and distribution management. She was an active member of the HSMAI Asia Pacific Advisory Board, a certified HSMAI trainer in revenue, distribution, and reservations, and the founder of SKnapp Consulting. She created Hotelier Huddle as her homage to the hotel industry.",
+    "company": "SKnapp Consulting",
+    "website": "https://www.sknappconsulting.com",
+    "sources": [
+      {
+        "claim": "Shannon Knapp, CHIA, 26-year veteran, founder of SKnapp Consulting, HSMAI Advisory Board member",
+        "source_url": "https://www.sknappconsulting.com",
+        "quoted_snippet": "Shannon Knapp founded SKnapp Consulting in January 2015 to provide strategic support to small-to-medium hotel groups and independent properties across APAC."
+      },
+      {
+        "claim": "Host and producer of Hotelier Huddle podcast, tribute after her passing in 2026",
+        "source_url": "https://podcasts.apple.com/us/podcast/hotelier-huddle/id1840076396",
+        "quoted_snippet": "This episode is released in memory of Shannon Knapp, our host and dear friend. Hotelier Huddle was Shannon's homage to the hotel industry and the people within it who meant the world to her."
+      }
+    ]
+  },
+  "production_team": {
+    "sound_engineer_and_producer": "Heidi Egger",
+    "role": "Producer and Audio Editor for Hotelier Huddle",
+    "sources": [
+      {
+        "claim": "Heidi Egger producer and editor credit on all published episodes",
+        "source_url": "https://anchor.fm/s/109667b00/podcast/rss",
+        "quoted_snippet": "Hotelier Huddle is hosted and produced by Shannon Knapp and produced and edited by Heidi Egger."
+      }
+    ]
+  },
+  "distribution": {
+    "apple_podcasts_url": "https://podcasts.apple.com/us/podcast/hotelier-huddle/id1840076396",
+    "spotify_podcasters_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle",
+    "rss_feed_url": "https://anchor.fm/s/109667b00/podcast/rss",
+    "youtube_channel": "https://www.youtube.com/@HotelierHuddle"
+  },
+  "inventory_summary": {
+    "total_published_episodes": 20,
+    "local_audio_files_held": 20,
+    "local_transcripts_held": 20,
+    "missing_local_episodes": []
+  },
+  "name_reconciliation_decisions": [
+    {
+      "episode_number": 2,
+      "filename_spelling": "Alexis Kalis",
+      "published_spelling": "Alexia Kalis",
+      "decision": "KEPT_VERIFIED",
+      "justification": "Spotify/RSS show notes and Kalis Hospitality Group official corporate website confirm 'Alexia Kalis' (CEO of Kalis Hospitality Group). Audio dialogue confirms Shannon addressing her as Alexia.",
+      "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Fake-It-Until-You-Become-It-e389fm3",
+      "quoted_snippet": "Shannon and Alexia Kalis (Kalis Hospitality Group) discuss starting out in hospitality; keeping hotel staff motivated..."
+    },
+    {
+      "episode_number": 4,
+      "filename_spelling": "Tracey Martin",
+      "published_spelling": "Tracy Martin",
+      "decision": "KEPT_VERIFIED",
+      "justification": "Official published RSS episode title and description explicitly spell her name 'Tracy Martin'. The Wisdom Well company website confirms founder 'Tracy Martin'.",
+      "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/The-Accidental-Hotelier-Tracy-Martin-on-Sales--Solo-Ventures--and-Staying-Power-e399s5a",
+      "quoted_snippet": "In this episode of the Hotelier Huddle, Shannon Knapp interviews hotel sales and marketing leader Tracy Martin, founder of the Wisdom Well..."
+    },
+    {
+      "episode_number": 9,
+      "filename_spelling": "Joaquin D_Orazio",
+      "published_spelling": "Joaquin D'Orazio",
+      "decision": "KEPT_VERIFIED",
+      "justification": "Filename uses underscore '_' as filesystem sanitization for apostrophe. Official RSS show notes and HSMAI South Florida Peter Ricci Scholarship records confirm 'Joaquin D'Orazio'.",
+      "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/A-Five-Star-Hotel-Guest-Relations-Agent-on-Blending-Profit--Purpose--Hyper-Personalisation-e3aum20",
+      "quoted_snippet": "What does it take to become a hospitality leader? Joaquin D'Orazio is finding out; from washing dishes at a historic New Jersey inn to managing guest relations at a five-star Boca Raton resort..."
+    },
+    {
+      "episode_number": 14,
+      "filename_spelling": "Jean Buillet",
+      "published_spelling": "Jean Christophe Buillet / Jean-Christophe Buillet",
+      "decision": "KEPT_VERIFIED",
+      "justification": "Official published RSS show notes list 'Jean Christophe Buillet, Owner Operator A Sunset Chateau Resort'. Audio greeting confirms full name Jean-Christophe. Inn website (asunsetchateau.com) and Sedona Chamber of Commerce confirm Jean-Christophe Buillet (also known as Jean Buillet).",
+      "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Hotel-Owner-Insights-23-Years-Of-Building-Balance-e3d9tvr",
+      "quoted_snippet": "Host: Shannon Knapp Guest: Jean Christophe Buillet, Owner Operator A Sunset Chateau Resort Producer: Heidi Egger."
+    },
+    {
+      "episode_number": 20,
+      "filename_spelling": "Matt Borger",
+      "published_spelling": "Matthew Borger (Title) / Matt Borger (Description)",
+      "decision": "KEPT_VERIFIED",
+      "justification": "Official published episode title on Apple/Spotify is 'Hotel Sales Skills that Fill Planes: Matthew Borger'. Description uses 'Matt Borger'. Newcastle Airport and Destination Port Stephens records confirm Matthew (Matt) Borger.",
+      "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Hotel-Sales-Skills-that-Fill-Planes-Matthew-Borger-e3lufab",
+      "quoted_snippet": "From selling room nights to filling planes, Matt Borger has spent over two decades navigating the commercial side of hospitality and aviation..."
+    }
+  ],
+  "episodes": [
+    {
+      "episode_number": 1,
+      "published_title": "Will Sales and Revenue Ever See Eye To Eye?",
+      "published_date_utc": "2025-09-16T03:26:25Z",
+      "published_duration": "00:53:51",
+      "local_audio_file": "audio/01-Will Sales and Revenue Ever See Eye To Eye-Francis Purvey.m4a",
+      "local_transcript_file": "transcripts/01-Will Sales and Revenue Ever See Eye To Eye-Francis Purvey.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Francis Purvey",
+        "title": "Executive Vice President",
+        "organization": "Sunlark Associates LLC",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Will-Sales-and-Revenue-Ever-See-Eye-To-Eye-e389aht",
+            "quoted_snippet": "Shannon and Francis Purvey (Sunlark Associates) discuss the benefits of hotel revenue and sales managers working together..."
+          },
+          {
+            "source_url": "https://www.hospitalitynet.org",
+            "quoted_snippet": "Francis Purvey: Executive Vice President at Sunlark Associates LLC; former Assistant Director of Tourism for Bermuda (1971-1985); former Director of Sales & Marketing at Radisson Suite Resort Sand Key."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 2,
+      "published_title": "Fake It Until You Become It",
+      "published_date_utc": "2025-09-16T03:42:09Z",
+      "published_duration": "00:32:04",
+      "local_audio_file": "audio/02-Fake It Until You Become It-Alexis Kalis.m4a",
+      "local_transcript_file": "transcripts/02-Fake It Until You Become It-Alexia Kalis.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Alexia Kalis",
+        "title": "Chief Executive Officer",
+        "organization": "Kalis Hospitality Group",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Fake-It-Until-You-Become-It-e389fm3",
+            "quoted_snippet": "Shannon and Alexia Kalis (Kalis Hospitality Group) discuss starting out in hospitality; keeping hotel staff motivated; restaurant menu pricing and psychology..."
+          },
+          {
+            "source_url": "https://www.kalishospitality.com.au",
+            "quoted_snippet": "Alexia Kalis serves as CEO of Kalis Hospitality, managing hotels, bistros, accommodation and retail across Tasmania."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 3,
+      "published_title": "Are Full Hotels Always The Most Profitable?",
+      "published_date_utc": "2025-10-02T05:07:11Z",
+      "published_duration": "00:39:21",
+      "local_audio_file": "audio/03-Are Full Hotels Always the Most Profitable-Tamie Matthews.m4a",
+      "local_transcript_file": "transcripts/03-Are Full Hotels Always the Most Profitable-Tamie Matthews.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.7-flash",
+      "guest": {
+        "name": "Tamie Matthews",
+        "title": "Founder & Principal Consultant",
+        "organization": "RevenYou",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Are-Full-Hotels-Always-The-Most-Profitable-e39038n",
+            "quoted_snippet": "Shannon and Tamie Matthews (RevenYou) discuss why full occupancy isn’t always the most profitable; how content parity drives hotel bookings; GOPPAR and RevPAR..."
+          },
+          {
+            "source_url": "https://www.revenyou.com.au/our-team",
+            "quoted_snippet": "Tamie Matthews is the Founder and CEO of RevenYou, specializing in revenue management, distribution and technology consulting for accommodation providers."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 4,
+      "published_title": "The Accidental Hotelier: Tracy Martin on Sales, Solo Ventures, and Staying Power",
+      "published_date_utc": "2025-10-09T08:20:15Z",
+      "published_duration": "00:40:22",
+      "local_audio_file": "audio/04-The Accidental Hotelier-Tracey Martin.m4a",
+      "local_transcript_file": "transcripts/04-The Accidental Hotelier-Tracy Martin.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Tracy Martin",
+        "title": "Founder & Commercial Consultant",
+        "organization": "The Wisdom Well",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/The-Accidental-Hotelier-Tracy-Martin-on-Sales--Solo-Ventures--and-Staying-Power-e399s5a",
+            "quoted_snippet": "In this episode of the Hotelier Huddle, Shannon Knapp interviews hotel sales and marketing leader Tracy Martin, founder of the Wisdom Well..."
+          },
+          {
+            "source_url": "https://thewisdomwell.co",
+            "quoted_snippet": "Tracy Martin has over 20 years of international hospitality experience including National Director of Sales and Marketing for EVT in NZ and Accor Hotels."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 5,
+      "published_title": "The AI Operating System is Coming: Are Hotels Ready?",
+      "published_date_utc": "2025-10-17T05:17:17Z",
+      "published_duration": "00:54:45",
+      "local_audio_file": "audio/05-The AI Operating System is Coming-David Haberlah.m4a",
+      "local_transcript_file": "transcripts/05-The AI Operating System is Coming-David Haberlah.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.7-flash",
+      "guest": {
+        "name": "Dr. David Haberlah",
+        "title": "AI Globalisation Leader & Technologist",
+        "organization": "Hotel Technology Industry",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/The-AI-Operating-System-is-Coming-Are-Hotels-Ready-e39l8k9",
+            "quoted_snippet": "Dr David Haberlah has a geology PhD, taught third graders in Northern Queensland, and now leads AI globalisation at a major hotel tech company."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 6,
+      "published_title": "8 Leadership Lessons from an Award Winning Hotel General Manager",
+      "published_date_utc": "2025-10-22T01:43:25Z",
+      "published_duration": "00:24:26",
+      "local_audio_file": "audio/06-8 Leadership Lessons from Award Winning Hotel GM-Greg Brady.m4a",
+      "local_transcript_file": "transcripts/06-8 Leadership Lessons from Award Winning Hotel GM-Greg Brady.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.7-flash",
+      "guest": {
+        "name": "Greg Brady",
+        "title": "Former General Manager",
+        "organization": "Sofitel Sydney Darling Harbour / Accor",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/8-Leadership-Lessons-from-an-Award-Winning-Hotel-General-Manager-e39saeu",
+            "quoted_snippet": "Award-winning hotel general manager Greg Brady shares 8 essential leadership lessons from 30+ years running properties including Sofitel Sydney Darling Harbour (Australasian Hotel of the Year)."
+          },
+          {
+            "source_url": "https://www.hotelmanagement.com.au",
+            "quoted_snippet": "Greg Brady served as General Manager of Sofitel Sydney Darling Harbour from opening in 2017 until retirement in 2025; winner of 2018 HM Awards Australasian Hotel of the Year."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 7,
+      "published_title": "Are You Revenue Managing or Day Trading? With Matt Camp",
+      "published_date_utc": "2025-10-29T02:03:11Z",
+      "published_duration": "00:31:04",
+      "local_audio_file": "audio/07-Are you Revenue Managing or Day Trading-Matt Camp.m4a",
+      "local_transcript_file": "transcripts/07-Are you Revenue Managing or Day Trading-Matt Camp.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.7-flash",
+      "guest": {
+        "name": "Matt Camp",
+        "title": "Revenue & Distribution Manager",
+        "organization": "Independent Revenue Consultant",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Are-You-Revenue-Managing-or-Day-Trading--With-Matt-Camp-e3a6ijj",
+            "quoted_snippet": "Revenue & Distribution Manager Matt Camp challenges the industry's obsession with over-engineering every decision... shares hard-won wisdom from 25 years in hospitality."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 8,
+      "published_title": "Crafting a Distinct Brand: Lessons from a Hotel Industry Expert",
+      "published_date_utc": "2025-11-07T03:22:55Z",
+      "published_duration": "00:40:29",
+      "local_audio_file": "audio/08-Crafting a Distinct Brand-Eve Weatherburn.m4a",
+      "local_transcript_file": "transcripts/08-Crafting a Distinct Brand-Eve Weatherburn.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Eve Weatherburn",
+        "title": "Founder & Managing Director",
+        "organization": "Brand Journey Partner",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Crafting-a-Distinct-Brand-Lessons-from-a-Hotel-Industry-Expert-e3akh6j",
+            "quoted_snippet": "Eve shares fresh perspectives on hotel branding from 30+ years leading brand strategies across Asia Pacific, Europe, and the US for major groups including Radisson, IHG, and Anantara."
+          },
+          {
+            "source_url": "https://www.brandjourneypartner.com",
+            "quoted_snippet": "Marketing expert Eve Weatherburn of Brand Journey builds the capability of teams to design, deliver and promote experience-led brands that come to life."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 9,
+      "published_title": "A Five Star Hotel Guest Relations Agent on Blending Profit, Purpose & Hyper-Personalisation",
+      "published_date_utc": "2025-11-14T00:43:42Z",
+      "published_duration": "00:38:46",
+      "local_audio_file": "audio/09-A Five Star Hotel Guest Relations Agent-Joaquin D_Orazio.m4a",
+      "local_transcript_file": "transcripts/09-A Five Star Hotel Guest Relations Agent-Joaquin D'Orazio.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Joaquin D'Orazio",
+        "title": "Guest Relations Professional",
+        "organization": "The Boca Raton / HSMAI Peter Ricci Scholar",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/A-Five-Star-Hotel-Guest-Relations-Agent-on-Blending-Profit--Purpose--Hyper-Personalisation-e3aum20",
+            "quoted_snippet": "Joaquin D'Orazio is finding out; from washing dishes at a historic New Jersey inn to managing guest relations at a five-star Boca Raton resort, all while earning his degree and winning HSMAI's Peter Ricci Scholarship."
+          },
+          {
+            "source_url": "https://joaquindorazio.com",
+            "quoted_snippet": "Joaquin D'Orazio: Hospitality professional associated with Forbes Five-Star resort The Boca Raton; recipient of HSMAI South Florida Peter Ricci Scholarship."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 10,
+      "published_title": "Precincts, Wellness & What Every Hotelier Should Know About Tomorrow's Hotels",
+      "published_date_utc": "2025-11-18T23:00:00Z",
+      "published_duration": "00:45:45",
+      "local_audio_file": "audio/10-Precincts Wellness and What Every Hotelier Should Know-Andrew Taylor.m4a",
+      "local_transcript_file": "transcripts/10-Precincts Wellness and What Every Hotelier Should Know-Andrew Taylor.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Andrew Taylor",
+        "title": "Founder & Strategic Advisor",
+        "organization": "Cre8tive Hotels & Lifestyle (former Mirvac, Starwood)",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Precincts--Wellness--What-Every-Hotelier-Should-Know-About-Tomorrows-Hotels-e3b4l0m",
+            "quoted_snippet": "From Mirvac's magic sauce to Starwood's global machine to his own creative ventures, Andrew Taylor has seen hotel development from every angle."
+          },
+          {
+            "source_url": "https://www.hotelmanagement.com.au",
+            "quoted_snippet": "Andrew Taylor spent 17+ years leading hotel development at Mirvac Hotels and Starwood Hotels & Resorts (Director of Acquisitions and Development Pacific) before founding Cre8tive Hotels & Lifestyle."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 11,
+      "published_title": "Rising Through Reservations: The Business Mindset, AI's Limits, and Why Waitlists Matter",
+      "published_date_utc": "2025-12-04T21:26:54Z",
+      "published_duration": "00:28:18",
+      "local_audio_file": "audio/11-Rising Through Reservations-Jasmine Xie.m4a",
+      "local_transcript_file": "transcripts/11-Rising Through Reservations-Jasmine Xie.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Jasmine Xie",
+        "title": "Reservations & Distribution Leader",
+        "organization": "PARKROYAL Parramatta / ICMS Alumna",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Rising-Through-Reservations-The-Business-Mindset--AIs-Limits--and-Why-Waitlists-Matter-e3bs347",
+            "quoted_snippet": "How an ICMS grad went from reservation agent to 2025 HM Awards Rising Star nominee in under a decade."
+          },
+          {
+            "source_url": "https://www.hotelmanagement.com.au",
+            "quoted_snippet": "Jasmine Xie: 2025 HM Awards contender for Accommodation and Travel at PARKROYAL Parramatta; graduate of ICMS."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 12,
+      "published_title": "Night Audit to CEO: Saying Yes Changes Everything",
+      "published_date_utc": "2025-12-12T11:59:04Z",
+      "published_duration": "00:47:12",
+      "local_audio_file": "audio/12-Night Audit to CEO_Saying Yes Changes Everything-Michael Johnson.m4a",
+      "local_transcript_file": "transcripts/12-Night Audit to CEO_Saying Yes Changes Everything-Michael Johnson.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Michael Johnson",
+        "title": "Former CEO & Charity Ambassador",
+        "organization": "Accommodation Australia / ReLove",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Night-Audit-to-CEO-Saying-Yes-Changes-Everything-e3c8laf",
+            "quoted_snippet": "Former night manager turned national CEO Michael Johnson shares more than 40 years of hard-won wisdom... plus how Michael is now using his hotel expertise to help families rebuild their lives through ReLove.org.au."
+          },
+          {
+            "source_url": "https://www.accomnews.com.au",
+            "quoted_snippet": "Michael Johnson served as inaugural CEO of Accommodation Australia (formed from TAA merger) until retirement in July 2024; volunteer ambassador for ReLove."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 13,
+      "published_title": "Hotel Sales Consultant: The Magic is in You",
+      "published_date_utc": "2025-12-21T09:07:45Z",
+      "published_duration": "00:31:15",
+      "local_audio_file": "audio/13-Hotel Sales Consultant_The Magic is in You-Kelley Wacher.m4a",
+      "local_transcript_file": "transcripts/13-Hotel Sales Consultant_The Magic is in You-Kelley Wacher.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Kelley Wacher",
+        "title": "Founder & Executive Coach",
+        "organization": "Corporate Magic™ / TIME Board Director",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Hotel-Sales-Consultant-The-Magic-is-in-You-e3ckvjg",
+            "quoted_snippet": "From Hotel Rooms to Breakthroughs, Kelley Wacher shares her journey from Thomas Cook Travel and hotel sales to becoming an executive coach who helps leaders unlock their own potential."
+          },
+          {
+            "source_url": "https://www.corporatemagic.com.au",
+            "quoted_snippet": "Kelley Wacher: Founder of Corporate Magic™, Gallup-certified strengths coach, Director on the Board of The Travel Industry Mentor Experience (TIME)."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 14,
+      "published_title": "Hotel Owner Insights: 23 Years Of Building Balance",
+      "published_date_utc": "2026-01-07T04:49:01Z",
+      "published_duration": "00:25:51",
+      "local_audio_file": "audio/14-Hotel Owner Insights-Jean Buillet.m4a",
+      "local_transcript_file": "transcripts/14-Hotel Owner Insights-Jean-Christophe Buillet.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Jean-Christophe Buillet",
+        "title": "Owner-Operator",
+        "organization": "A Sunset Chateau (Sedona, Arizona)",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Hotel-Owner-Insights-23-Years-Of-Building-Balance-e3d9tvr",
+            "quoted_snippet": "Host: Shannon Knapp Guest: Jean Christophe Buillet, Owner Operator A Sunset Chateau Resort Producer: Heidi Egger."
+          },
+          {
+            "source_url": "https://asunsetchateau.com",
+            "quoted_snippet": "Jean-Christophe Buillet (Jean Buillet) has owned and operated A Sunset Chateau boutique bed and breakfast in West Sedona, Arizona for over 20 years."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 15,
+      "published_title": "How I Grew 48 Hotels Worth $1.8 Billion (Career Advice for Hoteliers) with Andrew Turner",
+      "published_date_utc": "2026-01-21T11:00:43Z",
+      "published_duration": "00:36:19",
+      "local_audio_file": "audio/15-How I Grew 48 Hotels Worth $1.8 Billion-Andrew Turner.m4a",
+      "local_transcript_file": "transcripts/15-How I Grew 48 Hotels Worth $1.8 Billion-Andrew Turner.md",
+      "transcription_status": "RETRANSCRIBED_COMPLETE",
+      "transcription_model": "gemini-3.7-flash",
+      "guest": {
+        "name": "Andrew Turner",
+        "title": "Head of Development – Australia",
+        "organization": "Minor Hotels",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/How-I-Grew-48-Hotels-Worth-1-8-Billion-Career-Advice-for-Hoteliers-with-Andrew-Turner-e3dtt6o",
+            "quoted_snippet": "Host: Shannon Knapp Guest: Andrew Turner, Head of Development, Minor Hotels Producer: Heidi Egger."
+          },
+          {
+            "source_url": "https://www.minorhotels.com",
+            "quoted_snippet": "Andrew Turner serves as Head of Development – Australia for Minor Hotels; former CEO of Mirvac Hotels and Resorts and VP Acquisitions at Mantra Group."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 16,
+      "published_title": "You're a Rock Star (Someone Had to Tell You)",
+      "published_date_utc": "2026-02-19T02:32:37Z",
+      "published_duration": "00:32:45",
+      "local_audio_file": "audio/16-You_re a Rock Star (Someone Had to Tell You)-Janet McBain.m4a",
+      "local_transcript_file": "transcripts/16-You_re a Rock Star (Someone Had to Tell You)-Janet McBain.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Janet McBain",
+        "title": "Facilities Management Executive & Former Hotel GM",
+        "organization": "Facilities Management",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Youre-a-Rock-Star-Someone-Had-to-Tell-You-e3f9sji",
+            "quoted_snippet": "Hoteliers have boardroom-grade skills but are too busy changing rates and putting out fires to notice. Janet McBain's message to every professional: stop underrating yourself."
+          },
+          {
+            "source_url": "https://www.linkedin.com/in/janet-mcbain-41773b51/",
+            "quoted_snippet": "Janet McBain: Transition from hotel management to facilities management; former hotel general manager."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 17,
+      "published_title": "What Rental Cars Taught Me About Selling Rooms",
+      "published_date_utc": "2026-02-27T10:15:30Z",
+      "published_duration": "00:33:36",
+      "local_audio_file": "audio/17-What Rental Cars Taught Me About Selling Rooms-Mike Godfrey.m4a",
+      "local_transcript_file": "transcripts/17-What Rental Cars Taught Me About Selling Rooms-Mike Godfrey.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Mike Godfrey",
+        "title": "Commercial & Revenue Management Strategist",
+        "organization": "Revenue Management Consulting",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/What-Rental-Cars-Taught-Me-About-Selling-Rooms-e3fmjbl",
+            "quoted_snippet": "Mike Godfrey on Filters, Shoulders, and Trusting Pace: Career Journey Across Two Facets of Travel; The Car Rental Lesson: Embracing Minimum Length of Stay."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 18,
+      "published_title": "Two Habits That Will Change How You Lead | Heidi Gempel",
+      "published_date_utc": "2026-04-19T14:30:00Z",
+      "published_duration": "00:32:47",
+      "local_audio_file": "audio/18-Two Habits that will Change How You Lead-Heidi Gempel.m4a",
+      "local_transcript_file": "transcripts/18-Two Habits that will Change How You Lead-Heidi Gempel.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Heidi Gempel",
+        "title": "Founder & Executive Coach",
+        "organization": "HGE International (former VP Minor Hotels)",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Two-Habits-That-Will-Change-How-You-Lead--Heidi-Gempel-e3i4js1",
+            "quoted_snippet": "Shannon sits down with Heidi Gempel — executive coach, former VP or revenue and distribution management at Minor Hotels, and founder of HGE International..."
+          },
+          {
+            "source_url": "https://www.hge-international.com/coach-heidi-gempel",
+            "quoted_snippet": "Heidi Gempel is an ICF certified executive coach, certified results coach, strategic facilitator, trainer, and founder of HGE International."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 19,
+      "published_title": "How to Navigate Career Changes: Stephen Fraser",
+      "published_date_utc": "2026-06-21T14:06:28Z",
+      "published_duration": "00:42:51",
+      "local_audio_file": "audio/19-How to Navigate Career Changes-Stephen Fraser.m4a",
+      "local_transcript_file": "transcripts/19-How to Navigate Career Changes-Stephen Fraser.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Stephen Fraser",
+        "title": "Head of Reservation Services",
+        "organization": "EVT Connect Hospitality",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/How-to-Navigate-Career-Changes-Stephen-Fraser-e3jqpgr",
+            "quoted_snippet": "Shannon sits down with Stephen Fraser — hospitality veteran, former tech industry leader, and Head of Reservation Services at EVT Connect Hospitality..."
+          }
+        ]
+      }
+    },
+    {
+      "episode_number": 20,
+      "published_title": "Hotel Sales Skills that Fill Planes: Matthew Borger",
+      "published_date_utc": "2026-07-11T14:30:00Z",
+      "published_duration": "00:45:25",
+      "local_audio_file": "audio/20-Hotel Sales Skills that Fill Planes-Matt Borger.m4a",
+      "local_transcript_file": "transcripts/20-Hotel Sales Skills that Fill Planes-Matthew Borger.md",
+      "transcription_status": "HELD_COMPLETE",
+      "transcription_model": "gemini-3.6-flash",
+      "guest": {
+        "name": "Matthew (Matt) Borger",
+        "title": "Airlines and Partnership Manager / Chairperson",
+        "organization": "Newcastle Airport / Destination Port Stephens",
+        "sources": [
+          {
+            "source_url": "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Hotel-Sales-Skills-that-Fill-Planes-Matthew-Borger-e3lufab",
+            "quoted_snippet": "From selling room nights to filling planes, Matt Borger has spent over two decades navigating the commercial side of hospitality and aviation... Airlines and Partnership Manager for Newcastle Airport and Chairperson of Destination Port Stephens."
+          },
+          {
+            "source_url": "https://portstephens.org.au",
+            "quoted_snippet": "Matthew (Matt) Borger serves as Chairperson of Destination Port Stephens and Airlines & Partnership Manager at Newcastle Airport."
+          }
+        ]
+      }
+    }
+  ],
+  "unverified_fields_and_claims": [
+    {
+      "field": "Guest prior employers not mentioned in show notes or verified profiles",
+      "explanation": "Specific dates of tenure for minor roles held decades ago (e.g., specific student internship properties) are mentioned only in conversational dialogue without independent third-party confirmation and are treated as self-reported dialogue claims."
+    }
+  ]
+}
