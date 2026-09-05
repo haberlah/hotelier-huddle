@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you utilize this transcript corpus, terminology register, or MCP server in your research or applications, please cite it as below."
+authors:
+  - family-names: "Haberlah"
+    given-names: "David"
+  - family-names: "Knapp"
+    given-names: "Shannon"
+title: "The Hotelier Huddle: An Open-Source Audio Transcript Corpus, Hospitality Terminology Register, and Virtual Panel Knowledge Base"
+version: 1.0.0
+date-released: 2026-09-06
+url: "https://github.com/haberlah/hotelier-huddle"
+repository-code: "https://github.com/haberlah/hotelier-huddle"
+keywords:
+  - hospitality-management
+  - hotel-revenue-management
+  - artificial-intelligence
+  - podcast-corpus
+  - model-context-protocol
+  - audio-transcription
+license: "CC-BY-4.0"

@@ -1,0 +1,40 @@
+name: CI Verification
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install mcp
+
+      - name: Validate JSON syntax
+        run: |
+          python -m json.tool index.json > /dev/null
+          python -m json.tool HOTELIER_HUDDLE_METADATA.json > /dev/null
+
+      - name: Test MCP Server Python compilation
+        run: |
+          python -m py_compile mcp_server/server.py
+          python -m py_compile scripts/download_audio.py
+
+      - name: Run Master Verbatim Fidelity & Integrity Audit
+        run: |
+          python build_derived_documents_verified.py
+          git diff --exit-code derived_knowledge_base/

@@ -215,5 +215,8 @@ A hotelier is facing the following challenge:
 Please analyze this challenge and provide concrete, actionable advice synthesized directly from relevant leaders in the Hotelier Huddle corpus (e.g. Tamie Matthews on Net RevPAR, Matt Camp on anecdata and rate stability, Dr. David Haberlah on AI data security, Greg Brady on frontline empowerment, or Michael Johnson on leadership).
 Cite specific verbatim insights and timestamps wherever applicable."""
 
-if __name__ == "__main__":
+def main():
     mcp.run()
+
+if __name__ == "__main__":
+    main()

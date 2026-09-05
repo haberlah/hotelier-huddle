@@ -9,7 +9,7 @@ dependencies = [
 ]
 
 [project.scripts]
-hotelier-huddle-mcp = "server:mcp.run"
+hotelier-huddle-mcp = "server:main"
 
 [build-system]
 requires = ["hatchling"]
