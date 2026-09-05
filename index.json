@@ -3,6 +3,8 @@
   "podcast_name": "The Hotelier Huddle",
   "host": "Shannon Knapp, CHIA",
   "producer": "Heidi Egger",
+  "curator": "Dr David Haberlah",
+  "dedication": "This repository is an homage to the legacy of Shannon Knapp, CHIA. Until her last breath, Shannon was passionate about advancing the hotel profession alongside her best friends in the industry, the colleagues and leaders she interviewed across these 20 episodes. Following her passing, her friends and collaborators brought this archive together so her work would endure: Heidi Egger engineered the audio and produced the recordings, and David Haberlah transcribed the corpus, built the open-source repository and hosts the Model Context Protocol server. This archive preserves Shannon's contribution so her legacy continues to support future generations of hoteliers.",
   "episodes_count": 20,
   "generated_at": "2026-09-05T23:45:52.455359Z",
   "episodes": [

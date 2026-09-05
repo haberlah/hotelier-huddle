@@ -31,7 +31,12 @@
         "source_url": "https://anchor.fm/s/109667b00/podcast/rss",
         "quoted_snippet": "Hotelier Huddle is hosted and produced by Shannon Knapp and produced and edited by Heidi Egger."
       }
-    ]
+    ],
+    "repository_curator_and_mcp_host": "Dr David Haberlah",
+    "role_curator": "Audio transcription lead, open-source repository architect, and MCP server host"
+  },
+  "homage": {
+    "dedication": "This repository is an homage to the legacy of Shannon Knapp, CHIA. Until her last breath, Shannon was passionate about advancing the hotel profession alongside her best friends in the industry, the colleagues and leaders she interviewed across these 20 episodes. Following her passing, her friends and collaborators brought this archive together so her work would endure: Heidi Egger engineered the audio and produced the recordings, and David Haberlah transcribed the corpus, built the open-source repository and hosts the Model Context Protocol server. This archive preserves Shannon's contribution so her legacy continues to support future generations of hoteliers."
   },
   "distribution": {
     "apple_podcasts_url": "https://podcasts.apple.com/us/podcast/hotelier-huddle/id1840076396",
