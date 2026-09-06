@@ -1,11 +1,14 @@
 cff-version: 1.2.0
 message: "If you utilize this transcript corpus, terminology register, or MCP server in your research or applications, please cite it as below."
 authors:
-  - family-names: "Haberlah"
-    given-names: "David"
   - family-names: "Knapp"
     given-names: "Shannon"
+  - family-names: "Egger"
+    given-names: "Heidi"
+  - family-names: "Haberlah"
+    given-names: "David"
 title: "The Hotelier Huddle: An Open-Source Audio Transcript Corpus, Hospitality Terminology Register, and Virtual Panel Knowledge Base"
+abstract: "An open-source research dataset, hospitality terminology register, and Model Context Protocol (MCP) server created from 20 in-depth conversations with hotel leaders across the Asia-Pacific region. Dedicated as an homage to the legacy of host Shannon Knapp, CHIA, who until her last breath was passionate about advancing the hotel profession alongside her best friends in the industry. Sound engineering and audio production by Heidi Egger; transcription, open-source repository architecture, and MCP server hosting by Dr David Haberlah."
 version: 1.0.0
 date-released: 2026-09-06
 url: "https://github.com/haberlah/hotelier-huddle"
