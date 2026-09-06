@@ -68,38 +68,55 @@ PANEL_DEFS = [
         'id': 'PANEL_01_Commercial_Alignment_Sales_vs_Revenue',
         'title': 'The Commercial and Revenue Management Mastermind: Net Profitability and Distribution',
         'theme': 'Shifting from vanity occupancy to net profitability (Net RevPAR, GOPPAR, TRevPAR); eliminating rate day-trading; applying MLOS demand filters; and managing channel distribution costs.',
+        'moderator_intro': "Welcome to the Commercial and Revenue Management Mastermind. Throughout twenty episodes of The Hotelier Huddle, no operational divide surfaced more consistently than the tension between Director of Sales and Marketing (DOSM) and Director of Revenue Management (DORM). Sales teams are incentivised on room nights and gross volume, often advocating to secure base occupancy early; revenue managers guard rate integrity and yield, sometimes holding rate until the eleventh hour before panicking onto discounted Online Travel Agency (OTA) channels. Meanwhile, operational heads bear the brunt of housekeeping turnover and guest wear-and-tear on high-occupancy, low-margin business.\n\nIn this roundtable, five veteran commercial leaders—Francis Purvey, Tamie Matthews, Matt Camp, Mike Godfrey, and Matt Borger—dissect how to replace departmental warfare with unified net profitability (GOPPAR), eliminate anxious rate 'day-trading', de-jargon commercial metrics for owners, and align cross-functional teams around shared commercial victory.",
         'panelists': [1, 3, 7, 17, 20],
+        'panelist_focus': {
+            1: "The DOSM vs DORM dynamic, the peril of late OTA rate dumping, and why 15-minute standing cross-departmental meetings beat lengthy slide decks.",
+            3: "Why 100% occupancy is vanity, how 80–85% occupancy with rate discipline generates superior GOPPAR, and educating hotel teams on bottom-line owner profit.",
+            7: "Distinguishing genuine revenue strategy from screen day-trading, the $1,000 labour cost of chasing $20, and grounding commercial perspective by helping housekeeping clean rooms.",
+            17: "Dismantling 'jargon junkie crap truck' vocabulary, translating technical indicators (RevPAR, MPI, ARI) into plain language for owners and operations, and commercial education.",
+            20: "Commercial leaders as opposing magnets, setting aside department egos, fixing structural misalignments, and uniting behind whole-team victories."
+        },
         'turns_map': {
-            1: [46, 47],
-            3: [22, 23],
-            7: [19, 20],
-            17: [36, 37, 70, 71, 72],
-            20: [67, 68, 75, 76]
+            1: [46, 47, 48, 49, 50, 51, 108, 109, 110],
+            3: [56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67],
+            7: [41, 42, 43, 44, 45, 46, 47, 48, 49, 50],
+            17: [69, 70, 71, 72, 73, 74, 75, 76, 77, 78],
+            20: [75, 76, 77, 78, 79, 80]
         },
         'synthesis': [
-            "Shifting from Vanity Occupancy to Net Profit: Full hotels are not necessarily the most profitable. High occupancy achieved through heavy OTA discounting inflates variable operating expenses and commission burdens, degrading net operating margins.",
-            "Eliminating Rate Day-Trading: Top commercial leaders treat revenue management as strategic positioning rather than continuous tactical rate adjustments. Setting disciplined parameters and moving decisions into the 'done pile' creates mental clarity.",
-            "De-Jargoning Commercial Communication: Revenue leaders must translate technical metrics (RevPAR, MPI, ARI) into plain business language so general managers, sales teams, and food and beverage directors understand commercial strategy.",
-            "Collaborative Commercial Culture: Bridging the traditional divide between sales and revenue management requires shared profitability goals, mutual commercial empathy, and short, cross-departmental standups."
+            "Shifting from Vanity Occupancy to Net Profit: Full hotels are not necessarily the most profitable. High occupancy achieved through heavy OTA discounting inflates variable operating expenses and commission burdens, degrading net operating margins (GOPPAR). Running at 80–85% with rate integrity preserves margin and asset condition.",
+            "Eliminating Rate Day-Trading: Top commercial leaders treat revenue management as strategic positioning rather than continuous tactical rate adjustments. Tinkering with rates hourly wastes time and reflects anxiety rather than strategy; setting disciplined parameters and stepping away from the screen creates commercial clarity.",
+            "De-Jargoning Commercial Communication: Revenue leaders must translate technical metrics (RevPAR, MPI, ARI, TRevPAR) into plain business language so general managers, sales teams, and food and beverage directors understand commercial strategy and can act on it.",
+            "Collaborative Commercial Culture: Bridging the traditional divide between sales and revenue management requires shared profitability goals, mutual commercial empathy, and short, cross-departmental standups that include housekeeping and operations."
         ]
     },
     {
         'id': 'PANEL_02_AI_Technology_and_the_Human_Touch',
         'title': 'The AI Operating System and Intelligent Hotel Technology Council',
         'theme': 'The emerging AI operating system, enterprise data boundaries, SLMs vs LLMs, RAG architecture, and protecting genuine human empathy alongside autonomous operational workflows.',
+        'moderator_intro': "Welcome to the AI Operating System and Intelligent Hotel Technology Council. The hospitality sector stands at a pivotal junction: artificial intelligence models, agentic workflows, and automated distribution systems offer unprecedented analytical power, yet hotel hospitality remains an intrinsically human covenant of care, warmth, and service.\n\nIn this roundtable, six leaders—Francis Purvey, Dr. David Haberlah, Andrew Taylor, Jasmine Xie, Jean-Christophe Buillet, and Heidi Gempel—examine how to harness technology without sacrificing guest empathy. They address enterprise data privacy, open protocol standards (such as Model Context Protocol), the reality of automated guest check-ins, and why artificial intelligence actually heightens the premium on human emotional intelligence and frontline connection.",
         'panelists': [1, 5, 10, 11, 14, 18],
+        'panelist_focus': {
+            1: "The hazard of technology gimmicks without empathy: why robotic iPad check-in failed the fundamental test of hospitality in Florida.",
+            5: "The emerging AI operating system, Model Context Protocol (MCP) standards, data boundaries, and why hoteliers use technology to confirm instincts rather than discover insights.",
+            10: "Next-generation hotel concepts: blending digital frictionless arrivals with experiential, community-rooted luxury.",
+            11: "Frontline reservations agility: embracing automated systems while preserving the intuitive human ear for guest nuances.",
+            14: "The high-touch boutique sanctuary: why guests travel for genuine care and emotional connection that no algorithm can emulate.",
+            18: "Navigating AI complexity: ensuring revenue teams do not hide behind automated models, and elevating emotional intelligence and cross-functional influence."
+        },
         'turns_map': {
-            1: [114, 115],
-            5: [33, 34, 40, 41],
-            10: [113, 114],
-            11: [43, 44],
-            14: [22, 23],
-            18: [61, 62, 63, 64]
+            1: [85, 86, 87, 88, 89, 90, 91],
+            5: [66, 67, 74, 79, 80],
+            10: [113, 114, 115, 116, 126, 127, 128, 129, 130],
+            11: [43, 44, 45, 46, 47],
+            14: [54, 55, 56, 57, 58],
+            18: [44, 45, 46, 47, 48, 60, 61, 62, 63, 64]
         },
         'synthesis': [
-            "Technology as an Operational Liberator: Automation and artificial intelligence should eliminate administrative friction and repetitive data entry, freeing staff to focus on genuine guest hospitality.",
-            "Enterprise Data Boundaries and Trust: Deploying AI systems in hospitality demands strict isolation of proprietary commercial data and guest profiles from public model training datasets.",
-            "The Irreplaceability of Human Empathy: While automated systems handle inquiries and booking changes efficiently, complex guest friction, emotional recovery, and hospitality magic depend entirely on human connection.",
+            "Technology as an Operational Liberator: Automation and artificial intelligence should eliminate administrative friction, manual night-audit calculations, and repetitive data entry, freeing staff to focus entirely on genuine guest hospitality.",
+            "Enterprise Data Boundaries and Trust: Deploying AI systems in hospitality demands strict isolation of proprietary commercial data, booking curves, and guest profiles from public model training datasets.",
+            "The Irreplaceability of Human Empathy: While automated systems handle routine inquiries and booking changes efficiently, complex guest friction, emotional recovery, and hospitality magic depend entirely on human connection.",
             "Soft Skills as the Ultimate Edge: As analytical and predictive tasks become automated, emotional intelligence, persuasion, and cross-functional leadership become the primary differentiators for hospitality professionals."
         ]
     },
@@ -107,13 +124,21 @@ PANEL_DEFS = [
         'id': 'PANEL_03_Crisis_Management_Brand_Recovery_and_Resilience',
         'title': 'The Crisis Management and Brand Resilience Council',
         'theme': 'Navigating natural disasters, pandemics, PR crises, economic downturns, and market disruption with calm leadership and transparent brand communications.',
+        'moderator_intro': "Welcome to the Crisis Management and Brand Resilience Council. Hotels are uniquely vulnerable to external shocks: category-5 hurricanes, pandemic border closures, sudden supply chain failures, and emergency property breakdowns. During severe disruption, conventional playbooks fail, and leadership is tested in real time.\n\nIn this council, five seasoned leaders—Francis Purvey, Alexia Kalis, Eve Weatherburn, Michael Johnson, and Jean-Christophe Buillet—share verbatim operational accounts from the frontline of crises. They detail hurricane responses with blown-out lobby windows, navigating island lockdowns by rallying local communities, fierce competitors uniting to secure government wage support, and the relentless resilience demanded of boutique owner-operators when emergencies strike at midnight.",
         'panelists': [1, 2, 8, 12, 14],
+        'panelist_focus': {
+            1: "Hurricane disaster response: emergency communication, team safety, blown-out lobby glass, and transparent guest messaging.",
+            2: "Island resilience under COVID border closures: pivoting from interstate visitors to passionate intrastate and local Tasmanian community support.",
+            8: "Brand equity as economic insurance: why properties with clear identity resist panic-discounting spirals during market downturns.",
+            12: "Fierce commercial rivals uniting during systemic crisis: joint industry advocacy for JobKeeper wage subsidies and workforce preservation.",
+            14: "Small owner-operator emergency resilience: handling midnight rural facility failures when there is nobody else to call."
+        },
         'turns_map': {
-            1: [19, 20],
-            2: [23, 24],
-            8: [66, 67],
-            12: [50, 51, 52, 53],
-            14: [6, 7]
+            1: [19, 20, 21, 22, 23],
+            2: [21, 22, 23, 24],
+            8: [38, 39, 40, 41, 42],
+            12: [50, 51, 52, 53, 54],
+            14: [7, 8, 9, 10, 11]
         },
         'synthesis': [
             "Calm, Transparent Leadership in Crisis: Whether facing hurricane damage, sudden lockdown orders, or severe downturns, leadership requires clear, transparent communication with staff and guests.",
@@ -126,14 +151,23 @@ PANEL_DEFS = [
         'id': 'PANEL_04_Leadership_Culture_and_People_Over_Profit',
         'title': 'The Modern Hotelier Leadership Council: People Over Spreadsheets and Frontline Empowerment',
         'theme': 'General Manager leadership lessons; daily 15-minute leadership habits; prioritising employee culture (eNPS); frontline empowerment; and hiring leaders smarter than yourself.',
+        'moderator_intro': "Welcome to the Modern Hotelier Leadership Council. Outstanding hotel operations are built not from executive suites or spreadsheets, but from human connection on the hotel floor. When team members feel genuinely valued, heard, and empowered to resolve guest challenges, commercial success follows naturally.\n\nIn this roundtable, six distinguished leaders—Alexia Kalis, Greg Brady, Michael Johnson, Kelley Wacher, Andrew Turner, and Heidi Gempel—examine the daily practices that cultivate enduring culture. They discuss leaving financial reports to controllers in order to walk the floor, the 'Say Yes' philosophy that elevates night auditors to executives, creating psychological safety in commercial teams, respecting the distinct human DNA across large hotel portfolios, and unlearning default urgency to foster sustainable leadership.",
         'panelists': [2, 6, 12, 13, 15, 18],
+        'panelist_focus': {
+            2: "Creating a family culture of active listening across every tier: identifying frontline stars and nurturing their long-term growth.",
+            6: "The GM floor-walking discipline: leaving financial reviews to controllers and focusing daily leadership on guest joy and frontline support.",
+            12: "The 'Say Yes' mentorship philosophy: empowering young night auditors and frontline staff to take on new responsibilities and advance.",
+            13: "Fostering psychological safety: coaching hotel commercial teams to embrace vulnerability and unlock innate potential.",
+            15: "Servant leadership in asset management: recognising the distinct human DNA of every property and owner in large portfolios.",
+            18: "Unlearning default crisis urgency: cultivating daily grounding habits and building sustainable executive leadership rhythms."
+        },
         'turns_map': {
-            2: [45, 46, 47, 48],
-            6: [28, 29, 30],
-            12: [92, 93, 94, 95],
-            13: [73, 74],
-            15: [39, 40],
-            18: [65, 66, 67, 68]
+            2: [36, 37, 38, 39, 40],
+            6: [98, 99, 100, 101, 102, 116, 117, 118, 119, 120],
+            12: [70, 71, 72, 73, 74, 75, 76, 77, 78, 79],
+            13: [71, 72, 73, 74, 75],
+            15: [41, 42, 50, 51, 52],
+            18: [88, 89, 90, 91, 92, 93, 94, 95, 96]
         },
         'synthesis': [
             "People Over Spreadsheets: Sustainable commercial results stem from supported, valued hotel teams. Prioritising employee net promoter scores (eNPS) directly correlates with guest satisfaction and property profitability.",
@@ -146,13 +180,21 @@ PANEL_DEFS = [
         'id': 'PANEL_05_Non_Linear_Careers_and_Boardroom_Skills',
         'title': 'The Non-Linear Career and Boardroom Capabilities Council',
         'theme': 'Recognising the high-level, boardroom-grade transferable skills of hotel professionals, navigating non-linear career pivots, and going from night audit to CEO.',
+        'moderator_intro': "Welcome to the Non-Linear Career and Boardroom Capabilities Council. Hospitality professionals manage complex, 24/7 operating businesses comprising diverse workforces, dynamic pricing, capital asset maintenance, and nuanced human diplomacy. Yet hoteliers frequently underrate how seamlessly these competencies transfer to corporate governance, enterprise consulting, and executive boardrooms.\n\nIn this council, five industry leaders—Joaquin D'Orazio, Michael Johnson, Kelley Wacher, Janet McBain, and Stephen Fraser—trace non-linear career journeys spanning craft breweries, political campaigns, graveyard night audits, national coaching practices, enterprise facilities, and casino gaming. They unpack why hospitality training prepares leaders for virtually any complex organisational challenge.",
         'panelists': [9, 12, 13, 16, 19],
+        'panelist_focus': {
+            9: "Cross-functional agility: mastering every frontline task from dishwashing to luxury guest relations to build operational empathy.",
+            12: "The foundational discipline of night audit: starting in graveyard shifts and ascending to national industry chief executive.",
+            13: "The transition from property sales director to national corporate coach: seeking potential in people through coaching sorcery.",
+            16: "From hotel general management to the corporate boardroom: leveraging hospitality diplomatic craft and earning MBA validation.",
+            19: "Applying hotel operational systems to complex casino gaming regulations and executive enterprise project governance."
+        },
         'turns_map': {
-            9: [37, 38],
-            12: [16, 17],
-            13: [41, 42],
-            16: [66, 67],
-            19: [92, 93]
+            9: [43, 44, 45, 46, 47],
+            12: [70, 71, 72, 73, 74, 75, 76, 77, 78, 79],
+            13: [20, 21, 22, 23, 24],
+            16: [62, 63, 64, 65, 66, 67, 68, 69],
+            19: [58, 59, 60, 61, 62, 63, 64, 65]
         },
         'synthesis': [
             "Undervalued Hospitality Competencies: Hotel managers orchestrate complex, multi-million-dollar operational ecosystems daily. These management competencies directly transfer to corporate executive leadership, facilities, and board governance.",
@@ -165,12 +207,19 @@ PANEL_DEFS = [
         'id': 'PANEL_06_Hotel_Development_Precincts_and_Asset_Strategy',
         'title': 'The Hotel Development, Precincts and Asset Strategy Council',
         'theme': 'Masterplanning tomorrow’s hotels: wellness as revenue, mixed-use precinct integration, adaptive reuse, strata-title economics, and owner-operator lifestyle balance.',
+        'moderator_intro': "Welcome to the Hotel Development, Precincts and Asset Strategy Council. The physical and economic architecture of the accommodation sector is undergoing profound transformation. Standalone, isolated hotels are giving way to integrated lifestyle precincts, wellness concepts integrated into everyday guest stays, adaptive heritage conversions, and complex strata-titled ownership models.\n\nIn this council, four property and asset leaders—Eve Weatherburn, Andrew Taylor, Jean-Christophe Buillet, and Andrew Turner—explore how to develop, scale, and manage hotel assets for sustainable long-term value. They discuss balancing brand strategy with operational execution, precinct masterplanning across suburban and CBD hubs, turning windowless spaces into atrium gardens, managing hundreds of strata unit owners, and preserving the independent soul of boutique owner-operated retreats.",
         'panelists': [8, 10, 14, 15],
+        'panelist_focus': {
+            8: "Strategic brand positioning in asset development: avoiding vanilla commoditization and ensuring design matches operational delivery.",
+            10: "Precinct masterplanning, suburban vs CBD commercial shifts, wellness architecture, and converting internal windowless space into atrium gardens.",
+            14: "The 23-year boutique owner-operator journey: sustainable debt structures, lean staffing models, and preserving boutique soul.",
+            15: "Navigating large-scale portfolio acquisitions: managing complex strata-title relationships and respecting individual unit owners."
+        },
         'turns_map': {
             8: [35, 36, 37, 38],
-            10: [71, 72],
-            14: [6, 7],
-            15: [49, 50]
+            10: [60, 61, 62, 63, 64, 98, 99, 100, 101, 102, 103, 104],
+            14: [23, 24, 25, 26, 27],
+            15: [50, 51, 52, 53, 54]
         },
         'synthesis': [
             "Precinct Masterplanning and Mixed-Use Synergy: Modern hotel development thrives when integrated into vibrant, walkable commercial and cultural precincts rather than operating as isolated accommodation blocks.",
@@ -183,12 +232,20 @@ PANEL_DEFS = [
         'id': 'PANEL_07_Frontline_Guest_Experience_and_Service_Craft',
         'title': 'The Frontline Guest Experience and Service Craft Council',
         'theme': 'Frontline empathy, hyper-personalisation, concierge craft, service recovery, and turning high-friction guest moments into lifelong brand loyalty.',
+        'moderator_intro': "Welcome to the Frontline Guest Experience and Service Craft Council. All commercial strategies, digital technologies, and real estate masterplans ultimately converge on a single point: the frontline human service interaction. When a guest arrives tired, anxious, or facing an issue, the empathy, poise, and resourcefulness of frontline hotel staff define the brand experience.\n\nIn this roundtable, five master practitioners of guest service—Alexia Kalis, Tracy Martin, Greg Brady, Joaquin D'Orazio, and Jasmine Xie—examine the craft of frontline hospitality. They share why the formula of 'value equals benefit minus cost' defuses pricing friction, why antiquated practices like daily minibar inspections should be replaced with pre-arrival care, how dining in on-site restaurants enables authentic recommendations, and how a learning mindset turns high-pressure service moments into career-defining mastery.",
         'panelists': [2, 4, 6, 9, 11],
+        'panelist_focus': {
+            2: "Curating bespoke travel journeys: understanding guest emotional tone and using thoughtful inquiry to bypass generic OTA channels.",
+            4: "Commercial frontline diplomacy: the formula of value = benefit minus cost, and coaching teams that 'the guest is always a guest'.",
+            6: "Eliminating friction points: retiring the antiquated minibar inspection model and shifting to pre-arrival curated guest choices.",
+            9: "Walking in the guest's shoes: dining on property for two hours to deliver authentic, heartfelt recommendations.",
+            11: "The frontline learning mindset: cultivating curiosity, maintaining calm under pressure, and letting service excellence speak for itself."
+        },
         'turns_map': {
-            2: [9, 10],
-            4: [86, 87],
-            6: [58, 59],
-            9: [23, 24],
+            2: [28, 29, 30, 31, 32],
+            4: [56, 57, 58, 59, 60, 61],
+            6: [50, 51, 52, 53, 54, 55, 56, 57],
+            9: [23, 24, 25, 26, 27, 28],
             11: [51, 52, 53, 54]
         },
         'synthesis': [
@@ -207,6 +264,9 @@ for p in PANEL_DEFS:
     doc.append(f"**Moderator:** Shannon Knapp, CHIA (Founder, SKnapp Consulting)  ")
     doc.append(f"**Corpus Coverage:** Selected thematic panel from verified verbatim corpus  \n")
     doc.append("---\n")
+    doc.append("## Moderator Framing & Strategic Context\n")
+    doc.append(f"{p['moderator_intro']}\n")
+    doc.append("---\n")
     doc.append("## Virtual Panel Participants\n")
     
     for ep_num in p['panelists']:
@@ -214,25 +274,31 @@ for p in PANEL_DEFS:
         if ep_info:
             g = ep_info['guest']
             src_url = g['sources'][0]['source_url'] if g.get('sources') else "https://podcasters.spotify.com/pod/show/hotelier-huddle"
+            focus_text = p.get('panelist_focus', {}).get(ep_num, '')
             doc.append(f"* **{g['name']}** — {g['title']}, *{g['organization']}* (Episode {ep_num:02d}: *{ep_info['published_title']}*, Published {ep_info['published_date_utc'][:10]})")
+            if focus_text:
+                doc.append(f"  *Panelist Focus:* {focus_text}")
             doc.append(f"  *Source Provenance:* [{src_url}]({src_url})\n")
             
     doc.append("---\n")
-    doc.append("## Verbatim Panel Discussions and Dialogue Exchanges\n")
+    doc.append("## Verbatim Roundtable Dialogue Exchanges\n")
     
     for ep_num in p['panelists']:
         ep_info = EP_META.get(ep_num)
         turns = ALL_TRANSCRIPTS[ep_num]['turns']
         turn_indices = p['turns_map'].get(ep_num, [])
         if ep_info and turn_indices:
-            doc.append(f"### Expert Perspective: {ep_info['guest']['name']} (Episode {ep_num:02d})\n")
+            focus_sub = p.get('panelist_focus', {}).get(ep_num, '')
+            doc.append(f"### Expert Contribution: {ep_info['guest']['name']} ({ep_info['guest']['organization']} — Episode {ep_num:02d})\n")
+            if focus_sub:
+                doc.append(f"> *Discussion Theme: {focus_sub}*\n")
             for idx in turn_indices:
                 t = turns[idx]
                 doc.append(f"{t['timestamp']} **{t['speaker']}:** {t['text']}\n")
             doc.append("")
             
     doc.append("---\n")
-    doc.append("## Key Synthesis and Actionable Takeaways\n")
+    doc.append("## Key Strategic Synthesis and Actionable Takeaways\n")
     for s in p['synthesis']:
         doc.append(f"- **{s.split(':')[0]}:** {':'.join(s.split(':')[1:]).strip()}")
     doc.append("")
