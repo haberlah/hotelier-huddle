@@ -14,11 +14,12 @@ venv/
 .AppleDouble
 .LSOverride
 
-# Local audio binaries (Total 1.14 GB - download via scripts/download_audio.sh)
-audio/*.m4a
-audio/*.mp3
+# Local audio binaries (Total 1.14 GB - stream/download via scripts/download_audio.py)
+audio/
 *.m4a
 *.mp3
+*.wav
+*.aac
 
 # Scratch and temporary testing artifacts
 /tmp/

@@ -1,3 +1,5 @@
+![The Hotelier Huddle](assets/hotelier-huddle-logo.jpg)
+
 # The Hotelier Huddle: open source knowledge base
 
 [![License: CC BY 4.0](https://img.shields.io/badge/Content_License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
