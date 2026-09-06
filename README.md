@@ -36,7 +36,7 @@ This archive preserves Shannon's contribution so her legacy continues to support
 Clone or point your AI assistant directly at this directory:
 
 ```bash
-git clone __PROTECTED_TOKEN_10__
+git clone https://github.com/haberlah/hotelier-huddle.git
 ```
 
 All transcripts in `transcripts/` feature standardised YAML frontmatter, strict monotonic timestamps and verified speaker diarisation. You can ask:
@@ -47,13 +47,27 @@ All transcripts in `transcripts/` feature standardised YAML frontmatter, strict 
 
 ### 2. Model Context Protocol server
 
-Run the bundled MCP server locally with zero installation using `uvx`:
+#### Option A: Connect directly to the live Cloudflare endpoint (zero-install)
+Add the remote endpoint to your `claude_desktop_config.json` or Cursor MCP settings:
+
+```json
+{
+  "mcpServers": {
+    "hotelier-huddle": {
+      "url": "https://hotelier-huddle-mcp.haberlah.workers.dev/mcp"
+    }
+  }
+}
+```
+
+#### Option B: Run locally via Python
+Run locally with zero installation using `uvx`:
 
 ```bash
 uvx --from ./mcp_server hotelier-huddle-mcp
 ```
 
-Or add to your `claude_desktop_config.json`:
+Or configure via local python script:
 
 ```json
 {

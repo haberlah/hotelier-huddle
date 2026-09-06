@@ -1,0 +1,21 @@
+{
+  "name": "hotelier-huddle-mcp-worker",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker MCP Server for The Hotelier Huddle Knowledge Base",
+  "main": "src/index.ts",
+  "scripts": {
+    "build:corpus": "python3 ../scripts/bundle_corpus.py",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.0",
+    "agents": "^0.22.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250224.0",
+    "typescript": "^5.7.3",
+    "wrangler": "^4.112.0"
+  }
+}

@@ -25,3 +25,6 @@ audio/
 /tmp/
 *.log
 scratch/
+**/node_modules/
+**/.wrangler/
+cloudflare_worker/src/corpus.json
