@@ -1,12 +1,12 @@
-# The Non-Linear Career & Boardroom Capabilities Council
+# The Non-Linear Career and Boardroom Capabilities Council
 
-**Thematic Focus:** Recognizing the high-level, boardroom-grade transferable skills of hotel professionals, navigating non-linear career pivots, and going from night audit to CEO.  
+**Thematic Focus:** Recognising the high-level, boardroom-grade transferable skills of hotel professionals, navigating non-linear career pivots, and going from night audit to CEO.  
 **Moderator:** Shannon Knapp, CHIA (Founder, SKnapp Consulting)  
-**Corpus Coverage:** All 20 Published Episodes (Complete Verbatim Corpus)  
+**Corpus Coverage:** Selected thematic panel from verified verbatim corpus  
 
 ---
 
-## 🎙️ Virtual Panel Participants
+## Virtual Panel Participants
 
 * **Joaquin D'Orazio** — Guest Relations Professional, *The Boca Raton / HSMAI Peter Ricci Scholar* (Episode 09: *A Five Star Hotel Guest Relations Agent on Blending Profit, Purpose & Hyper-Personalisation*, Published 2025-11-14)
   *Source Provenance:* [https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/A-Five-Star-Hotel-Guest-Relations-Agent-on-Blending-Profit--Purpose--Hyper-Personalisation-e3aum20](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/A-Five-Star-Hotel-Guest-Relations-Agent-on-Blending-Profit--Purpose--Hyper-Personalisation-e3aum20)
@@ -25,66 +25,48 @@
 
 ---
 
-## 💬 Verbatim Panel Discussions & Dialogue Exchanges
+## Verbatim Panel Discussions and Dialogue Exchanges
 
 ### Expert Perspective: Joaquin D'Orazio (Episode 09)
 
-[01:06] **Shannon:** I'm so glad to talk to you. I'm so thrilled, and I'm so excited because even since we scheduled this chat, you got an amazing award through HSMAI the other night, and I want to hear all about that. But I do like to sort of run down the career journey so far of my guests so that people understand how qualified you are to be a member of the tribe, the hotelier tribe! So you started off at Descendants Brewing in—at the Old Ship Inn in New Jersey. Is Descendants Jersey Shore? That's not Jersey Shore, is it?
+[12:08] **Shannon:** Yeah, if—if not the hard way, so, you know, well done you. So Joaquin, for those that have never worked in a hotel or are brand new to the hospitality industry, or they might be thinking about studying like you have or starting out in a career like yours, in your specific role—let's look at that one—what's a day in the life of a Guest Relations Agent like?
 
-[01:18] **Joaquin D'Orazio:** So no, no. So it's actually—it sounds like it'd be on the Jersey Shore, but it's actually in—it's on Delaware. So by Pennsylvania. It's across—right across from Pennsylvania, Stockton, New Jersey, right across, yeah.
-
-[03:04] **Shannon:** Ah, okay. So that's a lifelong requirement. I got it. I got it. So you went from Descendants Brewing at the Old Ship Inn, and then you were a political intern for three months, and I'll be interesting to hear how that might inform your customer service skills to this day. And then you were in Jersey again as a customer service lead, social media marketing coordinator, and a barista making coffee. And I wonder if your current hotel gets you to make espressos for the—for them sometimes. I bet they do. And then you were an operations associate and a host for a year with Boutique Hospitality. And then you were a bit of an entrepreneur with D'Orazio Detailing. Can't wait to hear a little bit about that. Very entrepreneurial, very impressive. And then you took a career break, and you were able to go to Europe for a while, and you described that as taking time to travel in Europe to explore other cultures and hospitality trends in Europe, and then you relocated to Florida to begin the next chapter, which is your academic life and your professional journey. And now you're working full-time at the—a Boca Raton five-star luxury hotel. Now, correct me—I lived in Florida for 10 or 12 years a long time ago, but it's been a long time since I lived there. Do we pronounce it Boca Ra-tone or Boca Ra-tan? How do the locals say it these days?
-
-[03:17] **Joaquin D'Orazio:** Listen, I'm—I'm not an expert cause I'm from New Jersey. I've—I've gotten—I've gotten, you know, a couple talkings about how I say it, but I think from—it's the Boca Raton. I would say Boca Raton.
+[12:16] **Joaquin D'Orazio:** It's—it's a fun role. But it's usually, you know, normal shifts. You work 7:00 to 3:00, 3:00 to 11:00.
 
 
 ### Expert Perspective: Michael Johnson (Episode 12)
 
-[00:28] **Shannon:** Now, I always like to just run down really quickly a little bit about the career journey so far of my Hotelier Huddle guests. It's really interesting for my listeners and viewers to know who they're listening to. Now, it's a little bit tougher for you because your experience is so long-ranging and diverse. But I'm going to go through a lightning round, if that's okay, even though you already know this.
+[03:31] **Shannon:** That's That's a lot of years of evolution from starting with handwritten reservations all the way to AI chatbots. So, for someone just starting out today who might be wondering if this industry is a career or just a stepping stone, what made you stay? And was there ever anything that maybe almost nearly made you leave?
 
-[00:54] **Michael Johnson:** All right.
-
-[01:54] **Shannon:** That would have been a challenging pivot for sure. And then you moved to Oscars Hotels as a hotel development consultant. And I'll be interested to hear how that, you know, informed, you know, your subsequent roles, especially with a global hotel group where you moved to Pan Pacific Hotels Group and you were GM there at Parkroyal Melbourne Airport. Airport hotels, always a very tough, interesting gig.
-
-[02:21] **Michael Johnson:** They're a different beast.
+[03:56] **Michael Johnson:** I think the big thing that made me stay was the people, because it was a it was at a time when when hotels were were busy, we had great people, it was enjoyable, and I I just used to love it. And and when I say used to, I mean it was fantastic. It was a lot of fun, and it was a learning experience. So those early years for me, I was learning all the time. And I always had in the back of my mind that I'd have to go back to work. And it was a mentor, it was the general manager who said He used to call me Mick. He'd say, "Mick, what what are you doing with your life?" I said, "Oh, look, eventually I'll have to go back to Sydney and go back to work." He said, "What do you call what you're doing here?" I said, "Oh, this is just fun." So, lo and behold, he actually said, "Well, look, I think you've got opportunity, so what if we put you through some different departments and and and get you ready for when you do want to go back to Sydney and go back as a as a an assistant manager? Do you know what I mean? Don't, you know, don't leave the industry." And so, I didn't You know, I think I said to him, "Do they actually have hotels in Sydney?" Seriously. I had no idea. You know, it was it was very much I was very ignorant to the industry in Sydney, but I knew I knew a lot about it in Queenstown where I was at that time and who we were competing with. It was very early days in the industry, and as you say, we were on Whitney systems and Sweda Sweda punch-
 
 
 ### Expert Perspective: Kelley Wacher (Episode 13)
 
-[00:32] **Shannon:** Oh! Now, I always like to sort of go over the CV and the career journey so far of my guests. Not to read your CV at you, because you already know it, but just so that my listeners know just how qualified you are to be in the Huddle, and how amazing you are, and all of the different wildly interesting things that you've done in your career that we can all learn from, that I learn from all the time. So, I'd like, if I can, if you don't mind, I want to go right back to not the beginning beginning, but the beginning of when I met you a minute ago, which was way back to—well, five minutes ago, even. Yeah, five minutes ago. So, your first gig actually was sort of where I knew you initially, which was you were a youth worker with various youth organisations from 99 to 2001, and I know that informs how you work to this day. And I'm going to ask you some questions about that. You got your diploma of social welfare and social work from TAFE New South Wales. Wow. And then you were with Thomas Cook Travel from 1986 to 1996, 10 years, a decade with Thomas Cook. Wow, famous Thomas Cook. And then AMEX Global Business Travel for two years. And then long about the time when I met you is when you were with Carlson Wagonlit Travel. So, we were kind of in adjacent roles at Carlson, because I was at Radisson then, and you were the National Manager Hotel Programs in 1998 when I arrived in Sydney for my so-called temporary assignment! And you were one of the first industry people that I met in Australia, and I thought, "Oh! So, that's what they're like. Oh, this is going to be a breeze. It's going to be easy. Great. Wonderful, wonderful." And then you were with Radisson Hotels National Director of Sales '98 to '99. And then for seven whole years, you were Group Director of Sales with TFE Hotels until 2007. And now, you, having founded Corporate Magic, you're an executive coach and facilitator. 17 years, have I got those maths right?
+[12:35] **Shannon:** Yeah, absolutely right. Your career so far included a stint as a youth worker, and I wonder, how does rangling teenagers, including one of your own now by the way, prepare you for rangling corporate executives? Or are they surprisingly similar?
 
-[02:32] **Kelley Wacher:** I know, right? It's gone so fast!
-
-[05:17] **Shannon:** Interesting. Yeah.
-
-[05:19] **Kelley Wacher:** And why we do the things we do. So when I took my career break from hospitality and went back to work with, you know, adolescents at risk and youth work, that gave me an opportunity to really learn about people.
+[13:03] **Kelley Wacher:** You know what? It's very funny that you should ask that, because when I worked with youth—I worked with young people with drug and alcohol issues, I worked with kids with Asperger's and neurodiversity. And here's what I learned when I came back into corporate from that experience: Do you know what? The little things really don't matter. You know, when you go from teaching, when people come out and they've just read their first line of a book at 16 years of age, and then you go into to, you know, some—some corporate environments, and it's just—it's a real—was a real perspective-taking moment for me. And I do—I do think about that when I'm dealing with people now, executives now, because we need to get out of our own way sometimes.
 
 
 ### Expert Perspective: Janet McBain (Episode 16)
 
-[02:18] **Shannon:** Anyway, I digress. So, Janet McBain, I always like to, if you don't mind, I like to just run through, even though you already know it, um, a little bit about your experience and your career so far, just so that our audience knows just how wildly qualified you are to be in the Huddle, if you don't mind.
+[15:45] **Shannon:** Because you're fancy!
 
-[02:20] **Janet McBain:** In the Huddle!
-
-[05:01] **Shannon:** Yeah, you know, I, uh, I never worked at the Sebel Townhouse myself. In fact, I think it had, I don't think it had been demolished yet when I first started with Mirvac, but I've got the book about the Sebel Townhouse on my shelf. We could almost do a whole podcast, in fact, maybe I will, just about the Sebel Townhouse and the stories and the era. I mean, there's still a lot of people around that had amazing experiences there and have gone on to have, you know, amazing careers. But wow, the Sebel Townhouse.
-
-[05:02] **Janet McBain:** Yes.
+[16:58] **Janet McBain:** 'Cause I'm fancy! I'm fancy pants. Didn't feel that fancy at the time, I can assure you. Um, But one of the things that was important at that time for me was that I'd, you know, been working, working, working and doing wha- lots of great things in hotels, Mm. but it was it was, "Did I really know what I was doing? Did I really have those competencies?" And as it turned out, I did! You know, doing my MBA actually just was a bit of, um, it made it it made it real, Yeah. and it provided a bit of, uh, you know, external validity to the fact that, "Yes, I did in fact know what I was doing." Yeah. And I I I don't know whether, because in hotels we are so, uh, you know, we have such a service mentality, and we're so focused on our customers, that we actually undervalue all those skills. Oh, so interesting! I would never, um, you know, I think hotel managers are amazing, and they really, if there's a lesson, um, you know, be feel feel really proud of those skills. Sure. Um, and you can do anything you like. You just need to put your mind to it.
 
 
 ### Expert Perspective: Stephen Fraser (Episode 19)
 
-[01:38] **Shannon:** Right. So, thank you so much for doing this and for joining the Huddle today. Now, I always like to just go through just briefly your career experiences so far. Uh, not because you don't remember, but just so that my listeners are exactly clear on just how wildly qualified you are to be in the Hotelier Huddle. So, if I may, Stephen Fraser, you, tell me if I've got this right, you earned your Rooms Division diploma in hospitality from the Hotel School Australia. Is that right?
+[32:21] **Shannon:** Stephen, you've been a reservations agent, a manager, a consultant, a director, a lecturer, and now head of reservation services for pretty big organisation looking after lots and lots and lots of hotels. So for the listeners of Hotelier Huddle who might be feeling kind of burnt out in their current role and unsure of whether to stick with hospitality or maybe leave entirely because, let's face it, we have a lot of transferable skills in all different levels of hotel jobs... What in your journey so far has helped you navigate your own pivots, and you started to touch on this before, but I'm curious if you might have some advice for how people might recognise the difference between needing a new challenge versus needing a whole new industry?
 
-[02:17] **Stephen Fraser:** Correct. At the InterContinental, a few years ago now. But it was really cool, actually. They had two weeks on studying, two weeks off doing cleaning rooms or whatever. It was really a really fantastic course. 18 months at that stage. That's all changed now, but that's where I started.
-
-[05:01] **Shannon:** Yeah, and it's always a tremendous benefit when the students have facilitators who have done the jobs, so it's not, again, just purely academic, but they're speaking from experience. So, amazing. And then you were Central Reservation Services Manager at what was Mirvac Hotels and then became Accor Australia and New Zealand for 9 and a half years—probably felt like 9 and a half and the rest! Then you were Director of Reservation Services for Event Entertainment Group for a year and a half. Then you took a very fascinating sort of sideways turn, and still in the industry, you were Head of Service Delivery for GDS and the Director of Shared Services for SiteMinder for 4 years. Global Distribution Systems, again GDS for those playing hotel acronym bingo. Then you were Senior Lead Global Support for Shopify for 2 and a half years. Fascinating! And now, you are Head of Reservation Services for EVT Connect Hospitality for the last 2 years. Did I miss anything?
-
-[06:08] **Stephen Fraser:** I think you've got it all. Yeah, yeah, it's um done quite a bit actually, if you—[Laughter] Well, I have done a few things.
+[33:14] **Stephen Fraser:** Yeah, that's an excellent question. Um, I think because a lot of what's happened with me, I mean, as you know, I've changed a few a few times. Um, so the moves I've made...
 
 
 ---
 
-## 📌 Key Synthesis & Actionable Takeaways
+## Key Synthesis and Actionable Takeaways
 
-- **Core Council Finding:** Across the participating experts, successful execution requires breaking departmental silos, measuring success through net profitability and long-term asset value rather than short-term vanity metrics, and cultivating authentic leadership presence.
-- **Implementation Mandate:** Hoteliers should adopt regular cross-functional standups and empower frontline teams with clear parameters.
+- **Undervalued Hospitality Competencies:** Hotel managers orchestrate complex, multi-million-dollar operational ecosystems daily. These management competencies directly transfer to corporate executive leadership, facilities, and board governance.
+- **The Night Audit Foundation:** Starting in frontline, unsocial-hours roles builds thorough operational resilience, financial literacy, and crisis resolution skills that ground future executive leadership.
+- **Embracing Non-Linear Pivots:** Hospitality careers rarely follow rigid straight lines. Diversifying across disciplines—from operations and sales to education and asset management—builds multifaceted perspective.
+- **Confidence and External Validation:** Pursuing formal business education or professional board roles often validates what experienced hoteliers already practise intuitively on the hotel floor.

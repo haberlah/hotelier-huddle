@@ -136,6 +136,15 @@ function queryThematicCouncil(councilId: string): string {
   ).join(", ")}`;
 }
 
+function getQuestionKb(questionId: string): string {
+  const cleanId = questionId.toLowerCase().replace(/^kb_/, "");
+  const content = corpus.questions[cleanId];
+  if (content) {
+    return content;
+  }
+  return `Question KB '${questionId}' not found. Available question IDs: q1, q2, q3, q4, q5.`;
+}
+
 function getHospitalityTerm(term: string): any {
   const tLower = term.toLowerCase();
   const found = corpus.glossary_terms.find(
@@ -234,6 +243,21 @@ const MCP_TOOLS = [
       },
       required: ["term"]
     }
+  },
+  {
+    name: "get_question_kb",
+    description:
+      "Retrieve one of the 5 signature question knowledge bases across the corpus: 'q1' (Accidental Hotelier / Origins), 'q2' (Sales vs Revenue / Commercial Alignment), 'q3' (Advice to Emerging Hoteliers & Younger Self), 'q4' (Technology, AI vs Human Touch), 'q5' (Final Toast Anthology).",
+    inputSchema: {
+      type: "object",
+      properties: {
+        question_id: {
+          type: "string",
+          description: "Question identifier: 'q1', 'q2', 'q3', 'q4', or 'q5' (or 'kb_q1' etc.)"
+        }
+      },
+      required: ["question_id"]
+    }
   }
 ];
 
@@ -331,6 +355,8 @@ function handleJsonRpc(req: any): any {
         resultText = queryThematicCouncil(args.council_id);
       } else if (toolName === "get_hospitality_term") {
         resultText = JSON.stringify(getHospitalityTerm(args.term), null, 2);
+      } else if (toolName === "get_question_kb") {
+        resultText = getQuestionKb(args.question_id);
       } else {
         return {
           jsonrpc: "2.0",
@@ -443,9 +469,9 @@ export default {
       return new Response(null, { headers: CORS_HEADERS });
     }
 
-    // 2. Streamable HTTP MCP Endpoint (/mcp or POST /)
+    // 2. Streamable HTTP MCP Endpoint (/mcp, /, or /sse)
     if (
-      (url.pathname === "/mcp" || url.pathname === "/") &&
+      (url.pathname === "/mcp" || url.pathname === "/" || url.pathname === "/sse") &&
       request.method === "POST"
     ) {
       try {
@@ -476,6 +502,28 @@ export default {
           }
         );
       }
+    }
+
+    // 2b. Streamable HTTP GET SSE stream for notifications & keep-alive
+    if (
+      (url.pathname === "/mcp" || url.pathname === "/") &&
+      request.method === "GET" &&
+      request.headers.get("Accept")?.includes("text/event-stream")
+    ) {
+      const { readable, writable } = new TransformStream();
+      const writer = writable.getWriter();
+      const encoder = new TextEncoder();
+
+      writer.write(encoder.encode(`: connected\n\n`));
+
+      return new Response(readable, {
+        headers: {
+          ...CORS_HEADERS,
+          "Content-Type": "text/event-stream",
+          "Cache-Control": "no-cache",
+          "Connection": "keep-alive"
+        }
+      });
     }
 
     // 3. Server-Sent Events Endpoint (/sse)

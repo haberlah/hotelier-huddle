@@ -1,12 +1,12 @@
-# The Hotel Development, Precincts & Asset Strategy Council
+# The Hotel Development, Precincts and Asset Strategy Council
 
 **Thematic Focus:** Masterplanning tomorrow’s hotels: wellness as revenue, mixed-use precinct integration, adaptive reuse, strata-title economics, and owner-operator lifestyle balance.  
 **Moderator:** Shannon Knapp, CHIA (Founder, SKnapp Consulting)  
-**Corpus Coverage:** All 20 Published Episodes (Complete Verbatim Corpus)  
+**Corpus Coverage:** Selected thematic panel from verified verbatim corpus  
 
 ---
 
-## 🎙️ Virtual Panel Participants
+## Virtual Panel Participants
 
 * **Eve Weatherburn** — Founder & Managing Director, *Brand Journey Partner* (Episode 08: *Crafting a Distinct Brand: Lessons from a Hotel Industry Expert*, Published 2025-11-07)
   *Source Provenance:* [https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Crafting-a-Distinct-Brand-Lessons-from-a-Hotel-Industry-Expert-e3akh6j](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Crafting-a-Distinct-Brand-Lessons-from-a-Hotel-Industry-Expert-e3akh6j)
@@ -22,35 +22,27 @@
 
 ---
 
-## 💬 Verbatim Panel Discussions & Dialogue Exchanges
+## Verbatim Panel Discussions and Dialogue Exchanges
 
 ### Expert Perspective: Eve Weatherburn (Episode 08)
 
-[00:47] **Shannon:** It has. It's been too long, too long. Um now I always like to just run down, not to read your CV at you, but I like to run down the career journey so far and experience of my guests, just so that my listeners get a sense of how wildly qualified you are to be a member of the of the tribe, of the hotelier tribe, and who they're listening to. So you were—and I'm going to start with this one, cause this role is where you and I met forever ago—you were Director Brand Marketing Asia Pacific for Carlson and Radisson Hotels. Gosh, that was a few minutes ago, wasn't it, Eve?
+[12:09] **Shannon:** It sure is. It makes more sense in some hotel physical properties than others. But, you know, we knew this back in the Mirvac days, because Mirvac owned and operated a lot of shopping centres, and then they got into the hotel business. And shopping centres, to your point, in Australia, they measure measured their profitability by square metre. And hotels can do the same thing, and it just opens up a revenue manager's mind and brain and opportunity about different ways to earn income in literally every square metre of the property, so. Thank you for saying that!
 
-[01:27] **Eve Weatherburn:** M-m, we won't count how many decades!
+[12:43] **Eve Weatherburn:** Yeah. No, no, it was the same it was the same at GPT, because I worked in the retail division, but they had the business parks and the commercial towers, all the big commercial towers in Sydney, you know, a lot of them were owned by that group. And they did the same. And even if you look at residential, you'll often see the the cost per square metre. So I'm like, why is why is this one property asset category, being hotels, different? And I can only assume, could be wrong, tell me, you're you're the expert in this space, it could be that the property management systems or the technology over years has tracked rate, and then it tracked F&B, it's like add-ons, but I would love it if there's somewhere out there that really does measure that way, because I think hotels are creative, but maybe the the system doesn't allow them to measure that way.
 
-[01:29] **Shannon:** No! No, no, absolutely not. Uh and then you were Vice President Marketing at The Minor Group and Anantara Hotels and Resorts. Then Vice President Brand Management Asia, Middle East and Africa for InterContinental Hotels Group. Wow, that's like practically most of Earth, right?
+[13:25] **Shannon:** Oh, that's indeed always the way, and you know, hotels have costs for every single square metre of a property, whether it's energy, staff, insurance, um FF&E (furniture, fixtures and equipment). There's costs associated with every single square inch of a property, and so if you can earn profit on that space as well. And yes, it's because most PMS systems were invented all about the rooms, and were invented just to make a key to the door and assign room numbers to the name of who was arriving on that day. It wasn't really profit-focused until, you know, more recently. Eve Weatherburn, if you could force every hotel brand to fix one thing about their brand strategy tomorrow, what would it be?
 
-[01:49] **Eve Weatherburn:** Half of the planet!
+[14:13] **Eve Weatherburn:** Can I have two? Um okay, so I'm not going to say every brand has this challenge, but one of the challenges I see, and this can be big big group brands, you know, independents, boutique—some do it great, but a lot of them are still trying to be everything to everybody. And so I would challenge whoever's leading that brand, whether it's the business leader or a brand leader, is take a step back and work out, who do you want to design your brand for? Like, be specific, right? Don't be afraid that you're going to lose business because you're thinking of one particular customer profile or persona. And I'm not talking segment, I'm talking about that persona of a person who travels maybe for different reasons. If you think back to the days, you know, I used to work at Starwood many years ago, remember when the W hotel brand launched, right? And that was a that was a game-changer in the industry, and everyone was like, "Oh, that's that's like fancy!" That's got a big personality. That's that's not going to The I think the saying at the time was, "Not everybody's going to like that." That's the whole point, right? Because—
 
 
 ### Expert Perspective: Andrew Taylor (Episode 10)
 
-[00:31] **Shannon:** My guest today on The Hotelier Huddle is Andrew Taylor. His career journey so far includes Development Manager, Mirvac from 2006 to 2011, which is where we met, where he was signing deals so fast my team and I could barely catch a breath between setting them live for bookings. And then he was Director of Acquisitions and Development for Pacific Region Starwood Hotels and Resorts worldwide for nearly six years, if I've got that right? And now Andrew is Founder and Managing Director of Creative Property since 2017. Nearly nine years, wow, I wonder if it feels like that. Welcome Andrew.
+[22:15] **Shannon:** That's interesting. And maybe you can educate me here, but when I hear precinct or district, I think of, um, and I know you've done some exploratory trips around New York as well, not so much the Dumbo area, but like the High Line area of New York City, like is that a similar precinct to what you're describing where they've redeveloped and repurposed a lot of facilities there, and there are some very funky edgy hotels there as well? Is that a similar thing, is that what you're talking about?
 
-[01:13] **Andrew Taylor:** Thank you.
-
-[01:35] **Shannon:** I know, right? I know. That's a little bit scary, but I'll take Yeah, I'll take it. I'll take it. I'd like to start right back at the beginning of your working life, Andrew, if I may, because you trained as a lawyer, but you built your career developing hotels, which I I just wonder, what made you realize that arguing about hotels was less fun than actually building them? Or or is argument still a required element and that's actually fun for you?
-
-[02:08] **Andrew Taylor:** I think I was desperate to get out of the law, to be honest. Like to be perfectly frank. So, I wasn't probably the best legal practitioner there was and and fair to say I don't have my practicing certificate anymore. But it's it's such a great degree, Shannon, because it helps you navigate so many things being a lawyer, right? So, and when you and I met, I think it was when I had spent about five or six years in the world of commercial law and I got a bit of a taste for real estate development by working in some commercial, you know, practices doing leasing and property development. I had a client that was developing pubs and, you know, hospitality venues. But what I realized was that rather than being the guy who was kind of trying to keep our clients out of trouble, I wanted to be the the guy that was navigating all the all the trouble, all the fun. So, yeah, in a nutshell, I guess I I realized that my passion was for working in the deal, not just on the deal, you know? So, I think that's
+[22:45] **Andrew Taylor:** Yeah, yeah. Well, I mean, on a grand scale, Hudson Yards did it incredibly well with um hotels, office. Um, the other thing I'd throw in there these days is wellness. Wellness has become the new
 
 
 ### Expert Perspective: Jean-Christophe Buillet (Episode 14)
-
-[00:00] **Shannon:** In today's huddle, I travelled virtually to Sedona, Arizona, to talk with a wildly successful hotelier, the owner-operator of a Sunset Chateau Resort. He shared his insights on the behind-the-scenes hard work required to create magical guest experiences, and also how his computer engineering degree prepared him for the beautifully chaotic world of hospitality. I hope you enjoy the chat as much as I did. [00:34] Jean-Christophe Bouillet, thank you so much for doing this. I really appreciate you taking the time. By the way, I'm always pronouncing your surname Bouillet. Have I got that right?
-
-[00:44] **Jean-Christophe Buillet:** Uh, it's it's a tough name. Jean-Christophe Bouillet is my—not a not a good American name, but that's okay. I've I've I've lived with it for a while, so. You can call me whatever you like though, I won't I won't complain.
 
 [01:48] **Shannon:** Yeah, most hotel gigs are, right? Especially when you're an owner-operator. That's just That's how you roll. So, Sunset Chateau, it's been your baby since you were a baby, since 2003. Um What's What's one thing about the property or your hotelier approach that maybe you've stubbornly refused to change, or one thing you wish you'd evolved sooner, perhaps?
 
@@ -59,18 +51,16 @@
 
 ### Expert Perspective: Andrew Turner (Episode 15)
 
-[00:24] **Shannon:** In this episode of The Hotelier Huddle, I was joined by Andrew Turner, the Head of Development for Minor Hotels. You'll hear all about his career journey so far, where he's built hotel portfolios from seven properties worth 150 million bucks to 48 properties worth 1.8 billion. You'll also hear about Andrew's advice for someone with a good idea, but no seat in the boardroom yet. And we spoke a lot about the importance of mentors and surrounding yourself in this industry with the right people. It was a great chat with a great chap. Enjoy. Andrew Turner, thank you so much for joining The Hotelier Huddle today. I really really appreciate you taking the time to do this. It's nice to see you.
+[23:15] **Shannon:** Yeah, and maybe it's you know, I find that with acknowledgements of any sort, it kind of fuels your moxie to go onto the next thing and, you know, gives you just a little bit of, you know, gravitas to try something else on. So, um, and having worked across full-service hotels, serviced apartments, um Strata hotels, and various brand segments, like we mentioned, is there one operational reality from any of these categories that you think more hotel professionals should better understand regardless of where they work? Like, is there anything that you think, you know, uh some hotel professionals really just need to better understand that you've observed in all these different segments that really needs to be better understood?
 
-[01:11] **Andrew Turner:** Great to see you.
-
-[01:12] **Shannon:** If it's okay, I'm just going to cover your career journey so far, not that you need to be reminded, but for the benefit of my listeners to appreciate just how qualified you are to be a member of The Hotelier Huddle. So, you are an inductee for the Hotel HM Magazine Hall of Fame, recipient of the Hotel of the Year at the HM Awards. You were CEO of Mirvac Hotels & Resorts, which is where I met you, um where you grew the business from seven properties under management with assets valued at 150 million to 48 properties under management with assets valued at 1.8 billion with a B, my dear listeners. Then you were EVP Hotel Management at SilverNeedle Hospitality where you introduced the NEXT and Sage brands to the market. Then you were VP of Acquisitions Asia for Mantra Group, where you opened the Singapore office and did a whole bunch of deals. Then you were Group Director of Development at Lancemore Group, and now you are Head of Development for Minor Hotels. Have I missed anything?
-
-[02:19] **Andrew Turner:** Well, you missed my primary school, secondary school, university, um No, you haven't missed anything. Those are the highlights. I would say, the highlights and the lowlights.
+[24:05] **Andrew Turner:** In my view, the critical thing is knowing that they're all different, you know, and like serviced apartments are Yes. expanding part of the business, but they are different. Especially Strata companies, where it's a different diff- business model, which are different to hotels. In some respects, resorts are different too, you know, in terms of this. So, yeah, I think the the main takeaways of it is there there are so many different uh aspects to each of those ones. And we and we, you know, at at at Mirvac and at Mantra, we were pretty damn good at running serviced apartments. You know, we we made that a we made that a Yeah. a real quality product, I think. And and at Mirvac it was it was great because we built our own serviced apartments, so, and they were really high-quality buildings. Uh Mantra's developed a whole system of of looking after property owners, cuz serviced apartments are different in that in one building, you've got 100 owners, not one owner, you know. And Mantra were incredibly good at Yes. developing a system that really looked after owners. They had a whole dep- department of people. They realized that their customer was, you know, when they had several customers really. One was the uh owner of the real estate, the other was the you know, the hotel client. So, um that that was it. And I hate to say it, but I mean Accor bought both Mirvac and and Mantra when you think about it. And I don't think, and they might admit it, I don't know, but I don't think they appreciate, certainly when they bought Mirvac, this this was a different business, you know, and they had they they couldn't just say, "We're going to run this business like we run Accor hotels, cuz we've got 2,500 of them around the world, therefore we'll apply our No. what we do what we do so well in the rest of the world, and we'll apply it to this business in Australia, because we know it." And I don't think it worked particularly well cuz they didn't really realize that it was very very different, you know?
 
 
 ---
 
-## 📌 Key Synthesis & Actionable Takeaways
+## Key Synthesis and Actionable Takeaways
 
-- **Core Council Finding:** Across the participating experts, successful execution requires breaking departmental silos, measuring success through net profitability and long-term asset value rather than short-term vanity metrics, and cultivating authentic leadership presence.
-- **Implementation Mandate:** Hoteliers should adopt regular cross-functional standups and empower frontline teams with clear parameters.
+- **Precinct Masterplanning and Mixed-Use Synergy:** Modern hotel development thrives when integrated into vibrant, walkable commercial and cultural precincts rather than operating as isolated accommodation blocks.
+- **Wellness as an Integrated Revenue Engine:** Transitioning wellness from an underutilised basement gym into a central guest amenity drives premium average daily rate (ADR) and guest length of stay.
+- **Strata-Title Realities:** Managing strata-titled properties requires balancing relationships across dozens or hundreds of individual property owners alongside commercial guests, demanding specialised operational governance.
+- **Valuing the People in M&A:** Acquiring hotel portfolios or management rights is fundamentally an acquisition of human capability and systems, not merely physical real estate.

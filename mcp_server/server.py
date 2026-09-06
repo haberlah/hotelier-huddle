@@ -178,6 +178,34 @@ def query_thematic_council(council_id: str) -> str:
     return f"Council document {fname} not found."
 
 @mcp.tool()
+def get_question_kb(question_id: str) -> str:
+    """
+    Retrieve one of the 5 signature question knowledge bases across the corpus:
+    - 'q1': Accidental Hotelier (Origins & Career Entry)
+    - 'q2': Will Sales and Revenue Ever See Eye to Eye?
+    - 'q3': Advice to Emerging Hoteliers & Younger Self
+    - 'q4': Technology, AI & Human Touch
+    - 'q5': Final Toast Anthology
+    """
+    q_map = {
+        "q1": "KB_Q1_The_Accidental_Hotelier_Origins_and_Career_Pivots.md",
+        "q2": "KB_Q2_Will_Sales_and_Revenue_Ever_See_Eye_To_Eye.md",
+        "q3": "KB_Q3_Advice_to_Emerging_Hoteliers_and_Younger_Self.md",
+        "q4": "KB_Q4_Technology_AI_vs_The_Human_Touch_in_Hospitality.md",
+        "q5": "KB_Q5_The_Final_Toast_Anthology_to_Hospitality_Workers.md"
+    }
+    clean_id = question_id.lower().replace("kb_", "")
+    fname = q_map.get(clean_id)
+    if not fname:
+        return f"Question KB '{question_id}' not found. Available keys: {list(q_map.keys())}"
+        
+    q_path = os.path.join(QUESTIONS_DIR, fname)
+    if os.path.exists(q_path):
+        with open(q_path, 'r', encoding='utf-8') as f:
+            return f.read()
+    return f"Question document {fname} not found."
+
+@mcp.tool()
 def get_hospitality_term(term: str) -> Dict[str, str]:
     """
     Lookup any specialized hotel metric or system in the Hospitality Terminology Register

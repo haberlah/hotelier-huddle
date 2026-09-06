@@ -51,8 +51,6 @@ def parse_transcript(file_path):
 
 ALL_TRANSCRIPTS = {}
 for ep_num, ep_info in EP_META.items():
-    if ep_info.get('transcription_status') == 'MISSING_LOCAL_AUDIO':
-        continue
     md_candidates = glob.glob(os.path.join(FOLDER, "transcripts", f"{ep_num:02d}-*.md"))
     if md_candidates:
         fpath = md_candidates[0]
@@ -65,116 +63,140 @@ for ep_num, ep_info in EP_META.items():
 
 print(f"Loaded {len(ALL_TRANSCRIPTS)} transcripts into memory.")
 
-def find_exchanges(ep_num, keywords, max_exchanges=2):
-    ep_data = ALL_TRANSCRIPTS.get(ep_num)
-    if not ep_data:
-        return []
-    
-    turns = ep_data['turns']
-    results = []
-    
-    for i in range(len(turns) - 1):
-        t_curr = turns[i]
-        t_next = turns[i+1]
-        
-        # Match Shannon prompt and Guest answer
-        if t_curr['speaker'] == 'Shannon' and t_next['speaker'] != 'Shannon':
-            combined_text = (t_curr['text'] + " " + t_next['text']).lower()
-            if any(k.lower() in combined_text for k in keywords):
-                results.append({
-                    'ep_num': ep_num,
-                    'meta': ep_data['meta'],
-                    'question': t_curr,
-                    'response': t_next
-                })
-                if len(results) >= max_exchanges:
-                    break
-                    
-    # Fallback to substantive exchanges if keywords were narrow
-    if not results and len(turns) >= 6:
-        for i in range(2, min(len(turns) - 1, 15)):
-            t_curr = turns[i]
-            t_next = turns[i+1]
-            if t_curr['speaker'] == 'Shannon' and t_next['speaker'] != 'Shannon':
-                if len(t_next['text']) > 150:
-                    results.append({
-                        'ep_num': ep_num,
-                        'meta': ep_data['meta'],
-                        'question': t_curr,
-                        'response': t_next
-                    })
-                    if len(results) >= 1:
-                        break
-    return results
-
-def find_toasts():
-    toasts = []
-    for ep_num in sorted(ALL_TRANSCRIPTS.keys()):
-        ep_data = ALL_TRANSCRIPTS[ep_num]
-        turns = ep_data['turns']
-        for i in range(len(turns) - 1, max(0, len(turns) - 20), -1):
-            t = turns[i]
-            if t['speaker'] == 'Shannon' and any(w in t['text'].lower() for w in ['toast', 'raise a glass', 'raising a glass', 'final toast']):
-                if i + 1 < len(turns) and turns[i+1]['speaker'] != 'Shannon':
-                    guest_turn = turns[i+1]
-                    toasts.append({
-                        'ep_num': ep_num,
-                        'meta': ep_data['meta'],
-                        'shannon_turn': t,
-                        'guest_turn': guest_turn
-                    })
-                    break
-    return toasts
-
 PANEL_DEFS = [
     {
         'id': 'PANEL_01_Commercial_Alignment_Sales_vs_Revenue',
-        'title': 'The Commercial & Revenue Management Mastermind: Net Profitability & Distribution',
+        'title': 'The Commercial and Revenue Management Mastermind: Net Profitability and Distribution',
         'theme': 'Shifting from vanity occupancy to net profitability (Net RevPAR, GOPPAR, TRevPAR); eliminating rate day-trading; applying MLOS demand filters; and managing channel distribution costs.',
         'panelists': [1, 3, 7, 17, 20],
-        'keywords': ['sales', 'revenue', 'net revpar', 'goppar', 'trevpar', 'day trading', 'rate', 'discount', 'ota', 'booking', 'commission', 'standup', 'housekeeping', 'pace', 'car rental', 'airline', 'demand']
+        'turns_map': {
+            1: [46, 47],
+            3: [22, 23],
+            7: [19, 20],
+            17: [36, 37, 70, 71, 72],
+            20: [67, 68, 75, 76]
+        },
+        'synthesis': [
+            "Shifting from Vanity Occupancy to Net Profit: Full hotels are not necessarily the most profitable. High occupancy achieved through heavy OTA discounting inflates variable operating expenses and commission burdens, degrading net operating margins.",
+            "Eliminating Rate Day-Trading: Top commercial leaders treat revenue management as strategic positioning rather than continuous tactical rate adjustments. Setting disciplined parameters and moving decisions into the 'done pile' creates mental clarity.",
+            "De-Jargoning Commercial Communication: Revenue leaders must translate technical metrics (RevPAR, MPI, ARI) into plain business language so general managers, sales teams, and food and beverage directors understand commercial strategy.",
+            "Collaborative Commercial Culture: Bridging the traditional divide between sales and revenue management requires shared profitability goals, mutual commercial empathy, and short, cross-departmental standups."
+        ]
     },
     {
         'id': 'PANEL_02_AI_Technology_and_the_Human_Touch',
-        'title': 'The AI Operating System & Intelligent Hotel Technology Council',
-        'theme': 'The emerging AI Operating System, enterprise data boundaries, SLMs vs. LLMs, RAG architecture, and protecting genuine human empathy alongside autonomous operational workflows.',
+        'title': 'The AI Operating System and Intelligent Hotel Technology Council',
+        'theme': 'The emerging AI operating system, enterprise data boundaries, SLMs vs LLMs, RAG architecture, and protecting genuine human empathy alongside autonomous operational workflows.',
         'panelists': [1, 5, 10, 11, 14, 18],
-        'keywords': ['ai', 'technology', 'artificial intelligence', 'operating system', 'tech', 'algorithm', 'system', 'data', 'security', 'software', 'human', 'personalisation', 'waitlist', 'bias', 'forecasting']
+        'turns_map': {
+            1: [114, 115],
+            5: [33, 34, 40, 41],
+            10: [113, 114],
+            11: [43, 44],
+            14: [22, 23],
+            18: [61, 62, 63, 64]
+        },
+        'synthesis': [
+            "Technology as an Operational Liberator: Automation and artificial intelligence should eliminate administrative friction and repetitive data entry, freeing staff to focus on genuine guest hospitality.",
+            "Enterprise Data Boundaries and Trust: Deploying AI systems in hospitality demands strict isolation of proprietary commercial data and guest profiles from public model training datasets.",
+            "The Irreplaceability of Human Empathy: While automated systems handle inquiries and booking changes efficiently, complex guest friction, emotional recovery, and hospitality magic depend entirely on human connection.",
+            "Soft Skills as the Ultimate Edge: As analytical and predictive tasks become automated, emotional intelligence, persuasion, and cross-functional leadership become the primary differentiators for hospitality professionals."
+        ]
     },
     {
         'id': 'PANEL_03_Crisis_Management_Brand_Recovery_and_Resilience',
-        'title': 'The Crisis Management & Brand Resilience Council',
+        'title': 'The Crisis Management and Brand Resilience Council',
         'theme': 'Navigating natural disasters, pandemics, PR crises, economic downturns, and market disruption with calm leadership and transparent brand communications.',
         'panelists': [1, 2, 8, 12, 14],
-        'keywords': ['crisis', 'hurricane', 'storm', 'aruba', 'emergency', 'covid', 'reputation', 'truth', 'brand', 'recovery', 'downturn', 'disaster', 'resilience']
+        'turns_map': {
+            1: [19, 20],
+            2: [23, 24],
+            8: [66, 67],
+            12: [50, 51, 52, 53],
+            14: [6, 7]
+        },
+        'synthesis': [
+            "Calm, Transparent Leadership in Crisis: Whether facing hurricane damage, sudden lockdown orders, or severe downturns, leadership requires clear, transparent communication with staff and guests.",
+            "Industry Solidarity Over Pure Competition: During systemic crises like the COVID-19 pandemic, fierce commercial competitors must unite to advocate for industry survival, government wage support, and workforce retention.",
+            "Brand Equity as Economic Insurance: Properties with distinctive, authentic brand identity weather downturns far better than commoditised assets, avoiding the destructive spiral of pure price discounting.",
+            "Operational Adaptability: Surviving disruption requires rapid delegation, letting go of rigid procedural perfection, and empowering frontline operators to adapt to immediate physical realities."
+        ]
     },
     {
         'id': 'PANEL_04_Leadership_Culture_and_People_Over_Profit',
-        'title': 'The Modern Hotelier Leadership Council: People Over Spreadsheets & Frontline Empowerment',
-        'theme': 'General Manager leadership lessons; daily 15-minute leadership habits; prioritizing employee culture (eNPS); frontline empowerment; and hiring leaders smarter than yourself.',
+        'title': 'The Modern Hotelier Leadership Council: People Over Spreadsheets and Frontline Empowerment',
+        'theme': 'General Manager leadership lessons; daily 15-minute leadership habits; prioritising employee culture (eNPS); frontline empowerment; and hiring leaders smarter than yourself.',
         'panelists': [2, 6, 12, 13, 15, 18],
-        'keywords': ['leader', 'leadership', 'culture', 'team', 'mentor', 'mentoring', 'habit', 'burnout', 'people', 'employee', 'receptionist', 'coach', 'coaching', 'kindness', 'serving', 'general manager']
+        'turns_map': {
+            2: [45, 46, 47, 48],
+            6: [28, 29, 30],
+            12: [92, 93, 94, 95],
+            13: [73, 74],
+            15: [39, 40],
+            18: [65, 66, 67, 68]
+        },
+        'synthesis': [
+            "People Over Spreadsheets: Sustainable commercial results stem from supported, valued hotel teams. Prioritising employee net promoter scores (eNPS) directly correlates with guest satisfaction and property profitability.",
+            "Daily Intentional Leadership Habits: Setting aside dedicated daily time to walk the floor, check in on frontline staff, and engage directly with teams builds trust faster than executive reports.",
+            "Empowerment and Psychological Safety: Frontline staff must have clear authority to resolve guest grievances on the spot without fear of reprimand from management.",
+            "Saying Yes to Growth: Fostering a culture where emerging professionals are encouraged to take on unfamiliar responsibilities accelerates career progression and drives organisational agility."
+        ]
     },
     {
         'id': 'PANEL_05_Non_Linear_Careers_and_Boardroom_Skills',
-        'title': 'The Non-Linear Career & Boardroom Capabilities Council',
-        'theme': 'Recognizing the high-level, boardroom-grade transferable skills of hotel professionals, navigating non-linear career pivots, and going from night audit to CEO.',
+        'title': 'The Non-Linear Career and Boardroom Capabilities Council',
+        'theme': 'Recognising the high-level, boardroom-grade transferable skills of hotel professionals, navigating non-linear career pivots, and going from night audit to CEO.',
         'panelists': [9, 12, 13, 16, 19],
-        'keywords': ['career', 'pivot', 'transferable', 'boardroom', 'facilities', 'saying yes', 'night audit', 'underrating', 'skills', 'reputation', 'experience', 'entry', 'dishwasher', 'scholarship']
+        'turns_map': {
+            9: [37, 38],
+            12: [16, 17],
+            13: [41, 42],
+            16: [66, 67],
+            19: [92, 93]
+        },
+        'synthesis': [
+            "Undervalued Hospitality Competencies: Hotel managers orchestrate complex, multi-million-dollar operational ecosystems daily. These management competencies directly transfer to corporate executive leadership, facilities, and board governance.",
+            "The Night Audit Foundation: Starting in frontline, unsocial-hours roles builds thorough operational resilience, financial literacy, and crisis resolution skills that ground future executive leadership.",
+            "Embracing Non-Linear Pivots: Hospitality careers rarely follow rigid straight lines. Diversifying across disciplines—from operations and sales to education and asset management—builds multifaceted perspective.",
+            "Confidence and External Validation: Pursuing formal business education or professional board roles often validates what experienced hoteliers already practise intuitively on the hotel floor."
+        ]
     },
     {
         'id': 'PANEL_06_Hotel_Development_Precincts_and_Asset_Strategy',
-        'title': 'The Hotel Development, Precincts & Asset Strategy Council',
+        'title': 'The Hotel Development, Precincts and Asset Strategy Council',
         'theme': 'Masterplanning tomorrow’s hotels: wellness as revenue, mixed-use precinct integration, adaptive reuse, strata-title economics, and owner-operator lifestyle balance.',
         'panelists': [8, 10, 14, 15],
-        'keywords': ['development', 'precinct', 'wellness', 'strata', 'owner', 'operator', 'boutique', 'gym', 'conversion', 'real estate', 'billion', 'portfolio', 'growth', 'brand']
+        'turns_map': {
+            8: [35, 36, 37, 38],
+            10: [71, 72],
+            14: [6, 7],
+            15: [49, 50]
+        },
+        'synthesis': [
+            "Precinct Masterplanning and Mixed-Use Synergy: Modern hotel development thrives when integrated into vibrant, walkable commercial and cultural precincts rather than operating as isolated accommodation blocks.",
+            "Wellness as an Integrated Revenue Engine: Transitioning wellness from an underutilised basement gym into a central guest amenity drives premium average daily rate (ADR) and guest length of stay.",
+            "Strata-Title Realities: Managing strata-titled properties requires balancing relationships across dozens or hundreds of individual property owners alongside commercial guests, demanding specialised operational governance.",
+            "Valuing the People in M&A: Acquiring hotel portfolios or management rights is fundamentally an acquisition of human capability and systems, not merely physical real estate."
+        ]
     },
     {
         'id': 'PANEL_07_Frontline_Guest_Experience_and_Service_Craft',
-        'title': 'The Frontline Guest Experience & Service Craft Council',
+        'title': 'The Frontline Guest Experience and Service Craft Council',
         'theme': 'Frontline empathy, hyper-personalisation, concierge craft, service recovery, and turning high-friction guest moments into lifelong brand loyalty.',
         'panelists': [2, 4, 6, 9, 11],
-        'keywords': ['guest', 'service', 'experience', 'frontline', 'personalisation', 'empowerment', 'complaint', 'reception', 'reservations', 'loyalty', 'f&b', 'menu', 'hospitality', 'care']
+        'turns_map': {
+            2: [9, 10],
+            4: [86, 87],
+            6: [58, 59],
+            9: [23, 24],
+            11: [51, 52, 53, 54]
+        },
+        'synthesis': [
+            "Walking in the Guest's Shoes: Frontline staff must experience their property firsthand—dining in the restaurant, testing the amenities—to make authentic, confident recommendations.",
+            "Service Recovery Philosophy: When guest friction occurs, arguing over minor charges (such as minibar disputes) destroys brand goodwill. Immaterial disputes should be conceded gracefully to preserve relationships.",
+            "Agility Over Rigid Scripting: High-touch hospitality requires staff to adapt to unexpected situations and weather sudden operational disruptions with calm poise.",
+            "The Power of Frontline Curiosity: Demonstrating genuine curiosity about guest preferences and listening actively creates moments of hyper-personalisation that generic automation cannot replicate."
+        ]
     }
 ]
 
@@ -183,35 +205,37 @@ for p in PANEL_DEFS:
     doc.append(f"# {p['title']}\n")
     doc.append(f"**Thematic Focus:** {p['theme']}  ")
     doc.append(f"**Moderator:** Shannon Knapp, CHIA (Founder, SKnapp Consulting)  ")
-    doc.append(f"**Corpus Coverage:** All 20 Published Episodes (Complete Verbatim Corpus)  \n")
+    doc.append(f"**Corpus Coverage:** Selected thematic panel from verified verbatim corpus  \n")
     doc.append("---\n")
-    doc.append("## 🎙️ Virtual Panel Participants\n")
+    doc.append("## Virtual Panel Participants\n")
     
     for ep_num in p['panelists']:
         ep_info = EP_META.get(ep_num)
         if ep_info:
             g = ep_info['guest']
-            src_url = g['sources'][0]['source_url'] if g.get('sources') else f"https://podcasters.spotify.com/pod/show/hotelier-huddle"
+            src_url = g['sources'][0]['source_url'] if g.get('sources') else "https://podcasters.spotify.com/pod/show/hotelier-huddle"
             doc.append(f"* **{g['name']}** — {g['title']}, *{g['organization']}* (Episode {ep_num:02d}: *{ep_info['published_title']}*, Published {ep_info['published_date_utc'][:10]})")
             doc.append(f"  *Source Provenance:* [{src_url}]({src_url})\n")
             
     doc.append("---\n")
-    doc.append("## 💬 Verbatim Panel Discussions & Dialogue Exchanges\n")
+    doc.append("## Verbatim Panel Discussions and Dialogue Exchanges\n")
     
     for ep_num in p['panelists']:
-        exchanges = find_exchanges(ep_num, p['keywords'], max_exchanges=2)
         ep_info = EP_META.get(ep_num)
-        if ep_info and exchanges:
+        turns = ALL_TRANSCRIPTS[ep_num]['turns']
+        turn_indices = p['turns_map'].get(ep_num, [])
+        if ep_info and turn_indices:
             doc.append(f"### Expert Perspective: {ep_info['guest']['name']} (Episode {ep_num:02d})\n")
-            for ex in exchanges:
-                doc.append(f"{ex['question']['timestamp']} **Shannon:** {ex['question']['text']}\n")
-                doc.append(f"{ex['response']['timestamp']} **{ex['response']['speaker']}:** {ex['response']['text']}\n")
+            for idx in turn_indices:
+                t = turns[idx]
+                doc.append(f"{t['timestamp']} **{t['speaker']}:** {t['text']}\n")
             doc.append("")
             
     doc.append("---\n")
-    doc.append("## 📌 Key Synthesis & Actionable Takeaways\n")
-    doc.append(f"- **Core Council Finding:** Across the participating experts, successful execution requires breaking departmental silos, measuring success through net profitability and long-term asset value rather than short-term vanity metrics, and cultivating authentic leadership presence.")
-    doc.append(f"- **Implementation Mandate:** Hoteliers should adopt regular cross-functional standups and empower frontline teams with clear parameters.\n")
+    doc.append("## Key Synthesis and Actionable Takeaways\n")
+    for s in p['synthesis']:
+        doc.append(f"- **{s.split(':')[0]}:** {':'.join(s.split(':')[1:]).strip()}")
+    doc.append("")
     
     p_out = os.path.join(PANELS_DIR, f"{p['id']}.md")
     with open(p_out, 'w', encoding='utf-8') as f:
@@ -220,33 +244,146 @@ for p in PANEL_DEFS:
 QB_DEFS = [
     {
         'id': 'KB_Q1_The_Accidental_Hotelier_Origins_and_Career_Pivots',
-        'title': 'The Accidental Hotelier: Origins, Unexpected Entrees & Career Pivots',
+        'title': 'The Accidental Hotelier: Origins, Unexpected Entrees and Career Pivots',
         'shannon_core_question': 'How did you get your start in hospitality, and was it a deliberate career choice or an accidental journey?',
-        'keywords': ['career', 'start', 'get into', 'started out', 'origin', 'pedigree', 'background', 'family', 'degree', 'police', 'teaching', 'drama', 'engineering', 'law', 'night audit', 'began']
+        'context': "Throughout The Hotelier Huddle, host Shannon Knapp uncovers the diverse and often accidental journeys that lead talented professionals into the hotel industry. Across 20 episodes, industry leaders share how backgrounds spanning law, teaching, market research, geology, information systems, youth work, and frontline night audit evolved into distinguished hospitality careers.",
+        'turns_map': {
+            1: [3, 4, 7, 8],
+            2: [3, 4],
+            3: [176, 177],
+            4: [2, 3, 4, 5],
+            5: [7, 8],
+            6: [33, 34, 35],
+            7: [4, 5, 6],
+            8: [11, 12, 13],
+            9: [7, 8, 9],
+            10: [7, 8],
+            11: [9, 10, 11],
+            12: [16, 17],
+            13: [41, 42],
+            14: [22, 23],
+            15: [3, 4],
+            16: [27, 28],
+            17: [6, 7, 8],
+            18: [15, 16],
+            19: [8, 9],
+            20: [43, 44, 45]
+        },
+        'takeaways': [
+            "The Power of Non-Linear Backgrounds: Most senior leaders did not begin with a narrow hotel management degree; their breadth across teaching, law, IT, and sciences enriches their commercial and operational judgment.",
+            "Frontline Empathy as a Career Foundation: Leaders who began in night audit, restaurant service, or reservations retain deep respect for operational staff, making them more empathetic and effective executives.",
+            "Embracing Serendipity: Stepping through unexpected career doors often leads to lifelong professional passions."
+        ]
     },
     {
         'id': 'KB_Q2_Will_Sales_and_Revenue_Ever_See_Eye_To_Eye',
         'title': 'The Commercial Divide: Will Sales and Revenue Ever See Eye to Eye?',
         'shannon_core_question': 'Why is there such persistent tension between Sales and Revenue Management, and how do we align them around shared profitability?',
-        'keywords': ['sales', 'revenue', 'see eye to eye', 'tension', 'rate police', 'incentive', 'trevpar', 'commission', 'conflict', 'discount', 'standup', 'department']
+        'context': "One of the most enduring debates in hotel management is the structural tension between Sales (incentivised by room night volume and relationships) and Revenue Management (incentivised by rate integrity, yield, and profit). In these curated exchanges, commercial directors and consultants unpack how to dissolve this tension and align around net profitability.",
+        'turns_map': {
+            1: [46, 47],
+            3: [159, 160, 163, 164],
+            4: [76, 77, 78, 79],
+            7: [19, 20],
+            11: [37, 38],
+            13: [36, 37, 38, 39],
+            17: [36, 37, 70, 71, 72],
+            18: [61, 62, 63, 64],
+            20: [67, 68, 75, 76]
+        },
+        'takeaways': [
+            "Shared Commercial Metrics: Aligning sales incentives with net revenue and GOPPAR rather than gross top-line volume immediately harmonises priorities.",
+            "Speaking Plain English: Revenue managers must drop technical acronyms and explain the business rationale behind pricing decisions.",
+            "Mutual Discipline: Sales teams should consult revenue managers early before quoting discounted group rates, while revenue managers must recognise the commercial value of long-term corporate relationships."
+        ]
     },
     {
         'id': 'KB_Q3_Advice_to_Emerging_Hoteliers_and_Younger_Self',
-        'title': 'Wisdom to Emerging Hoteliers & Advice to Your Younger Self',
+        'title': 'Wisdom to Emerging Hoteliers and Advice to Your Younger Self',
         'shannon_core_question': 'What advice would you give to a young professional starting out in hospitality today, or to your younger self early in your career?',
-        'keywords': ['advice', 'younger self', 'starting out', 'student', 'aspiring', 'fret', 'mantra', 'generation', 'career advice', 'recommend', 'lesson']
+        'context': "In this signature inquiry, Shannon invites leaders to reflect on what really matters over a 20-to-30-year career. The resulting counsel covers managing stress, building boardroom credibility, developing patience, and embracing curiosity across hotel departments.",
+        'turns_map': {
+            1: [138, 139, 142],
+            2: [45, 46, 47, 48],
+            3: [22, 23],
+            4: [86, 87, 94, 95],
+            5: [127, 128],
+            6: [68, 69, 70, 71],
+            7: [65, 66, 67, 68],
+            8: [82, 83],
+            9: [23, 24],
+            10: [149, 150, 151, 152],
+            11: [51, 52, 53, 54],
+            12: [92, 93, 94, 95],
+            13: [91, 92, 93, 94],
+            14: [6, 7],
+            15: [39, 40],
+            16: [66, 67],
+            17: [69, 70, 71, 72],
+            18: [65, 66, 67, 68],
+            19: [92, 93, 108, 109],
+            20: [109, 110, 115, 116]
+        },
+        'takeaways': [
+            "Earning Boardroom Credibility: Master your existing discipline before telling others how to do their jobs. True influence comes from demonstrated competence.",
+            "Patience and Delegation: Recognize that 90% execution by an empowered team is far better than burning out trying to achieve 100% solo perfection.",
+            "Owning Your Value: Hotel management skills are world-class leadership capabilities. Hoteliers should carry genuine pride in their versatility and operational craft.",
+            "Perspective and Resilience: Don't take short-term friction too seriously. In the words of Francis Purvey's mantra: 'Always look on the bright side of life.'"
+        ]
     },
     {
         'id': 'KB_Q4_Technology_AI_vs_The_Human_Touch_in_Hospitality',
-        'title': 'Technology, AI & The Human Touch: Threat or Support?',
+        'title': 'Technology, AI and the Human Touch: Threat or Support?',
         'shannon_core_question': 'Do you see emerging technology and AI as a threat or a support to hotel operations, and how do we protect genuine human connection?',
-        'keywords': ['ai', 'technology', 'threat', 'support', 'artificial intelligence', 'human', 'algorithm', 'system', 'connection', 'tech', 'automation', 'forecasting']
+        'context': "As autonomous workflows, chatbots, and AI revenue algorithms enter the hospitality ecosystem, Shannon and her guests examine the critical boundary between technological efficiency and human connection. Across these dialogues, technology leaders and hoteliers outline how to augment staff without eroding the hospitality spirit.",
+        'turns_map': {
+            1: [114, 115],
+            2: [3, 4],
+            3: [8, 9, 10, 11],
+            5: [33, 34, 40, 41],
+            9: [23, 24],
+            10: [113, 114],
+            11: [43, 44],
+            14: [22, 23],
+            18: [61, 62]
+        },
+        'takeaways': [
+            "AI Automates Administrative Burden: Software should eliminate rote calculations, data extraction, and repetitive guest queries.",
+            "Protecting Guest Empathy: The emotional core of hospitality—welcoming a weary traveller, de-escalating frustration, tailoring a personal stay—cannot be replicated by algorithms.",
+            "Enterprise Data Sovereignty: Hotel operators must ensure enterprise data integrity when integrating external models with core property systems."
+        ]
     },
     {
         'id': 'KB_Q5_The_Final_Toast_Anthology_to_Hospitality_Workers',
         'title': 'The Final Toast Anthology: Honoring Hospitality Workers Worldwide',
         'shannon_core_question': 'If you are raising a glass to celebrate hospitality workers everywhere, what would your toast be?',
-        'keywords': ['toast', 'raise a glass', 'raising a glass', 'final toast']
+        'context': "At the close of each episode of The Hotelier Huddle, host Shannon Knapp invited her guest to raise a glass and deliver a final toast to hospitality workers worldwide. These 20 verbatim toasts serve as an inspiring tribute to the resilience, generosity, and camaraderie of the global hotel community.",
+        'turns_map': {
+            1: [148, 149],
+            2: [51, 52],
+            3: [191, 192],
+            4: [126, 127],
+            5: [131, 132, 133, 134],
+            6: [154, 155],
+            7: [73, 74],
+            8: [96, 97],
+            9: [103, 104],
+            10: [167, 168],
+            11: [57, 58],
+            12: [162, 163],
+            13: [95, 96],
+            14: [65, 66],
+            15: [59, 60],
+            16: [108, 109],
+            17: [85, 86],
+            18: [101, 102],
+            19: [110, 111],
+            20: [109, 110]
+        },
+        'takeaways': [
+            "A Heartfelt Tribute: A universal celebration of frontline housekeepers, night auditors, receptionists, chefs, and managers who craft unforgettable guest memories every day.",
+            "Community and Resilience: Reflecting the deep, unbreakable camaraderie that connects hospitality workers across borders and generations."
+        ]
     }
 ]
 
@@ -254,45 +391,40 @@ for q in QB_DEFS:
     doc = []
     doc.append(f"# Knowledge Base: {q['title']}\n")
     doc.append(f"**Shannon's Core Inquiry:** *\"{q['shannon_core_question']}\"*  ")
-    doc.append(f"**Host & Creator:** Shannon Knapp, CHIA (SKnapp Consulting)  ")
-    doc.append(f"**Corpus Coverage:** All 20 Published Episodes (Complete Verbatim Corpus)  \n")
+    doc.append(f"**Host and Creator:** Shannon Knapp, CHIA (SKnapp Consulting)  ")
+    doc.append(f"**Corpus Coverage:** {len(q['turns_map'])} verified episode dialogues from complete verbatim corpus  \n")
     doc.append("---\n")
-    doc.append("## 🔍 Strategic Context & Significance\n")
-    doc.append(f"Throughout *The Hotelier Huddle*, host Shannon Knapp poses this core inquiry to uncover universal principles, debunk industry myths, and capture authentic, candid perspectives from leaders across hotel operations, commercial strategy, tech, and ownership.\n")
+    doc.append("## Strategic Context and Significance\n")
+    doc.append(f"{q['context']}\n")
     doc.append("---\n")
-    doc.append("## 🗣️ Verbatim Responses from the Expert Panel\n")
+    doc.append("## Verbatim Responses from the Expert Panel\n")
     
-    if q['id'] == 'KB_Q5_The_Final_Toast_Anthology_to_Hospitality_Workers':
-        toasts = find_toasts()
-        for t in toasts:
-            g_name = t['meta']['guest']['name']
-            g_title = t['meta']['guest']['title']
-            g_org = t['meta']['guest']['organization']
-            doc.append(f"### Episode {t['ep_num']:02d}: {g_name} ({g_org})\n")
-            doc.append(f"**Guest:** {g_name} — *{g_title}, {g_org}*  ")
-            doc.append(f"**Episode:** *{t['meta']['published_title']}* ({t['meta']['published_date_utc'][:10]})  \n")
-            doc.append(f"{t['shannon_turn']['timestamp']} **Shannon:** {t['shannon_turn']['text']}\n")
-            doc.append(f"{t['guest_turn']['timestamp']} **{t['guest_turn']['speaker']}:** {t['guest_turn']['text']}\n")
-            doc.append("")
-    else:
-        for ep_num in sorted(ALL_TRANSCRIPTS.keys()):
-            exchanges = find_exchanges(ep_num, q['keywords'], max_exchanges=1)
-            if exchanges:
-                ex = exchanges[0]
-                g_name = ex['meta']['guest']['name']
-                g_org = ex['meta']['guest']['organization']
-                doc.append(f"### Episode {ep_num:02d}: {g_name} ({g_org})\n")
-                doc.append(f"**Guest:** {g_name} — *{ex['meta']['guest']['title']}, {g_org}*  ")
-                doc.append(f"**Episode:** *{ex['meta']['published_title']}* ({ex['meta']['published_date_utc'][:10]})  \n")
-                doc.append(f"{ex['question']['timestamp']} **Shannon:** {ex['question']['text']}\n")
-                doc.append(f"{ex['response']['timestamp']} **{ex['response']['speaker']}:** {ex['response']['text']}\n")
-                doc.append("")
-                
+    for ep_num in sorted(q['turns_map'].keys()):
+        ep_info = EP_META.get(ep_num)
+        turns = ALL_TRANSCRIPTS[ep_num]['turns']
+        turn_indices = q['turns_map'][ep_num]
+        
+        g_name = ep_info['guest']['name']
+        g_title = ep_info['guest']['title']
+        g_org = ep_info['guest']['organization']
+        src_url = ep_info['guest']['sources'][0]['source_url'] if ep_info['guest'].get('sources') else "https://podcasters.spotify.com/pod/show/hotelier-huddle"
+        
+        doc.append(f"### Episode {ep_num:02d}: {g_name} ({g_org})\n")
+        doc.append(f"**Guest:** {g_name} — *{g_title}, {g_org}*  ")
+        doc.append(f"**Episode:** *{ep_info['published_title']}* ({ep_info['published_date_utc'][:10]})  ")
+        doc.append(f"**Source Provenance:** [{src_url}]({src_url})\n")
+        
+        for idx in turn_indices:
+            t = turns[idx]
+            doc.append(f"{t['timestamp']} **{t['speaker']}:** {t['text']}\n")
+        doc.append("")
+        
     doc.append("---\n")
-    doc.append("## 📊 Comparative Analysis & Strategic Patterns\n")
-    doc.append("- **Cross-Cutting Insight:** While individual experiences span diverse properties—from luxury 5-star resorts (The Boca Raton) to boutique retreats (A Sunset Chateau) and multi-unit groups (Minor Hotels, EVT, Mantra)—the underlying principles converge on empathy, continuous curiosity, and commercial discipline.")
-    doc.append("- **Knowledge Base Utility:** This verbatim archive provides a rapid reference for hotel team training, leadership onboarding, and commercial strategy alignment.\n")
-
+    doc.append("## Comparative Analysis and Key Insights\n")
+    for t_item in q['takeaways']:
+        doc.append(f"- **{t_item.split(':')[0]}:** {':'.join(t_item.split(':')[1:]).strip()}")
+    doc.append("")
+    
     q_out = os.path.join(QUESTIONS_DIR, f"{q['id']}.md")
     with open(q_out, 'w', encoding='utf-8') as f:
         f.write("\n".join(doc))
@@ -342,7 +474,7 @@ The virtual panels synthesise verbatim dialogue across related episodes into the
 
 ## Five signature question knowledge bases
 
-Every question posed repeatedly by Shannon is indexed across all 20 transcripts:
+Every core inquiry posed by Shannon is indexed across the verified corpus:
 
 1. [KB 01: The Accidental Hotelier (Origins and Career Entry)](question_knowledge_bases/KB_Q1_The_Accidental_Hotelier_Origins_and_Career_Pivots.md)
 2. [KB 02: Will Sales and Revenue Ever See Eye to Eye?](question_knowledge_bases/KB_Q2_Will_Sales_and_Revenue_Ever_See_Eye_To_Eye.md)
@@ -364,4 +496,35 @@ For complete provenance, podcast metadata, and individual episode transcripts, r
 with open(readme_path, 'w', encoding='utf-8') as f:
     f.write(readme_content)
 
-print("Regenerated all 7 derived virtual panels, 5 question KBs, and master README.")
+# Verbatim Fidelity Audit
+print("\n--- Running Master Verbatim Fidelity & Integrity Audit ---")
+all_derived_files = glob.glob(os.path.join(PANELS_DIR, "*.md")) + glob.glob(os.path.join(QUESTIONS_DIR, "*.md"))
+total_quotes_checked = 0
+matches = 0
+
+for df in sorted(all_derived_files):
+    with open(df, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    # Find all speaker turns
+    turn_matches = re.findall(r'(\[\d{1,2}:\d{2}(?::\d{2})?\])\s*\*\*([^*]+?):\*\*\s*(.*)', content)
+    for ts, spk, text in turn_matches:
+        total_quotes_checked += 1
+        found = False
+        text_clean = text.strip()
+        for ep_num, ep_data in ALL_TRANSCRIPTS.items():
+            for t in ep_data['turns']:
+                if t['timestamp'] == ts and t['speaker'] == spk and t['text'] == text_clean:
+                    found = True
+                    break
+            if found:
+                break
+        if found:
+            matches += 1
+        else:
+            print(f"MISMATCH in {os.path.basename(df)}: {ts} {spk}: {text_clean[:60]}...")
+
+fidelity = (matches / total_quotes_checked * 100) if total_quotes_checked > 0 else 0
+print(f"Audit Complete: {matches}/{total_quotes_checked} ({fidelity:.1f}%) quotes matched character-for-character.")
+assert matches == total_quotes_checked, f"Fidelity error: {total_quotes_checked - matches} quotes failed to match!"
+print("Regenerated all 7 derived virtual panels, 5 question KBs, and master README with 100.0% verbatim fidelity.")

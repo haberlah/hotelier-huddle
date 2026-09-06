@@ -1,12 +1,12 @@
-# The AI Operating System & Intelligent Hotel Technology Council
+# The AI Operating System and Intelligent Hotel Technology Council
 
-**Thematic Focus:** The emerging AI Operating System, enterprise data boundaries, SLMs vs. LLMs, RAG architecture, and protecting genuine human empathy alongside autonomous operational workflows.  
+**Thematic Focus:** The emerging AI operating system, enterprise data boundaries, SLMs vs LLMs, RAG architecture, and protecting genuine human empathy alongside autonomous operational workflows.  
 **Moderator:** Shannon Knapp, CHIA (Founder, SKnapp Consulting)  
-**Corpus Coverage:** All 20 Published Episodes (Complete Verbatim Corpus)  
+**Corpus Coverage:** Selected thematic panel from verified verbatim corpus  
 
 ---
 
-## 🎙️ Virtual Panel Participants
+## Virtual Panel Participants
 
 * **Francis Purvey** — Executive Vice President, *Sunlark Associates LLC* (Episode 01: *Will Sales and Revenue Ever See Eye To Eye?*, Published 2025-09-16)
   *Source Provenance:* [https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Will-Sales-and-Revenue-Ever-See-Eye-To-Eye-e389aht](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Will-Sales-and-Revenue-Ever-See-Eye-To-Eye-e389aht)
@@ -28,77 +28,63 @@
 
 ---
 
-## 💬 Verbatim Panel Discussions & Dialogue Exchanges
+## Verbatim Panel Discussions and Dialogue Exchanges
 
 ### Expert Perspective: Francis Purvey (Episode 01)
 
-[02:49] **Shannon:** Wow. So I'm curious, considering that you've primarily worn two fundamental, two primary hats so far in your career, being hotel sales maven and tourism ambassador, so I'm curious, which one of those roles or which hat gets you more compliments and makes more friends at cocktail parties?
+[40:37] **Shannon:** Yes. Now speaking of, you know, looking at things and looking at tech and looking at our phones, do you think that, you know, do you see technology as a threat or a support toward revenue or sales management roles in the future?
 
-[03:14] **Francis Purvey:** Good question. Actually, I would have to say both for different reasons. Obviously when you bring up Bermuda, Aruba, St. Maarten, or even Florida, there's a certain intrigue to some people. And if I'm at a cocktail party where I know a lot of the people, inevitably one of them, especially if they're my vintage or a little younger, would say, "Oh, I can't thank you enough for putting together our Bermuda trip" or "our Aruba trip." And I think the friendships that develop in our industry, and in this particular situation, are one of the key elements of why you're in hospitality in the first place, because you do—and I don't mean just coworkers like you and I, but guests. And I keep in touch with guests, people that I got to know. If you go back 10 years from now, and I was dealing with Aruba at a resort there...
-
-[05:28] **Shannon:** Because of course you did.
-
-[05:30] **Francis Purvey:** Yes. Young, they all said, "Yes, sir. Thank you very much, sir." The idea was young people having a good time in Aruba. But then we went up to a game and promoted the destination at a particular game, and boy, there were people walked by and said, "Oh, Aruba, I can't go there. There's nasty people." Which was most unfortunate. But in that case, saying you were from Aruba—now, fortunately that's gone away, and everybody loves Aruba these days. So, but there are circumstances that it doesn't always work in your favour.
+[40:53] **Francis Purvey:** It's an interesting thought. Um, you know, obvious—I think you have to look at, again, look at the customer. The customer's doing everything on his or her phone.
 
 
 ### Expert Perspective: Dr. David Haberlah (Episode 05)
 
-[01:11] **Shannon:** I'm just really, really thankful for you taking the time to do it. So, I have so many questions for you on the topic of AI and hotels, and maybe even geology, and hotels software, which is one of your many areas of interest and study. I also went out to the people, the subscribers of this podcast, and I asked them what I should ask you, and they've sent in a few, too. I'll get to those in a bit. So, before I launch into your vast insights, uh let me please, for the people who may not already know, provide just a quick rundown of your areas of study and professional experience so far, if I may. So, uh to make sure I get this right, tell me if I miss any important ones. Director of Marketing and Product Development, Readable English, out of Indianapolis, USA. And I've known you for a few years, I actually never knew that until I started researching your research background, so that that's a new one. Um, Head of Product Mathematics at 3P Learning. Classroom teacher, Queensland Department of Education. Vast, impressive [cough] academic career so far includes MBA, Doctor of Philosophy, PhD, Geology and Geophysics. I mean, wow. Master of Teaching, Elementary Education and Teaching. Master of Science, Geography, University of Berlin. Master of Science, Geography, University of Kiel. Wow. And currently, you're the AI globalization lead at SiteMinder for the last three years, which, by the way, is how you qualify as a member of the hotelier tribe, because you're building products, and building engineers, and building the smarts and AI around products for hoteliers. So, that's how you qualify as a member of the tribe. Have I got all that right?
+[18:37] **Shannon:** Well, and again, the the creativity part is where the humans continue to be completely important and completely required, and and completely mission critical in the whole process. And uh you know, I I keep hearing from hotel managers that their biggest AI fear that keeps them up at night is employees uploading data, guest details, credit card payment info, um to AI platforms to get help with jobs to be done. Because front desk and reservations agents all across the land, all across Earth in hotels, they're using AI, mostly ChatGPT, but a few different types of apps, um for everything. I mean, they're using AI for so many things, for everything in hotels. So, is there advice from your perspective that we can give to hoteliers on this, other than using common sense, and not uploading reservation details or details you know, files that clearly have guest details uh or credit card details or things we shouldn't be uploading to AI, other than common sense, is there any you know, advice that you can give to hoteliers on that element?
 
-[02:58] **Dr. David Haberlah:** Yeah, it took me a while to qualify, you know. I did uh I did take a few detours, and uh looking at all of these different things I've done in life, it makes me feel old. [laughter] But uh no. Um, yeah, it's it's a real pleasure.
+[19:57] **Dr. David Haberlah:** Yeah, I think first of all, very simply, I mean, your employees are doing their jobs in the best possible way. That's actually something you want to encourage. So, that seems to be like a failure in providing them with the right tools. If they're using their own personal ChatGPT subscription, or even free tiers where there's definitely, you know, you're basically loading up your data, uh and I I don't think you can have policies that say, "Don't upload PII data or whatever," but this is not a very secure approach, right? You really want to be on an enterprise-grade system that uh is stripping this out and and also not training its models. And they're readily available. They You can purchase these for your employees. I would definitely work with your employees and see what are the preferred tools, because as we just discussed, all of these have different flavors, capabilities, and so on. Some are amazing at uh crunching data, right? Uh like the uh Anthropic models. Others are better at formulating emails uh, right, uh ChatGPT-5, for example, or doing translations, or like there's really horses for courses, right? And I would work with your employees to see like what are the preferred models, provide choice uh of enterprise-grade systems. So, that means you just basically need to pay a $60 subscription, which in the scheme of things of what you probably have to pay your employee is not a lot, right? And you can even like like, depending on, be smart and have shared accounts, or like you can get a little bit smart if you're really trying to be tight on your budget. But uh like one thing you don't want to do is not provide your employees with uh uh the right AI tools to do their job, because they're going to get the job done anyway. Um, I think
 
-[03:15] **Shannon:** Yes. I mean, I I stumbled in it uh a few decades ago, and I've I've just never left. So, that that's what happens. Um, so, Dr. Haberlah, uh you've taught elementary school students. You've decoded geological mysteries, and now you're teaching hotels how to speak artificial intelligence. So, which is harder, explaining fractions to sir- third graders or explaining software as a service to hoteliers?
+[21:58] **Shannon:** Yes.
 
-[03:45] **Dr. David Haberlah:** [laughter] Look, I think um if you're in the front of a classroom, uh especially uh, you know, younger students, third-graders, uh and these would have been indigenous students up in in Northern Queensland, they are a tough crowd, right? So, they actually teach you one thing. If you're not talking their language, if you're not actually addressing something that is, you know, fulfilling their, yeah, addressing their problems or pain points, or something they want to get out of this, you're not going to get their attention for more than 5 seconds. And I think this is actually the same thing for good reasons for hoteliers, right? So, you can directly kind of transfer these skills, and say, "Look, you know, we need to actually talk about your your problems, your the things that you want to get out of uh the solution. Uh and and the things that are missing in our solution maybe, as well, right? Because, otherwise, like, you know, you you lost them. And I think this is what my students taught me. And I think it's very transferable uh in in terms of the technology that we can build, and the uh interactions you have with your customers.
+[22:32] **Shannon:** Interesting, interesting. That's really helpful. Um, and I do see that, you know, some of the simple things, again, among many of the things I see hotel front desk and reservation staff, in particular, using AI apps to do, is things like translating languages to write a confirmation, or to come up with a marketing campaign, and I think we're getting much better about double and triple checking, and editing things before we just send it out when we've asked for a translation. But do do you believe that AI can perfectly translate, not just languages, but also cultural expectations in the context of hotel software services?
 
 
 ### Expert Perspective: Andrew Taylor (Episode 10)
 
-[01:13] **Shannon:** Thank you for taking the time to join the Huddle.
+[32:07] **Shannon:** When you say next generation hotels, I'm curious, Andrew, from your perspective, what are the next key, and you've touched on this a little bit already, but what are the next key guest expectations that you believe traditional operators are still catching up to?
 
-[01:15] **Andrew Taylor:** Pleasure, my friend. So nice to catch up again, Shannon. So, yeah, thanks so much for having me. It's lovely to be here.
-
-[01:35] **Shannon:** I know, right? I know. That's a little bit scary, but I'll take Yeah, I'll take it. I'll take it. I'd like to start right back at the beginning of your working life, Andrew, if I may, because you trained as a lawyer, but you built your career developing hotels, which I I just wonder, what made you realize that arguing about hotels was less fun than actually building them? Or or is argument still a required element and that's actually fun for you?
-
-[02:08] **Andrew Taylor:** I think I was desperate to get out of the law, to be honest. Like to be perfectly frank. So, I wasn't probably the best legal practitioner there was and and fair to say I don't have my practicing certificate anymore. But it's it's such a great degree, Shannon, because it helps you navigate so many things being a lawyer, right? So, and when you and I met, I think it was when I had spent about five or six years in the world of commercial law and I got a bit of a taste for real estate development by working in some commercial, you know, practices doing leasing and property development. I had a client that was developing pubs and, you know, hospitality venues. But what I realized was that rather than being the guy who was kind of trying to keep our clients out of trouble, I wanted to be the the guy that was navigating all the all the trouble, all the fun. So, yeah, in a nutshell, I guess I I realized that my passion was for working in the deal, not just on the deal, you know? So, I think that's
+[32:24] **Andrew Taylor:** Ah, we could talk hours on this.
 
 
 ### Expert Perspective: Jasmine Xie (Episode 11)
 
-[00:30] **Shannon:** So nice to see you, actually. It's nice to see you almost in person again. It's been a little while since I've seen you in real life. And my goodness, you have been a very busy hotelier, Jasmine Xie.
+[16:15] **Shannon:** Gosh, it sure does. It sure does. You explained that so perfectly well. Um, and you did mention everyone's favourite buzzword these days, AI, artificial intelligence, or assisted intelligence, maybe, in some cases. Um, if, uh, thinking about AI, chatbots, and automated booking flows, are you, at this point in your working career, um, are you excited or terrified about where reservations technology is heading? And be honest. There's no wrong answer.
 
-[00:45] **Jasmine Xie:** It has been. Very busy, hectic, as always. Auto hospitality work as one, for sure. There's never-ending. Um, it just comes and goes.
-
-[01:21] **Shannon:** So, for those who might not already know, I do like to run down just, not again, not to read your CV at you, because you already know it, um, but I like to cover, um, you know, your career journey so far and your education, because it's pretty impressive. So, you, um, earned your International, your, sorry, your bachelor's degree, Hospitality Administration/Management, make sure I get that right, from ICMS. Were you at the, um, Manly campus?
-
-[01:53] **Jasmine Xie:** Yes, it was the Manly campus.
+[16:47] **Jasmine Xie:** Um, I, to be honest, um, a little bit of both, to be honest.
 
 
 ### Expert Perspective: Jean-Christophe Buillet (Episode 14)
 
-[00:00] **Shannon:** In today's huddle, I travelled virtually to Sedona, Arizona, to talk with a wildly successful hotelier, the owner-operator of a Sunset Chateau Resort. He shared his insights on the behind-the-scenes hard work required to create magical guest experiences, and also how his computer engineering degree prepared him for the beautifully chaotic world of hospitality. I hope you enjoy the chat as much as I did. [00:34] Jean-Christophe Bouillet, thank you so much for doing this. I really appreciate you taking the time. By the way, I'm always pronouncing your surname Bouillet. Have I got that right?
+[12:40] **Shannon:** So, um going back to your I'm interested in your academic start. Um from circuit boards to check-ins, if I can refer to it that way, um how does a how does a computer engineering degree prepare someone for the the beautifully chaotic world of hospitality? And I don't know, are there any debugging skills that translate surprisingly to hotel guest relations?
 
-[00:44] **Jean-Christophe Buillet:** Uh, it's it's a tough name. Jean-Christophe Bouillet is my—not a not a good American name, but that's okay. I've I've I've lived with it for a while, so. You can call me whatever you like though, I won't I won't complain.
-
-[01:03] **Shannon:** Jean-Christophe is good. Jean-Christophe is good. Well, Jean, I really appreciate you taking the time to join us on The Hotelier Huddle today because I'm very well aware of what a flat-out crazy busy hotelier you are, especially this time of year because I had a little look on your website yesterday and again this morning for your resort, and it looks like you are fully booked right through the silly season, yes? Well done.
-
-[01:25] **Jean-Christophe Buillet:** Yeah, this is uh the holiday season is is kind of just ramping up and we're just starting to fill up. So, it's uh it's always fun to have people uh back. Between Thanksgiving and and Christmas is usually a little bit of a lull, and kind of feels weird to be a... It feels weird to be empty for a couple weeks and then when people start coming back, you're like, "Oh, this... It's nice to have um nice to have a full house again."
+[13:08] **Jean-Christophe Buillet:** Uh well, you know, I I part of it was I don't want to say it wasn't my choice, but um I I wanted to be more of an artist, and my parents wanted me to be more of a technician. So, I went the the latter route. But um I n- I never really had it was there was not ever really much joy in that for me. So, I just didn't like being cloistered inside and just me and the computer and nobody else. So, I will say though, um as far as organisational skills and thinking through things procedurally, when you're really putting together as you're you're programming a a large project, you have all these tiny component pieces. And you have to get all these component pieces to work beautifully together. And there's definitely some uh you know, good amount of planning that goes into it and thought process. And I think that that kind of ordered thinking carries over into everything. And so that was really helpful, and I think as well, like you you really kind of get good at coming up with solutions for just about anything. So, your your whole, you know, your whole schooling is coming up with for with solutions for problems that people may or may not know exist. And so, you're kind of carrying over that same uh thought process in in everything you do. And so, I don't think it's necessarily hotel specific, but it certainly helped. And early on, it was helpful to have, I think, some technical acumen, cuz we just, you know, it was like, "Oh, I'll I'll install the network. No problem. I'll build a website. I'll do I'll, you know." Uh we'd sign up for a service, like, "Who's your tech contact?" Me. "Who's your billing contact?" Me. "Who's" "Who's your sales contact?" It's it's going to be me again. You're You're just stuck with me for everything. So, um certainly did help having uh having that knowledge, I think, and and it definitely did change the way I think I looked at things overall and and gave me more structured thinking. So, that that was really helpful.
 
 
 ### Expert Perspective: Heidi Gempel (Episode 18)
 
-[01:34] **Shannon:** Then you were a project manager, facilitator at HSMAI, which is where you and I met doing various HSMAI facilitation and project work, right?
+[20:00] **Shannon:** Yes.
 
-[01:45] **Heidi Gempel:** Yes.
+[20:01] **Heidi Gempel:** So, besides the technical knowledge, but truly understanding, how do I actually—because we have very little—revenue managers have very little direct control over things.
 
-[01:46] **Shannon:** And you are currently founder, executive coach, strategic facilitator, and trainer with your very own company, HGE International, based in Singapore for 15 years. Wow.
+[20:10] **Shannon:** Mhm.
 
-[01:59] **Heidi Gempel:** Yes.
+[20:10] **Heidi Gempel:** Their—their teams are generally very small, maybe a reservation team, maybe a second or third in command, right? But that's it. So, and then you've got sales teams of 15, 20 people in some of the larger properties. But the skill, the only skill they have in order to influence strategic decisions is through learning how to do that that influence. And I think this is one of the—it has to do with maturity, it has to do with playing training, it has to do with learning how to negotiate, learning how to invite people even though you disagree with them, invite them around the table, have those conversations, and see if you can actually understand their point of view. So, um, that to—and this is why the coaching piece became so real to me, because I realized that, um, it's—it's not more technical knowledge I needed to train them. I need to train them how to stand up as leaders. I need to train them how to have conversations where they matter, where they can stand up under pressure, and they can—they can speak with, um, with weightiness and—and—and seriousness. And that, I think, is—is where I feel, um, we need to put another one or two logs in the fire to keep that burning, to keep that, you know, keep that increasing, yeah.
 
 
 ---
 
-## 📌 Key Synthesis & Actionable Takeaways
+## Key Synthesis and Actionable Takeaways
 
-- **Core Council Finding:** Across the participating experts, successful execution requires breaking departmental silos, measuring success through net profitability and long-term asset value rather than short-term vanity metrics, and cultivating authentic leadership presence.
-- **Implementation Mandate:** Hoteliers should adopt regular cross-functional standups and empower frontline teams with clear parameters.
+- **Technology as an Operational Liberator:** Automation and artificial intelligence should eliminate administrative friction and repetitive data entry, freeing staff to focus on genuine guest hospitality.
+- **Enterprise Data Boundaries and Trust:** Deploying AI systems in hospitality demands strict isolation of proprietary commercial data and guest profiles from public model training datasets.
+- **The Irreplaceability of Human Empathy:** While automated systems handle inquiries and booking changes efficiently, complex guest friction, emotional recovery, and hospitality magic depend entirely on human connection.
+- **Soft Skills as the Ultimate Edge:** As analytical and predictive tasks become automated, emotional intelligence, persuasion, and cross-functional leadership become the primary differentiators for hospitality professionals.

@@ -41,7 +41,7 @@ The virtual panels synthesise verbatim dialogue across related episodes into the
 
 ## Five signature question knowledge bases
 
-Every question posed repeatedly by Shannon is indexed across all 20 transcripts:
+Every core inquiry posed by Shannon is indexed across the verified corpus:
 
 1. [KB 01: The Accidental Hotelier (Origins and Career Entry)](question_knowledge_bases/KB_Q1_The_Accidental_Hotelier_Origins_and_Career_Pivots.md)
 2. [KB 02: Will Sales and Revenue Ever See Eye to Eye?](question_knowledge_bases/KB_Q2_Will_Sales_and_Revenue_Ever_See_Eye_To_Eye.md)

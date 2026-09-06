@@ -1,12 +1,12 @@
-# The Commercial & Revenue Management Mastermind: Net Profitability & Distribution
+# The Commercial and Revenue Management Mastermind: Net Profitability and Distribution
 
 **Thematic Focus:** Shifting from vanity occupancy to net profitability (Net RevPAR, GOPPAR, TRevPAR); eliminating rate day-trading; applying MLOS demand filters; and managing channel distribution costs.  
 **Moderator:** Shannon Knapp, CHIA (Founder, SKnapp Consulting)  
-**Corpus Coverage:** All 20 Published Episodes (Complete Verbatim Corpus)  
+**Corpus Coverage:** Selected thematic panel from verified verbatim corpus  
 
 ---
 
-## 🎙️ Virtual Panel Participants
+## Virtual Panel Participants
 
 * **Francis Purvey** — Executive Vice President, *Sunlark Associates LLC* (Episode 01: *Will Sales and Revenue Ever See Eye To Eye?*, Published 2025-09-16)
   *Source Provenance:* [https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Will-Sales-and-Revenue-Ever-See-Eye-To-Eye-e389aht](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Will-Sales-and-Revenue-Ever-See-Eye-To-Eye-e389aht)
@@ -25,66 +25,58 @@
 
 ---
 
-## 💬 Verbatim Panel Discussions & Dialogue Exchanges
+## Verbatim Panel Discussions and Dialogue Exchanges
 
 ### Expert Perspective: Francis Purvey (Episode 01)
 
-[01:10] **Shannon:** Just for those few that might not know who Francis Purvey is. So, Executive Vice President of Sunlark Associates, former Director of Sales and Marketing at several hotels, but I think mostly Radissons. You might clarify that for me. And then Assistant Director, Bermuda Department of Tourism. I'd love to hear more about Bermuda because that era, your Director of Tourism era, was just before I knew you. I think that was before the Radisson on Sand Key.
+[13:09] **Shannon:** I'm sorry that's been your experience, Francis. I think the animosity between sales and revenue is evolving and going out of fashion. And I think what's informing that and what is pushing that evolution is that—and I wonder if you've seen this too—is that sales people are realizing that they've always had to be a bit of a revenue manager. And revenue managers are realizing they've always had to be a little bit of a sales manager anyway. They might not have had sales in their job title, sales managers haven't had revenue in their title, but they've both had to work in both of these disciplines whether they liked it or not, or whether they were good at it or not. So, if you think about it, like, to me, the most strategic, most brilliant, most successful directors of revenue are also very good sales people and they're very influential. And they're the type of people, it's almost like a contradiction in psychometric brain terms, because you have to be equally right-brained and left-brained. They're sort of extroverted nerds or, like, really outgoing geeks, because they have to be very analytical and very good with spreadsheets and terms and distribution and commercial and strategy and numbers, and really get their rocks off when RevPAR goes up by 35 cents. So they had to be very analytical, but they also have to be very adept at convincing sales people and very strong-minded general managers of a strategy, and going in and leading a revenue strategy meeting and convincing a room full of people that their idea is the right way to go. And if you're not good at that part, you're just not going to be a good revenue manager. Whereas the most successful sales people, they also have to have, I think more so than ever, a better appreciation of the commercial aspects of a segment that they might be going after. And maybe this quarter, if the corporate segment is overperforming and I need to dial back on that a little bit, if I have a revenue manager mind, then I know that maybe I'm going to have to put some filters on that segment, even though I'm hardwired to bring in as much corporate business as I can. So, I don't know, will they ever see eye-to-eye? I think it's getting better, and I think they already do a little bit. And it's just evolved as the two disciplines have merged and had to evolve. And yet, now I'm going to contradict myself, because I think a little bit of tension between those disciplines is kind of a good thing, because you need a good argument, right? It's no good if everyone in the room has the same idea and if everyone agrees. That's not helpful and it's no fun.
 
-[01:40] **Francis Purvey:** That was 13 years with the Bermuda Department of Tourism starting out as Assistant Manager, Market Research.
-
-[02:29] **Shannon:** Now for those of you playing acronym bingo, DMC, please clarify.
-
-[02:33] **Francis Purvey:** Destination Management Company. SITE: Society for Incentive Travel Excellence. And so I was fortunate, and then I rose up to Promotions Manager and Assistant Director, Sales and Marketing before I moved to the United States.
+[16:13] **Francis Purvey:** I want to I want to give you an example where I have challenges.
 
 
 ### Expert Perspective: Tamie Matthews (Episode 03)
 
-[00:00] **Shannon:** In today's edition of The Huddle, I have the great pleasure of talking with Tamie Matthews. She's the founder and owner of RevenYou, a team of revenue and sales and marketing specialists that work with owner operators of accommodation businesses. They very much enjoy making more profits for hoteliers and solving the most complex puzzles. And she may or may not share a few of her puzzle-solving tricks, we'll have to see. Hi, Tamie. How are you?
+[04:54] **Shannon:** That's really interesting. So I'm curious now. If that property was your client, how would you advise them to to not do that, or to make that better? Or would you advise them to change it, or or not? If they were your client, what would you do?
 
-[00:32] **Tamie Matthews:** I'm very good. How are you?
-
-[00:34] **Shannon:** I'm really curious, especially, um, you know, following your I'll use the word illustrious career, right? Having been what, a reservations manager in Europe, a revenue manager all over Europe, a multi-property cluster revenue manager, having worked in revenue management and marketing hotels for as long as you have. When it comes to searching, finding, and booking accommodation for your own holiday, how do you go about it?
-
-[01:04] **Tamie Matthews:** My secret when I'm travelling for pleasure is that I have a travel agent.
+[05:11] **Tamie Matthews:** My advice to clients is always that what you have for direct should be better than what you have on Booking.com.
 
 
 ### Expert Perspective: Matt Camp (Episode 07)
 
-[00:31] **Shannon:** Matt Camp, thank you for joining The Hotelier Huddle today, my friend, particularly because I am very well aware of how flat-out busy you are in your big, highfalutin job of cluster revenue manager at Oscars Group. Thank you very much for joining me. It's nice to see you.
+[07:50] **Shannon:** That's terrific advice. Question everything and don't over-science it.
 
-[00:50] **Matt Camp:** It's great to see you. It's always a pleasure to be able to have chats.
-
-[00:54] **Shannon:** Thanks, Matt Camp. For those that may not already know you, uh, I just always like to go over the the career journey so far of my guests, especially when it's as varied as yours. So, I love that you as a revenue manager, you started off with a brief stint in food and beverage, and maybe you can comment on that in a bit, cuz I find that really interesting. Uh, then you were revenue and reservations manager at Mirvac, and that's where you and I met. And then a revenue analyst with Accor Hotels, revenue and reservations manager at The Old Clare Hotel in Sydney. I love that property. And group revenue manager with View Hotels. And we worked together there again as well. You were my client there again, thank you very much. And then revenue and distribution manager at Baillie Lodges, looking after the revenue and pricing for Australia, New Zealand, and Canada. Wow! And group revenue and distribution manager at Alloggio Group, really fascinating gig that one was. And now you're cluster revenue manager at Oscars Group. Did I miss anything?
-
-[01:56] **Matt Camp:** Oh, look, uh, quite a few other things in, uh, in a the earlier days. But yes, um, I like to say that my hospitality career has actually been 25 years long, since at the age of 15 I was, uh, running drinks for state politicians in the state capitol building back in Rhode Island, United States, where that was a a hospitality job, you know.
+[07:55] **Matt Camp:** Yeah, and and and like, be be happy to just to just take something, put it in the done pile, and and move on rather than like fight and scrape and and find every dollar, because you'll find it somewhere else. Like you will, if you just give yourself that free head space to actually just think and kick stuff around.
 
 
 ### Expert Perspective: Mike Godfrey (Episode 17)
 
-[03:20] **Shannon:** Then, this is where your experience kind of took a fascinating turn uh and an unusual one, which I love: You were National Yield and Revenue Manager for Omega Rental Cars in New Zealand for, was it five years, 2017 to 2022?
+[17:02] **Shannon:** Well, that's right. And in the absence of, you know, the opposite of over-engineering the situation is you try and discount your way out of a problem you didn't even really have.
 
-[03:35] **Mike Godfrey:** Five years. Just over, just over five years, yeah. Yeah.
+[17:18] **Mike Godfrey:** Well, w- exactly. And and I think, you know, touching on discounts, that's that's one of the first approaches. You know, before you start laying all these Exactly. Yeah, yeah. I mean, before you start applying all of these crazy, complex, engineered restrictions, I love that term, um you know, maybe just close out your discounts first and see where your actual demand is. Once you've restricted those and monitor the, and and it goes back to, it's a living, breathing, it's just like a rate on a on a Tuesday that, you know, four weeks out might be $300, but a week out might be $400. But it's breathing. It needs to be monitored and watched and massaged.
 
-[03:37] **Shannon:** Then you came back, creeped along into hotels, thank you very much, as Regional Director of Revenue with Swiss-Belhotel in Auckland, also in New Zealand. Then you were Revenue Manager for Amora Brisbane. And now, you're starting a brand-new gig. I think, can we say it? Is it secret squirrel or can we say?
+[26:48] **Mike Godfrey:** How did it make me feel? Um, if I put my memory cap on, I believe it was, "Back up your jargon junkie crap truck."
 
-[03:57] **Mike Godfrey:** It's No, yes, of course, go for it.
+[26:56] **Shannon:** That's it! That's it! "Jargon junkie crap truck," that's right.
+
+[26:59] **Mike Godfrey:** After picking up my jaw off the floor, [laughter] um, and the jargon was like RevPAR, TRevPAR, ARI, MPI, that sort of thing. Essentially, essentially. And I'm first to admit, I do tend to talk in acronyms. I've been in revenue management for 20-something years and
 
 
 ### Expert Perspective: Matthew (Matt) Borger (Episode 20)
 
-[01:35] **Shannon:** Then, you were BDM for Corporate & Consortia at Mantra Group, and then also with Saville Hotel Group. Then, when I met you, we were both at Mirvac Hotels & Resorts, and you were our Director of Leisure Sales for four and a half years.
+[21:37] **Shannon:** I wanted to ask your perspective on the I'll call it the sales versus revenue manager Cold War. [laughter] So, you spent years in hotels where success meant saying yes to every deal, while revenue managers, they're sort of hardwired and professionally trained to say no to perfectly good-looking business, in air quotes. Um, did you ever have a revenue manager reject one of your corporate bookings, and you don't have to name and shame, um, but if so, like how many deep breaths did you take before you could speak to them again? And second part of the question is, now that you're in aviation, do you have flashbacks when someone mentions yield management?
 
-[01:50] **Matt:** It's nice that someone that we used to work with pronounced the word "leisure". [laughter]
+[22:25] **Matt:** Um, well, I'm going to challenge you on that question a bit, Shannon. You don't say yes to every deal.
 
-[01:55] **Shannon:** I know, I know. Finally, after 30 years in Australia, most of the time I say "leisure" now, but anyway. Um, then you were Director International Sales and Director of Sales for Strata and Franchise, where we also worked together, at Accor for three years. Then, you were Group Director of Trade Sales and Regional Sales and Marketing Manager for Mantra for a couple of years. And you are currently Airlines and Partnership Manager for Newcastle Airport for the last six and a half years. And also, Chairperson Destination Port Stephens, father of two, husband to the lovely Christy. Have I forgotten anything?
+[27:07] **Shannon:** ...on board with your ideas, that's, you know, the that that the magic trick that revenue managers and sales managers have to um, you know, if they they have to learn that as a skill, is in their storytelling. And I've seen, and I wonder if you've observed this, too, the the most important part of the evolution of the sales and revenue cold war, um, has been that in the olden days, and hopefully it's not out there too much anymore, but in the olden days, we used to have sales people who had one set of KPIs or incentives that was all about room nights from a certain segment, room nights from corporate, room nights from leisure, just room nights at all costs. But then we have revenue managers that are incentivized or their KPIs or their bonuses are based on things like RGI, revenue generation index, or RevPAR. Yeah. And that always meant that they were always at odds and they were never going to be on the same page or working toward the same goal, like you said. And whereas now, the more evolved businesses have everyone on the team based on the same KPIs. Now, everyone has a different role to play in achieving STR results or MPI or RGI or, you know, the TRevPAR, total revenue per available room, um, for a certain month. Everyone has their own part to play in getting to that result. But when you have people that have conflicting, disagreeing incentives, I think that's what used to cause a lot of the, uh, discontent.
 
-[02:34] **Matt:** Ah, you've hit the mark, Shannon, as you always do. [laughter] Um, no, yeah, no stone unturned. Think, um, a lot of, um, yeah, it's been a long journey, gosh. Yeah, wow. Right back to economic studies at Sydney University, so, um, through. But yeah, no, it's, um, it's been a, a long journey and, um, thrilled to talk to you today about it.
+[29:01] **Matt:** Yeah, and that's a really good point, Shannon. I think structurally some things are just set up to be two magnets, right? They just push push in opposite directions as well.
 
 
 ---
 
-## 📌 Key Synthesis & Actionable Takeaways
+## Key Synthesis and Actionable Takeaways
 
-- **Core Council Finding:** Across the participating experts, successful execution requires breaking departmental silos, measuring success through net profitability and long-term asset value rather than short-term vanity metrics, and cultivating authentic leadership presence.
-- **Implementation Mandate:** Hoteliers should adopt regular cross-functional standups and empower frontline teams with clear parameters.
+- **Shifting from Vanity Occupancy to Net Profit:** Full hotels are not necessarily the most profitable. High occupancy achieved through heavy OTA discounting inflates variable operating expenses and commission burdens, degrading net operating margins.
+- **Eliminating Rate Day-Trading:** Top commercial leaders treat revenue management as strategic positioning rather than continuous tactical rate adjustments. Setting disciplined parameters and moving decisions into the 'done pile' creates mental clarity.
+- **De-Jargoning Commercial Communication:** Revenue leaders must translate technical metrics (RevPAR, MPI, ARI) into plain business language so general managers, sales teams, and food and beverage directors understand commercial strategy.
+- **Collaborative Commercial Culture:** Bridging the traditional divide between sales and revenue management requires shared profitability goals, mutual commercial empathy, and short, cross-departmental standups.

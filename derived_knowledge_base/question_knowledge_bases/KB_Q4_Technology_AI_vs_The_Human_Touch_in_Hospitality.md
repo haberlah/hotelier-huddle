@@ -1,33 +1,35 @@
-# Knowledge Base: Technology, AI & The Human Touch: Threat or Support?
+# Knowledge Base: Technology, AI and the Human Touch: Threat or Support?
 
 **Shannon's Core Inquiry:** *"Do you see emerging technology and AI as a threat or a support to hotel operations, and how do we protect genuine human connection?"*  
-**Host & Creator:** Shannon Knapp, CHIA (SKnapp Consulting)  
-**Corpus Coverage:** All 20 Published Episodes (Complete Verbatim Corpus)  
+**Host and Creator:** Shannon Knapp, CHIA (SKnapp Consulting)  
+**Corpus Coverage:** 9 verified episode dialogues from complete verbatim corpus  
 
 ---
 
-## 🔍 Strategic Context & Significance
+## Strategic Context and Significance
 
-Throughout *The Hotelier Huddle*, host Shannon Knapp poses this core inquiry to uncover universal principles, debunk industry myths, and capture authentic, candid perspectives from leaders across hotel operations, commercial strategy, tech, and ownership.
+As autonomous workflows, chatbots, and AI revenue algorithms enter the hospitality ecosystem, Shannon and her guests examine the critical boundary between technological efficiency and human connection. Across these dialogues, technology leaders and hoteliers outline how to augment staff without eroding the hospitality spirit.
 
 ---
 
-## 🗣️ Verbatim Responses from the Expert Panel
+## Verbatim Responses from the Expert Panel
 
 ### Episode 01: Francis Purvey (Sunlark Associates LLC)
 
 **Guest:** Francis Purvey — *Executive Vice President, Sunlark Associates LLC*  
 **Episode:** *Will Sales and Revenue Ever See Eye To Eye?* (2025-09-16)  
+**Source Provenance:** [https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Will-Sales-and-Revenue-Ever-See-Eye-To-Eye-e389aht](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Will-Sales-and-Revenue-Ever-See-Eye-To-Eye-e389aht)
 
-[02:49] **Shannon:** Wow. So I'm curious, considering that you've primarily worn two fundamental, two primary hats so far in your career, being hotel sales maven and tourism ambassador, so I'm curious, which one of those roles or which hat gets you more compliments and makes more friends at cocktail parties?
+[40:37] **Shannon:** Yes. Now speaking of, you know, looking at things and looking at tech and looking at our phones, do you think that, you know, do you see technology as a threat or a support toward revenue or sales management roles in the future?
 
-[03:14] **Francis Purvey:** Good question. Actually, I would have to say both for different reasons. Obviously when you bring up Bermuda, Aruba, St. Maarten, or even Florida, there's a certain intrigue to some people. And if I'm at a cocktail party where I know a lot of the people, inevitably one of them, especially if they're my vintage or a little younger, would say, "Oh, I can't thank you enough for putting together our Bermuda trip" or "our Aruba trip." And I think the friendships that develop in our industry, and in this particular situation, are one of the key elements of why you're in hospitality in the first place, because you do—and I don't mean just coworkers like you and I, but guests. And I keep in touch with guests, people that I got to know. If you go back 10 years from now, and I was dealing with Aruba at a resort there...
+[40:53] **Francis Purvey:** It's an interesting thought. Um, you know, obvious—I think you have to look at, again, look at the customer. The customer's doing everything on his or her phone.
 
 
 ### Episode 02: Alexia Kalis (Kalis Hospitality Group)
 
 **Guest:** Alexia Kalis — *Chief Executive Officer, Kalis Hospitality Group*  
 **Episode:** *Fake It Until You Become It* (2025-09-16)  
+**Source Provenance:** [https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Fake-It-Until-You-Become-It-e389fm3](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Fake-It-Until-You-Become-It-e389fm3)
 
 [00:51] **Shannon:** So, I genuinely appreciate your time. So, from memory, I think, Alexia, you went off for a few minutes and pursued a degree in project management and IT, and then you came back?
 
@@ -38,185 +40,91 @@ Throughout *The Hotelier Huddle*, host Shannon Knapp poses this core inquiry to 
 
 **Guest:** Tamie Matthews — *Founder & Principal Consultant, RevenYou*  
 **Episode:** *Are Full Hotels Always The Most Profitable?* (2025-10-02)  
+**Source Provenance:** [https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Are-Full-Hotels-Always-The-Most-Profitable-e39038n](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Are-Full-Hotels-Always-The-Most-Profitable-e39038n)
 
-[01:30] **Shannon:** Yeah, yeah, right.
+[02:11] **Shannon:** So you're doing a lot of the legwork and pre-research.
 
-[01:32] **Tamie Matthews:** So, I have friends all around the world. Probably like you, I've got friends dotted around the world. And so, it's which of my friends am I meeting where, and then whether my child's coming with me, and then where do we want to go, and then where I spend a bit of time on Google, on AI. Where do I want to go? What sort of things do I want to do? Dates, all that sort of thing. You know, do I want to go to Borneo? No, it's the wrong weather. Do I want to go to Vietnam? Yes, it's the right weather, the right time of year, those sort of things. Then I go, call up my travel agent and go, "I want to go here, and these are the dates."
+[02:15] **Tamie Matthews:** Yes.
 
+[02:16] **Shannon:** And then you hand over like the heavy lifting in the booking part to a travel agent. That's interesting.
 
-### Episode 04: Tracy Martin (The Wisdom Well)
-
-**Guest:** Tracy Martin — *Founder & Commercial Consultant, The Wisdom Well*  
-**Episode:** *The Accidental Hotelier: Tracy Martin on Sales, Solo Ventures, and Staying Power* (2025-10-09)  
-
-[00:46] **Shannon:** Um, so, uh, full disclosure to listeners and tuners in of the podcast, but I've had the joy and benefit of working with you I think in a couple of companies, in a couple of different jobs, and you even hired me, you've been my client and my colleague. Um, but just to make sure I get it right, uh, I'm just going to read through your CV. So, uh, Global Sales Manager, Mantis Private Luxury Safari Properties in South Africa, Director of Luxury Sales and Marketing, Mirvac, which then became Accor, New Zealand, Fiji, and French Polynesia, what is that, like two-thirds of Earth or something? National Director Sales and Marketing, EVT Hotels, and you and I worked together there for a bit as well, and that was mostly New Zealand, maybe you'll correct me. And then you recently became Founder and Director of The Wisdom Well consulting agency, and I'm really, I'm really looking forward to talking to you about that, especially for people in the tribe in the hotel industry that might be aspiring to take the leap and do what you did. Wow! That's quite a career journey so far, if I've got that right?
-
-[02:02] **Tracy Martin:** Yeah, well, actually, to be fair, um, my journey in hotels started before Mantis Collection, uh, but I actually couldn't fit it all on the CV! So, uh, yeah, I've I've I've literally worked in hotels my entire adult life. And, uh, like like most people in the industry, I fell into it by complete mistake. And who knew? I just absolutely loved it because you have to be a special kind of person to work in, um, this industry. It's very unforgiving, right? So, yeah, so I've...
+[02:21] **Tamie Matthews:** I can give it all to my travel agent and then sit If I'm that time-poor busy person. And then the other thing I really, really like about it is the time I get on the plane, everything is paid for except my spending money. So, depending on how far in advance I start planning, I can pay it off in installments. I can pay it off in one lump sum. It's all paid before I get on the plane, so I'm not coming home to a massive credit card bill. When I travel for work, though, my travel agent doesn't do work 'cause work's simple. Then I just book a hotel, and quite often it's either one of my clients, or if there's no client, I'll start with Booking.com. And I research, and then I shortlist. Then I go to the direct website um and check it out 'cause I want to book direct. But it's amazing how many times I'm travelling for work, I can't book direct.
 
 
 ### Episode 05: Dr. David Haberlah (Hotel Technology Industry)
 
 **Guest:** Dr. David Haberlah — *AI Globalisation Leader & Technologist, Hotel Technology Industry*  
 **Episode:** *The AI Operating System is Coming: Are Hotels Ready?* (2025-10-17)  
+**Source Provenance:** [https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/The-AI-Operating-System-is-Coming-Are-Hotels-Ready-e39l8k9](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/The-AI-Operating-System-is-Coming-Are-Hotels-Ready-e39l8k9)
 
-[01:11] **Shannon:** I'm just really, really thankful for you taking the time to do it. So, I have so many questions for you on the topic of AI and hotels, and maybe even geology, and hotels software, which is one of your many areas of interest and study. I also went out to the people, the subscribers of this podcast, and I asked them what I should ask you, and they've sent in a few, too. I'll get to those in a bit. So, before I launch into your vast insights, uh let me please, for the people who may not already know, provide just a quick rundown of your areas of study and professional experience so far, if I may. So, uh to make sure I get this right, tell me if I miss any important ones. Director of Marketing and Product Development, Readable English, out of Indianapolis, USA. And I've known you for a few years, I actually never knew that until I started researching your research background, so that that's a new one. Um, Head of Product Mathematics at 3P Learning. Classroom teacher, Queensland Department of Education. Vast, impressive [cough] academic career so far includes MBA, Doctor of Philosophy, PhD, Geology and Geophysics. I mean, wow. Master of Teaching, Elementary Education and Teaching. Master of Science, Geography, University of Berlin. Master of Science, Geography, University of Kiel. Wow. And currently, you're the AI globalization lead at SiteMinder for the last three years, which, by the way, is how you qualify as a member of the hotelier tribe, because you're building products, and building engineers, and building the smarts and AI around products for hoteliers. So, that's how you qualify as a member of the tribe. Have I got all that right?
+[18:37] **Shannon:** Well, and again, the the creativity part is where the humans continue to be completely important and completely required, and and completely mission critical in the whole process. And uh you know, I I keep hearing from hotel managers that their biggest AI fear that keeps them up at night is employees uploading data, guest details, credit card payment info, um to AI platforms to get help with jobs to be done. Because front desk and reservations agents all across the land, all across Earth in hotels, they're using AI, mostly ChatGPT, but a few different types of apps, um for everything. I mean, they're using AI for so many things, for everything in hotels. So, is there advice from your perspective that we can give to hoteliers on this, other than using common sense, and not uploading reservation details or details you know, files that clearly have guest details uh or credit card details or things we shouldn't be uploading to AI, other than common sense, is there any you know, advice that you can give to hoteliers on that element?
 
-[02:58] **Dr. David Haberlah:** Yeah, it took me a while to qualify, you know. I did uh I did take a few detours, and uh looking at all of these different things I've done in life, it makes me feel old. [laughter] But uh no. Um, yeah, it's it's a real pleasure.
+[19:57] **Dr. David Haberlah:** Yeah, I think first of all, very simply, I mean, your employees are doing their jobs in the best possible way. That's actually something you want to encourage. So, that seems to be like a failure in providing them with the right tools. If they're using their own personal ChatGPT subscription, or even free tiers where there's definitely, you know, you're basically loading up your data, uh and I I don't think you can have policies that say, "Don't upload PII data or whatever," but this is not a very secure approach, right? You really want to be on an enterprise-grade system that uh is stripping this out and and also not training its models. And they're readily available. They You can purchase these for your employees. I would definitely work with your employees and see what are the preferred tools, because as we just discussed, all of these have different flavors, capabilities, and so on. Some are amazing at uh crunching data, right? Uh like the uh Anthropic models. Others are better at formulating emails uh, right, uh ChatGPT-5, for example, or doing translations, or like there's really horses for courses, right? And I would work with your employees to see like what are the preferred models, provide choice uh of enterprise-grade systems. So, that means you just basically need to pay a $60 subscription, which in the scheme of things of what you probably have to pay your employee is not a lot, right? And you can even like like, depending on, be smart and have shared accounts, or like you can get a little bit smart if you're really trying to be tight on your budget. But uh like one thing you don't want to do is not provide your employees with uh uh the right AI tools to do their job, because they're going to get the job done anyway. Um, I think
 
+[21:58] **Shannon:** Yes.
 
-### Episode 06: Greg Brady (Sofitel Sydney Darling Harbour / Accor)
-
-**Guest:** Greg Brady — *Former General Manager, Sofitel Sydney Darling Harbour / Accor*  
-**Episode:** *8 Leadership Lessons from an Award Winning Hotel General Manager* (2025-10-22)  
-
-[01:43] **Shannon:** Okay. And then you were GM at Holiday Inn Sydney Airport for four years and my goodness, I know airport hotels can be a really chaotic gig. So, wow. Um then you were general manager at Mercure Sydney for nearly nine years and then general manager, I think you were the opening GM, maybe you'll clarify that for me, at the 590-room Sofitel Sydney Darling Harbour.
-
-[02:07] **Greg Brady:** Seven years at Sofitel Darling Harbour, but I don't like to forget the time I had at um as executive assistant manager at Crowne Plaza Surfers Paradise.
-
-
-### Episode 07: Matt Camp (Independent Revenue Consultant)
-
-**Guest:** Matt Camp — *Revenue & Distribution Manager, Independent Revenue Consultant*  
-**Episode:** *Are You Revenue Managing or Day Trading? With Matt Camp* (2025-10-29)  
-
-[00:54] **Shannon:** Thanks, Matt Camp. For those that may not already know you, uh, I just always like to go over the the career journey so far of my guests, especially when it's as varied as yours. So, I love that you as a revenue manager, you started off with a brief stint in food and beverage, and maybe you can comment on that in a bit, cuz I find that really interesting. Uh, then you were revenue and reservations manager at Mirvac, and that's where you and I met. And then a revenue analyst with Accor Hotels, revenue and reservations manager at The Old Clare Hotel in Sydney. I love that property. And group revenue manager with View Hotels. And we worked together there again as well. You were my client there again, thank you very much. And then revenue and distribution manager at Baillie Lodges, looking after the revenue and pricing for Australia, New Zealand, and Canada. Wow! And group revenue and distribution manager at Alloggio Group, really fascinating gig that one was. And now you're cluster revenue manager at Oscars Group. Did I miss anything?
-
-[01:56] **Matt Camp:** Oh, look, uh, quite a few other things in, uh, in a the earlier days. But yes, um, I like to say that my hospitality career has actually been 25 years long, since at the age of 15 I was, uh, running drinks for state politicians in the state capitol building back in Rhode Island, United States, where that was a a hospitality job, you know.
-
-
-### Episode 08: Eve Weatherburn (Brand Journey Partner)
-
-**Guest:** Eve Weatherburn — *Founder & Managing Director, Brand Journey Partner*  
-**Episode:** *Crafting a Distinct Brand: Lessons from a Hotel Industry Expert* (2025-11-07)  
-
-[00:31] **Shannon:** Thank you for taking time out to come to us from Phuket all the way in Thailand. You're on a working holiday I believe, so very thankful for you taking time out to chat with us on The Hotelier Huddle today. Nice to see you.
-
-[00:45] **Eve Weatherburn:** You too. It's been a while.
+[22:32] **Shannon:** Interesting, interesting. That's really helpful. Um, and I do see that, you know, some of the simple things, again, among many of the things I see hotel front desk and reservation staff, in particular, using AI apps to do, is things like translating languages to write a confirmation, or to come up with a marketing campaign, and I think we're getting much better about double and triple checking, and editing things before we just send it out when we've asked for a translation. But do do you believe that AI can perfectly translate, not just languages, but also cultural expectations in the context of hotel software services?
 
 
 ### Episode 09: Joaquin D'Orazio (The Boca Raton / HSMAI Peter Ricci Scholar)
 
 **Guest:** Joaquin D'Orazio — *Guest Relations Professional, The Boca Raton / HSMAI Peter Ricci Scholar*  
 **Episode:** *A Five Star Hotel Guest Relations Agent on Blending Profit, Purpose & Hyper-Personalisation* (2025-11-14)  
+**Source Provenance:** [https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/A-Five-Star-Hotel-Guest-Relations-Agent-on-Blending-Profit--Purpose--Hyper-Personalisation-e3aum20](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/A-Five-Star-Hotel-Guest-Relations-Agent-on-Blending-Profit--Purpose--Hyper-Personalisation-e3aum20)
 
-[01:06] **Shannon:** I'm so glad to talk to you. I'm so thrilled, and I'm so excited because even since we scheduled this chat, you got an amazing award through HSMAI the other night, and I want to hear all about that. But I do like to sort of run down the career journey so far of my guests so that people understand how qualified you are to be a member of the tribe, the hotelier tribe! So you started off at Descendants Brewing in—at the Old Ship Inn in New Jersey. Is Descendants Jersey Shore? That's not Jersey Shore, is it?
+[05:45] **Shannon:** Oh, I bet. And they must be specialists. You mentioned something very important then, is that you've had the experience of dining on site in this property. And I wonder if that's something—because I know that doesn't happen in a lot of properties, especially at five-star or luxury properties. I work with a lot of properties that, you know, where that isn't, you know, part of onboarding or training of their employees. And I wonder if you can tell me, do you think that's important? Is that something you would recommend, you know, for employees or people just starting out in a new role?
 
-[01:18] **Joaquin D'Orazio:** So no, no. So it's actually—it sounds like it'd be on the Jersey Shore, but it's actually in—it's on Delaware. So by Pennsylvania. It's across—right across from Pennsylvania, Stockton, New Jersey, right across, yeah.
+[06:24] **Joaquin D'Orazio:** It's so, so important. You would never—it's going back into the guest's shoes. You will never know—if you're recommending a dish, you have to know what that dish is even—even if you just know how it looks. But tasting it and sitting in the same seat as a guest is going to sit in. And I'm very lucky the resort is amazing with—with customers and with employees. They—they let us try. They have whole programs for us, and it's wonderful. They—they know that we need to know what the guest is going to experience, and—and they—they try their hardest, and they do it.
 
 
 ### Episode 10: Andrew Taylor (Cre8tive Hotels & Lifestyle (former Mirvac, Starwood))
 
 **Guest:** Andrew Taylor — *Founder & Strategic Advisor, Cre8tive Hotels & Lifestyle (former Mirvac, Starwood)*  
 **Episode:** *Precincts, Wellness & What Every Hotelier Should Know About Tomorrow's Hotels* (2025-11-18)  
+**Source Provenance:** [https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Precincts--Wellness--What-Every-Hotelier-Should-Know-About-Tomorrows-Hotels-e3b4l0m](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Precincts--Wellness--What-Every-Hotelier-Should-Know-About-Tomorrows-Hotels-e3b4l0m)
 
-[01:13] **Shannon:** Thank you for taking the time to join the Huddle.
+[32:07] **Shannon:** When you say next generation hotels, I'm curious, Andrew, from your perspective, what are the next key, and you've touched on this a little bit already, but what are the next key guest expectations that you believe traditional operators are still catching up to?
 
-[01:15] **Andrew Taylor:** Pleasure, my friend. So nice to catch up again, Shannon. So, yeah, thanks so much for having me. It's lovely to be here.
+[32:24] **Andrew Taylor:** Ah, we could talk hours on this.
 
 
 ### Episode 11: Jasmine Xie (PARKROYAL Parramatta / ICMS Alumna)
 
 **Guest:** Jasmine Xie — *Reservations & Distribution Leader, PARKROYAL Parramatta / ICMS Alumna*  
 **Episode:** *Rising Through Reservations: The Business Mindset, AI's Limits, and Why Waitlists Matter* (2025-12-04)  
+**Source Provenance:** [https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Rising-Through-Reservations-The-Business-Mindset--AIs-Limits--and-Why-Waitlists-Matter-e3bs347](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Rising-Through-Reservations-The-Business-Mindset--AIs-Limits--and-Why-Waitlists-Matter-e3bs347)
 
-[00:30] **Shannon:** So nice to see you, actually. It's nice to see you almost in person again. It's been a little while since I've seen you in real life. And my goodness, you have been a very busy hotelier, Jasmine Xie.
+[16:15] **Shannon:** Gosh, it sure does. It sure does. You explained that so perfectly well. Um, and you did mention everyone's favourite buzzword these days, AI, artificial intelligence, or assisted intelligence, maybe, in some cases. Um, if, uh, thinking about AI, chatbots, and automated booking flows, are you, at this point in your working career, um, are you excited or terrified about where reservations technology is heading? And be honest. There's no wrong answer.
 
-[00:45] **Jasmine Xie:** It has been. Very busy, hectic, as always. Auto hospitality work as one, for sure. There's never-ending. Um, it just comes and goes.
-
-
-### Episode 12: Michael Johnson (Accommodation Australia / ReLove)
-
-**Guest:** Michael Johnson — *Former CEO & Charity Ambassador, Accommodation Australia / ReLove*  
-**Episode:** *Night Audit to CEO: Saying Yes Changes Everything* (2025-12-12)  
-
-[00:05] **Shannon:** Michael Johnson, welcome to The Hotelier Huddle. Thank you so much for doing this today. I know that even though you're kind of technically retired, I know you're actually flat out probably working more only without a paycheck these days. And I know you're busy, so thank you so much for taking the time to do this. It's nice to see you.
-
-[00:24] **Michael Johnson:** Yeah, look, it's absolutely my pleasure. And lovely to see you as well, Shannon. So good to see you.
-
-
-### Episode 13: Kelley Wacher (Corporate Magic™ / TIME Board Director)
-
-**Guest:** Kelley Wacher — *Founder & Executive Coach, Corporate Magic™ / TIME Board Director*  
-**Episode:** *Hotel Sales Consultant: The Magic is in You* (2025-12-21)  
-
-[03:00] **Shannon:** Wow! Ooh, you must be having fun. So, as a member of the Australian Board of NLP and certified life, business, and executive coach practitioner, master practitioner in NLP, NLP trainer, and Matrix Therapies practitioner, wow! You're also a qualified Extended DISC behavioural profiler, Gallup Strengths coach, leadership and project management consultant. Holy buckets! Wow! Thank you for joining, as busy as you are. Wowza!
-
-[03:00] **Kelley Wacher:** You make me sound so impressive!
+[16:47] **Jasmine Xie:** Um, I, to be honest, um, a little bit of both, to be honest.
 
 
 ### Episode 14: Jean-Christophe Buillet (A Sunset Chateau (Sedona, Arizona))
 
 **Guest:** Jean-Christophe Buillet — *Owner-Operator, A Sunset Chateau (Sedona, Arizona)*  
 **Episode:** *Hotel Owner Insights: 23 Years Of Building Balance* (2026-01-07)  
+**Source Provenance:** [https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Hotel-Owner-Insights-23-Years-Of-Building-Balance-e3d9tvr](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Hotel-Owner-Insights-23-Years-Of-Building-Balance-e3d9tvr)
 
-[00:00] **Shannon:** In today's huddle, I travelled virtually to Sedona, Arizona, to talk with a wildly successful hotelier, the owner-operator of a Sunset Chateau Resort. He shared his insights on the behind-the-scenes hard work required to create magical guest experiences, and also how his computer engineering degree prepared him for the beautifully chaotic world of hospitality. I hope you enjoy the chat as much as I did. [00:34] Jean-Christophe Bouillet, thank you so much for doing this. I really appreciate you taking the time. By the way, I'm always pronouncing your surname Bouillet. Have I got that right?
+[12:40] **Shannon:** So, um going back to your I'm interested in your academic start. Um from circuit boards to check-ins, if I can refer to it that way, um how does a how does a computer engineering degree prepare someone for the the beautifully chaotic world of hospitality? And I don't know, are there any debugging skills that translate surprisingly to hotel guest relations?
 
-[00:44] **Jean-Christophe Buillet:** Uh, it's it's a tough name. Jean-Christophe Bouillet is my—not a not a good American name, but that's okay. I've I've I've lived with it for a while, so. You can call me whatever you like though, I won't I won't complain.
-
-
-### Episode 15: Andrew Turner (Minor Hotels)
-
-**Guest:** Andrew Turner — *Head of Development – Australia, Minor Hotels*  
-**Episode:** *How I Grew 48 Hotels Worth $1.8 Billion (Career Advice for Hoteliers) with Andrew Turner* (2026-01-21)  
-
-[02:33] **Shannon:** So when you and my other former boss, Tim Davis, hired me at Mirvac, I think I was the first person in the organisation to have "revenue" in their title. Thank you for that, by the way.
-
-[02:46] **Andrew Turner:** You certainly were. We didn't We didn't know what it meant then.
-
-
-### Episode 16: Janet McBain (Facilities Management)
-
-**Guest:** Janet McBain — *Facilities Management Executive & Former Hotel GM, Facilities Management*  
-**Episode:** *You're a Rock Star (Someone Had to Tell You)* (2026-02-19)  
-
-[00:55] **Shannon:** Janet McBain, thank you so much for joining me on The Hotelier Huddle today. I realize how wildly busy you are running your own little empire there in New Zealand. Thank you for taking the time to do this.
-
-[00:58] **Janet McBain:** My pleasure. I'm so excited to see you!
-
-
-### Episode 17: Mike Godfrey (Revenue Management Consulting)
-
-**Guest:** Mike Godfrey — *Commercial & Revenue Management Strategist, Revenue Management Consulting*  
-**Episode:** *What Rental Cars Taught Me About Selling Rooms* (2026-02-27)  
-
-[04:20] **Shannon:** So, um now, having said all of that, you've managed revenue for everything from luxury resorts and hotels to car rentals. So, this is a funny question, but if hotels and cars had a friendly debate about whose revenue management is trickier, which side do you think would win?
-
-[04:39] **Mike Godfrey:** Okay, I think... [cough] Um, uh first of all, awesome intro. Thank you very much for that. Uh and it reminds me of some funny days that I've had in the uh um not-too-distant past. Um and rental cars was definitely a um jumping out of my comfort zone. Um and I'm really pleased I did it. I actually purposely left hotels to learn about revenue management in a different mindset, in a different fashion, and just to confirm that I actually understood what I was doing in a way.
+[13:08] **Jean-Christophe Buillet:** Uh well, you know, I I part of it was I don't want to say it wasn't my choice, but um I I wanted to be more of an artist, and my parents wanted me to be more of a technician. So, I went the the latter route. But um I n- I never really had it was there was not ever really much joy in that for me. So, I just didn't like being cloistered inside and just me and the computer and nobody else. So, I will say though, um as far as organisational skills and thinking through things procedurally, when you're really putting together as you're you're programming a a large project, you have all these tiny component pieces. And you have to get all these component pieces to work beautifully together. And there's definitely some uh you know, good amount of planning that goes into it and thought process. And I think that that kind of ordered thinking carries over into everything. And so that was really helpful, and I think as well, like you you really kind of get good at coming up with solutions for just about anything. So, your your whole, you know, your whole schooling is coming up with for with solutions for problems that people may or may not know exist. And so, you're kind of carrying over that same uh thought process in in everything you do. And so, I don't think it's necessarily hotel specific, but it certainly helped. And early on, it was helpful to have, I think, some technical acumen, cuz we just, you know, it was like, "Oh, I'll I'll install the network. No problem. I'll build a website. I'll do I'll, you know." Uh we'd sign up for a service, like, "Who's your tech contact?" Me. "Who's your billing contact?" Me. "Who's" "Who's your sales contact?" It's it's going to be me again. You're You're just stuck with me for everything. So, um certainly did help having uh having that knowledge, I think, and and it definitely did change the way I think I looked at things overall and and gave me more structured thinking. So, that that was really helpful.
 
 
 ### Episode 18: Heidi Gempel (HGE International (former VP Minor Hotels))
 
 **Guest:** Heidi Gempel — *Founder & Executive Coach, HGE International (former VP Minor Hotels)*  
 **Episode:** *Two Habits That Will Change How You Lead | Heidi Gempel* (2026-04-19)  
+**Source Provenance:** [https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Two-Habits-That-Will-Change-How-You-Lead--Heidi-Gempel-e3i4js1](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Two-Habits-That-Will-Change-How-You-Lead--Heidi-Gempel-e3i4js1)
 
-[01:34] **Shannon:** Then you were a project manager, facilitator at HSMAI, which is where you and I met doing various HSMAI facilitation and project work, right?
+[20:00] **Shannon:** Yes.
 
-[01:45] **Heidi Gempel:** Yes.
-
-
-### Episode 19: Stephen Fraser (EVT Connect Hospitality)
-
-**Guest:** Stephen Fraser — *Head of Reservation Services, EVT Connect Hospitality*  
-**Episode:** *How to Navigate Career Changes: Stephen Fraser* (2026-06-21)  
-
-[01:08] **Shannon:** I realized when I logged on just now, it's been a long time since I've seen you like in real life, in person. Like I talk to you and we email all the time, but I haven't seen your handsome face in the longest time. It's nice to see you. And you got new glasses, they're nice.
-
-[01:23] **Stephen Fraser:** Oh no, I'm just trying to be hip now. I'm getting old, but I got to be hip.
-
-
-### Episode 20: Matthew (Matt) Borger (Newcastle Airport / Destination Port Stephens)
-
-**Guest:** Matthew (Matt) Borger — *Airlines and Partnership Manager / Chairperson, Newcastle Airport / Destination Port Stephens*  
-**Episode:** *Hotel Sales Skills that Fill Planes: Matthew Borger* (2026-07-11)  
-
-[01:55] **Shannon:** I know, I know. Finally, after 30 years in Australia, most of the time I say "leisure" now, but anyway. Um, then you were Director International Sales and Director of Sales for Strata and Franchise, where we also worked together, at Accor for three years. Then, you were Group Director of Trade Sales and Regional Sales and Marketing Manager for Mantra for a couple of years. And you are currently Airlines and Partnership Manager for Newcastle Airport for the last six and a half years. And also, Chairperson Destination Port Stephens, father of two, husband to the lovely Christy. Have I forgotten anything?
-
-[02:34] **Matt:** Ah, you've hit the mark, Shannon, as you always do. [laughter] Um, no, yeah, no stone unturned. Think, um, a lot of, um, yeah, it's been a long journey, gosh. Yeah, wow. Right back to economic studies at Sydney University, so, um, through. But yeah, no, it's, um, it's been a, a long journey and, um, thrilled to talk to you today about it.
+[20:01] **Heidi Gempel:** So, besides the technical knowledge, but truly understanding, how do I actually—because we have very little—revenue managers have very little direct control over things.
 
 
 ---
 
-## 📊 Comparative Analysis & Strategic Patterns
+## Comparative Analysis and Key Insights
 
-- **Cross-Cutting Insight:** While individual experiences span diverse properties—from luxury 5-star resorts (The Boca Raton) to boutique retreats (A Sunset Chateau) and multi-unit groups (Minor Hotels, EVT, Mantra)—the underlying principles converge on empathy, continuous curiosity, and commercial discipline.
-- **Knowledge Base Utility:** This verbatim archive provides a rapid reference for hotel team training, leadership onboarding, and commercial strategy alignment.
+- **AI Automates Administrative Burden:** Software should eliminate rote calculations, data extraction, and repetitive guest queries.
+- **Protecting Guest Empathy:** The emotional core of hospitality—welcoming a weary traveller, de-escalating frustration, tailoring a personal stay—cannot be replicated by algorithms.
+- **Enterprise Data Sovereignty:** Hotel operators must ensure enterprise data integrity when integrating external models with core property systems.
