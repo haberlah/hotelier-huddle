@@ -5,7 +5,7 @@ description = "Model Context Protocol (MCP) server for The Hotelier Huddle podca
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "mcp>=1.2.0,<2",
+    "mcp>=1.2.0,<3",
 ]
 
 [project.scripts]
