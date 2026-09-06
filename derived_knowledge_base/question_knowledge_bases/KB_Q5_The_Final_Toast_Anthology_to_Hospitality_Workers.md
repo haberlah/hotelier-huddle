@@ -131,7 +131,7 @@ Throughout *The Hotelier Huddle*, host Shannon Knapp poses this core inquiry to 
 
 [28:10] **Shannon:** Absolutely right. Now, before I let you get back to your curious coaching and solving the world's problems at Corporate Magic, one final question we close every Hotelier Huddle episode with the very same question, which is a final toast. If you are raising a glass to celebrate hoteliers everywhere, what would your toast be?
 
-[29:15] **Kelley Wacher:** Well, you know what? I have this favorite quote, I'll just toast with my Wonder Woman mug here, is that—it's from Jay Danzie, and my toast to you is this: Your smile is your logo. Your personality is your business card. But how you leave others feeling after having had an experience with you, that is your trademark. So, my toast is to your trademark.
+[29:15] **Kelley Wacher:** Well, you know what? I have this favourite quote, I'll just toast with my Wonder Woman mug here, is that—it's from Jay Danzie, and my toast to you is this: Your smile is your logo. Your personality is your business card. But how you leave others feeling after having had an experience with you, that is your trademark. So, my toast is to your trademark.
 
 
 ### Episode 14: Jean-Christophe Buillet (A Sunset Chateau (Sedona, Arizona))
@@ -171,7 +171,7 @@ Throughout *The Hotelier Huddle*, host Shannon Knapp poses this core inquiry to 
 
 [31:08] **Shannon:** We close every single Hotelier Huddle podcast episode with the same question, which is a final toast. If you are raising a glass, and we both can, to celebrate hoteliers everywhere, to hoteliers, what would your toast be?
 
-[31:25] **Mike Godfrey:** I think the last question and topic point really does segue into this quite well, and my good old rhubarb and ginger gin here [laughter] um is my toast to those people, those more senior people in the in the industry we work in, that take the opportunity to recognize something special in somebody,
+[31:25] **Mike Godfrey:** I think the last question and topic point really does segue into this quite well, and my good old rhubarb and ginger gin here [laughter] um is my toast to those people, those more senior people in the in the industry we work in, that take the opportunity to recognise something special in somebody,
 
 
 ### Episode 18: Heidi Gempel (HGE International (former VP Minor Hotels))

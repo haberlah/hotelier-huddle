@@ -46,7 +46,7 @@
 
 [00:34] **Shannon:** I'm really curious, especially, um, you know, following your I'll use the word illustrious career, right? Having been what, a reservations manager in Europe, a revenue manager all over Europe, a multi-property cluster revenue manager, having worked in revenue management and marketing hotels for as long as you have. When it comes to searching, finding, and booking accommodation for your own holiday, how do you go about it?
 
-[01:04] **Tamie Matthews:** My secret when I'm traveling for pleasure is that I have a travel agent.
+[01:04] **Tamie Matthews:** My secret when I'm travelling for pleasure is that I have a travel agent.
 
 
 ### Expert Perspective: Matt Camp (Episode 07)

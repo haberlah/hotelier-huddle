@@ -38,7 +38,7 @@
 
 [05:28] **Shannon:** Because of course you did.
 
-[05:30] **Francis Purvey:** Yes. Young, they all said, "Yes, sir. Thank you very much, sir." The idea was young people having a good time in Aruba. But then we went up to a game and promoted the destination at a particular game, and boy, there were people walked by and said, "Oh, Aruba, I can't go there. There's nasty people." Which was most unfortunate. But in that case, saying you were from Aruba—now, fortunately that's gone away, and everybody loves Aruba these days. So, but there are circumstances that it doesn't always work in your favor.
+[05:30] **Francis Purvey:** Yes. Young, they all said, "Yes, sir. Thank you very much, sir." The idea was young people having a good time in Aruba. But then we went up to a game and promoted the destination at a particular game, and boy, there were people walked by and said, "Oh, Aruba, I can't go there. There's nasty people." Which was most unfortunate. But in that case, saying you were from Aruba—now, fortunately that's gone away, and everybody loves Aruba these days. So, but there are circumstances that it doesn't always work in your favour.
 
 
 ### Expert Perspective: Dr. David Haberlah (Episode 05)
@@ -76,7 +76,7 @@
 
 ### Expert Perspective: Jean-Christophe Buillet (Episode 14)
 
-[00:00] **Shannon:** In today's huddle, I traveled virtually to Sedona, Arizona, to talk with a wildly successful hotelier, the owner-operator of a Sunset Chateau Resort. He shared his insights on the behind-the-scenes hard work required to create magical guest experiences, and also how his computer engineering degree prepared him for the beautifully chaotic world of hospitality. I hope you enjoy the chat as much as I did. [00:34] Jean-Christophe Bouillet, thank you so much for doing this. I really appreciate you taking the time. By the way, I'm always pronouncing your surname Bouillet. Have I got that right?
+[00:00] **Shannon:** In today's huddle, I travelled virtually to Sedona, Arizona, to talk with a wildly successful hotelier, the owner-operator of a Sunset Chateau Resort. He shared his insights on the behind-the-scenes hard work required to create magical guest experiences, and also how his computer engineering degree prepared him for the beautifully chaotic world of hospitality. I hope you enjoy the chat as much as I did. [00:34] Jean-Christophe Bouillet, thank you so much for doing this. I really appreciate you taking the time. By the way, I'm always pronouncing your surname Bouillet. Have I got that right?
 
 [00:44] **Jean-Christophe Buillet:** Uh, it's it's a tough name. Jean-Christophe Bouillet is my—not a not a good American name, but that's okay. I've I've I've lived with it for a while, so. You can call me whatever you like though, I won't I won't complain.
 

@@ -147,7 +147,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/8
 
 [09:45] **Greg Brady:** and it's packaged beautifully, and it's uh uh and it's pre-purchased, so there's no argument. So, that's that's maybe the way it will go, or it may be something else, but uh certainly I think the industry is in for a lot of changes, uh moving on from the traditional that we've been used to experiencing.
 
-[10:09] **Shannon:** I I I agree, and that's such a smarter approach that you've described. And I know some hotel booking engines are actually already there where you can, you know, engage with the guest pre-arrival and request and prepurchase items and have it in the room on arrival. It's so much smarter because, um, I mean, in my observation, and maybe you'll correct me on this, but the minibar, to your point, is labor-intensive, it's messy, and I've never seen a property that actually turns a profit on that line item on the P&L. It's always a break-even at best, right?
+[10:09] **Shannon:** I I I agree, and that's such a smarter approach that you've described. And I know some hotel booking engines are actually already there where you can, you know, engage with the guest pre-arrival and request and prepurchase items and have it in the room on arrival. It's so much smarter because, um, I mean, in my observation, and maybe you'll correct me on this, but the minibar, to your point, is labour-intensive, it's messy, and I've never seen a property that actually turns a profit on that line item on the P&L. It's always a break-even at best, right?
 
 [10:40] **Greg Brady:** Yeah, it's difficult. You got two people walking around in a in a large hotel all day,
 
@@ -275,7 +275,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/8
 
 [19:14] **Greg Brady:** Yeah. We have to lead it, and we have to lead by example.
 
-[19:17] **Shannon:** So, now that you are in your partial retirement era and you're traveling around to hotels for a bit of leisure, a bit of work, a bit of consulting, um after 36 years in the industry, if if your early-career self could see you now, is there anything that would surprise your early-career self about about your career and your current lifestyle?
+[19:17] **Shannon:** So, now that you are in your partial retirement era and you're travelling around to hotels for a bit of leisure, a bit of work, a bit of consulting, um after 36 years in the industry, if if your early-career self could see you now, is there anything that would surprise your early-career self about about your career and your current lifestyle?
 
 [19:42] **Greg Brady:** Well, my early-career self was a uh primary school teacher.
 

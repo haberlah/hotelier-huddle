@@ -39,11 +39,11 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/A
 
 [00:34] **Shannon:** I'm really curious, especially, um, you know, following your I'll use the word illustrious career, right? Having been what, a reservations manager in Europe, a revenue manager all over Europe, a multi-property cluster revenue manager, having worked in revenue management and marketing hotels for as long as you have. When it comes to searching, finding, and booking accommodation for your own holiday, how do you go about it?
 
-[01:04] **Tamie Matthews:** My secret when I'm traveling for pleasure is that I have a travel agent.
+[01:04] **Tamie Matthews:** My secret when I'm travelling for pleasure is that I have a travel agent.
 
 [01:09] **Shannon:** They're not, you know, gone with the last millennium. They're still a thing. Travel agents are still important.
 
-[01:15] **Tamie Matthews:** Oh, I love my travel agent. She's amazing. She's booked all my holidays for the la- like since we came out of COVID, actually from before COVID. When I'm booking a leisure trip, the first thing is, it's who am I traveling with?
+[01:15] **Tamie Matthews:** Oh, I love my travel agent. She's amazing. She's booked all my holidays for the la- like since we came out of COVID, actually from before COVID. When I'm booking a leisure trip, the first thing is, it's who am I travelling with?
 
 [01:30] **Shannon:** Yeah, yeah, right.
 
@@ -55,13 +55,13 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/A
 
 [02:16] **Shannon:** And then you hand over like the heavy lifting in the booking part to a travel agent. That's interesting.
 
-[02:21] **Tamie Matthews:** I can give it all to my travel agent and then sit If I'm that time-poor busy person. And then the other thing I really, really like about it is the time I get on the plane, everything is paid for except my spending money. So, depending on how far in advance I start planning, I can pay it off in installments. I can pay it off in one lump sum. It's all paid before I get on the plane, so I'm not coming home to a massive credit card bill. When I travel for work, though, my travel agent doesn't do work 'cause work's simple. Then I just book a hotel, and quite often it's either one of my clients, or if there's no client, I'll start with Booking.com. And I research, and then I shortlist. Then I go to the direct website um and check it out 'cause I want to book direct. But it's amazing how many times I'm traveling for work, I can't book direct.
+[02:21] **Tamie Matthews:** I can give it all to my travel agent and then sit If I'm that time-poor busy person. And then the other thing I really, really like about it is the time I get on the plane, everything is paid for except my spending money. So, depending on how far in advance I start planning, I can pay it off in installments. I can pay it off in one lump sum. It's all paid before I get on the plane, so I'm not coming home to a massive credit card bill. When I travel for work, though, my travel agent doesn't do work 'cause work's simple. Then I just book a hotel, and quite often it's either one of my clients, or if there's no client, I'll start with Booking.com. And I research, and then I shortlist. Then I go to the direct website um and check it out 'cause I want to book direct. But it's amazing how many times I'm travelling for work, I can't book direct.
 
 [03:19] **Shannon:** Yeah.
 
 [03:20] **Tamie Matthews:** And it's things like when you go to someone's direct website, it's not always the price that's different. It's the terms and conditions.
 
-[03:28] **Shannon:** The terms and conditions. It's the trust factor. They might have videos. They might have more up-to-date info. Well, depends on how good they are at managing their own website, right? I- I think what I'm hearing from you is a lot about favorite, and comfort, and what you're used to, but also trust.
+[03:28] **Shannon:** The terms and conditions. It's the trust factor. They might have videos. They might have more up-to-date info. Well, depends on how good they are at managing their own website, right? I- I think what I'm hearing from you is a lot about favourite, and comfort, and what you're used to, but also trust.
 
 [03:44] **Tamie Matthews:** Yeah.
 
@@ -75,7 +75,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/A
 
 [04:32] **Shannon:** Consistency again, right? Yeah.
 
-[04:34] **Tamie Matthews:** Well, that's it's easy. I mean, one of the worst ones I ever had, I was traveling the south coast of New South Wales. I was with a friend and my child. I found a two-bedroom apartment. I could book that on Booking.com with a child in the apartment, but if I went to their direct website, I couldn't book a child.
+[04:34] **Tamie Matthews:** Well, that's it's easy. I mean, one of the worst ones I ever had, I was travelling the south coast of New South Wales. I was with a friend and my child. I found a two-bedroom apartment. I could book that on Booking.com with a child in the apartment, but if I went to their direct website, I couldn't book a child.
 
 [04:54] **Shannon:** That's really interesting. So I'm curious now. If that property was your client, how would you advise them to to not do that, or to make that better? Or would you advise them to change it, or or not? If they were your client, what would you do?
 
@@ -201,7 +201,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/A
 
 [14:53] **Tamie Matthews:** and numbers, but we had to learn that somehow.
 
-[14:56] **Shannon:** Yeah, even though there's so many different types of knowledge, and tricks, and technology, and things I wish I had when I was a reservations manager and then a revenue manager and, you know, even managing distribution centers, and yet I wouldn't change a thing. 'Cause, you know, I wouldn't change a thing. Um speaking of things you might change, though. Again, not with a magic wand, but while we're on the topic of you know, booking channels and, you know, how they sort of play and how they they cost, what would you ask the the actual OTA algorithm developers if you could feed them a truth serum first, and then ask them questions? What would you ask them?
+[14:56] **Shannon:** Yeah, even though there's so many different types of knowledge, and tricks, and technology, and things I wish I had when I was a reservations manager and then a revenue manager and, you know, even managing distribution centres, and yet I wouldn't change a thing. 'Cause, you know, I wouldn't change a thing. Um speaking of things you might change, though. Again, not with a magic wand, but while we're on the topic of you know, booking channels and, you know, how they sort of play and how they they cost, what would you ask the the actual OTA algorithm developers if you could feed them a truth serum first, and then ask them questions? What would you ask them?
 
 [15:39] **Tamie Matthews:** Uh with the algorithms, I'd really want to know how the algorithm is built. Like what percentage of that 100% is photos? What percentage is reviews? What percentage is conversion? What percentage is? Because I totally get they're a business, so they only want to promote the businesses that are performing for them.
 
@@ -353,7 +353,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/A
 
 [31:13] **Shannon:** Easier to train a revenue brain to be a sales manager, or a sales brain to be a revenue guru?
 
-[31:21] **Tamie Matthews:** I would go with revenue to sales because I think, personally, a lot of revenue managers are very good at listening and analyzing.
+[31:21] **Tamie Matthews:** I would go with revenue to sales because I think, personally, a lot of revenue managers are very good at listening and analysing.
 
 [31:25] **Shannon:** Mhm.
 
@@ -369,9 +369,9 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/A
 
 [31:50] **Shannon:** Yes.
 
-[31:52] **Shannon:** Interesting. That's so interesting. I mean, I've been both. I was temporarily a sales manager for a little while a long time ago, and I was spectacularly bad at it. I could listen and all, and I was good at the, you know, the selling part, but then when it came to the important parts, like the negotiating, which let's face it, is a very specialized skill, and that takes a very savvy, specialized kind of brain, and skill set, and, you know, savoir-faire that I just didn't have. Um so I could do the selling part, and the describing part, and the demand generation part, but the actual parts like the selling, and the converting, and the, you know, the hard sell, I don't think I could ever learn that. I don't think so.
+[31:52] **Shannon:** Interesting. That's so interesting. I mean, I've been both. I was temporarily a sales manager for a little while a long time ago, and I was spectacularly bad at it. I could listen and all, and I was good at the, you know, the selling part, but then when it came to the important parts, like the negotiating, which let's face it, is a very specialised skill, and that takes a very savvy, specialised kind of brain, and skill set, and, you know, savoir-faire that I just didn't have. Um so I could do the selling part, and the describing part, and the demand generation part, but the actual parts like the selling, and the converting, and the, you know, the hard sell, I don't think I could ever learn that. I don't think so.
 
-[32:40] **Tamie Matthews:** The one I struggled with was, you know when you had to go back the second year to re-contract them, and the first year they said, "Oh, we're going to produce 100 rooms, and we're going to do this, this, and this." And so us being revenue managers, we went back and checked our notes, analyzed it, and then they're going, "Well, we want a discount on last year's rate because we produced all these room nights," and you go, "No."
+[32:40] **Tamie Matthews:** The one I struggled with was, you know when you had to go back the second year to re-contract them, and the first year they said, "Oh, we're going to produce 100 rooms, and we're going to do this, this, and this." And so us being revenue managers, we went back and checked our notes, analysed it, and then they're going, "Well, we want a discount on last year's rate because we produced all these room nights," and you go, "No."
 
 [33:04] **Shannon:** No.
 

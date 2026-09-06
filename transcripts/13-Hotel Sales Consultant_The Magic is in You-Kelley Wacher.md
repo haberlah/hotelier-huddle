@@ -42,12 +42,12 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/H
 [00:32] **Kelley Wacher:** I'm delighted to be here, Shannon.
 
 
-[00:32] **Shannon:** Oh! Now, I always like to sort of go over the CV and the career journey so far of my guests. Not to read your CV at you, because you already know it, but just so that my listeners know just how qualified you are to be in the Huddle, and how amazing you are, and all of the different wildly interesting things that you've done in your career that we can all learn from, that I learn from all the time. So, I'd like, if I can, if you don't mind, I want to go right back to not the beginning beginning, but the beginning of when I met you a minute ago, which was way back to—well, five minutes ago, even. Yeah, five minutes ago. So, your first gig actually was sort of where I knew you initially, which was you were a youth worker with various youth organizations from 99 to 2001, and I know that informs how you work to this day. And I'm going to ask you some questions about that. You got your diploma of social welfare and social work from TAFE New South Wales. Wow. And then you were with Thomas Cook Travel from 1986 to 1996, 10 years, a decade with Thomas Cook. Wow, famous Thomas Cook. And then AMEX Global Business Travel for two years. And then long about the time when I met you is when you were with Carlson Wagonlit Travel. So, we were kind of in adjacent roles at Carlson, because I was at Radisson then, and you were the National Manager Hotel Programs in 1998 when I arrived in Sydney for my so-called temporary assignment! And you were one of the first industry people that I met in Australia, and I thought, "Oh! So, that's what they're like. Oh, this is going to be a breeze. It's going to be easy. Great. Wonderful, wonderful." And then you were with Radisson Hotels National Director of Sales '98 to '99. And then for seven whole years, you were Group Director of Sales with TFE Hotels until 2007. And now, you, having founded Corporate Magic, you're an executive coach and facilitator. 17 years, have I got those maths right?
+[00:32] **Shannon:** Oh! Now, I always like to sort of go over the CV and the career journey so far of my guests. Not to read your CV at you, because you already know it, but just so that my listeners know just how qualified you are to be in the Huddle, and how amazing you are, and all of the different wildly interesting things that you've done in your career that we can all learn from, that I learn from all the time. So, I'd like, if I can, if you don't mind, I want to go right back to not the beginning beginning, but the beginning of when I met you a minute ago, which was way back to—well, five minutes ago, even. Yeah, five minutes ago. So, your first gig actually was sort of where I knew you initially, which was you were a youth worker with various youth organisations from 99 to 2001, and I know that informs how you work to this day. And I'm going to ask you some questions about that. You got your diploma of social welfare and social work from TAFE New South Wales. Wow. And then you were with Thomas Cook Travel from 1986 to 1996, 10 years, a decade with Thomas Cook. Wow, famous Thomas Cook. And then AMEX Global Business Travel for two years. And then long about the time when I met you is when you were with Carlson Wagonlit Travel. So, we were kind of in adjacent roles at Carlson, because I was at Radisson then, and you were the National Manager Hotel Programs in 1998 when I arrived in Sydney for my so-called temporary assignment! And you were one of the first industry people that I met in Australia, and I thought, "Oh! So, that's what they're like. Oh, this is going to be a breeze. It's going to be easy. Great. Wonderful, wonderful." And then you were with Radisson Hotels National Director of Sales '98 to '99. And then for seven whole years, you were Group Director of Sales with TFE Hotels until 2007. And now, you, having founded Corporate Magic, you're an executive coach and facilitator. 17 years, have I got those maths right?
 
 [02:32] **Kelley Wacher:** I know, right? It's gone so fast!
 
 
-[03:00] **Shannon:** Wow! Ooh, you must be having fun. So, as a member of the Australian Board of NLP and certified life, business, and executive coach practitioner, master practitioner in NLP, NLP trainer, and Matrix Therapies practitioner, wow! You're also a qualified Extended DISC behavioral profiler, Gallup Strengths coach, leadership and project management consultant. Holy buckets! Wow! Thank you for joining, as busy as you are. Wowza!
+[03:00] **Shannon:** Wow! Ooh, you must be having fun. So, as a member of the Australian Board of NLP and certified life, business, and executive coach practitioner, master practitioner in NLP, NLP trainer, and Matrix Therapies practitioner, wow! You're also a qualified Extended DISC behavioural profiler, Gallup Strengths coach, leadership and project management consultant. Holy buckets! Wow! Thank you for joining, as busy as you are. Wowza!
 
 
 [03:00] **Kelley Wacher:** You make me sound so impressive!
@@ -56,7 +56,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/H
 [03:00] **Shannon:** No, it's not a sound. It's not a sound, it's because you are. It's because you are. So, I want to ask you, from hotel corridors to corporate coaching, was there an—we'll call it an "aha" moment, because Oprah's in town in Sydney at the moment, and Oprah being the inventor and queen of the "aha" moment. Was there an "aha" moment that made you realize you actually wanted to trade in hotel room blocks for neural rewiring?
 
 
-[04:06] **Kelley Wacher:** It's interesting. You know, I spent all that time in the travel industry, which I loved, and then moved into the dark side of hotel land, which I also very much enjoyed. And I guess it was—what I think about, I was thinking about this earlier today, when I think about it, it was kind of like a transition. I thought that I wanted to go in one direction. I thought I wanted to go to some big global company and travel the world and work in hotels in, you know, Paris, London, New York. But then I had this realization that what I really loved about hotels and this entire industry, the hospitality, tourism, travel industry, was the connection you get with people. And also, I was besotted with people's behavior.
+[04:06] **Kelley Wacher:** It's interesting. You know, I spent all that time in the travel industry, which I loved, and then moved into the dark side of hotel land, which I also very much enjoyed. And I guess it was—what I think about, I was thinking about this earlier today, when I think about it, it was kind of like a transition. I thought that I wanted to go in one direction. I thought I wanted to go to some big global company and travel the world and work in hotels in, you know, Paris, London, New York. But then I had this realization that what I really loved about hotels and this entire industry, the hospitality, tourism, travel industry, was the connection you get with people. And also, I was besotted with people's behaviour.
 
 [05:17] **Shannon:** Interesting. Yeah.
 
@@ -65,7 +65,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/H
 [05:25] **Shannon:** Yeah. Yeah, and interesting how intertwined it all is, and how those skills and experiences from one form how you work in the other, right? how intertwined it all is, and how those skills and experience, they all, you know, not just reflect each other, but really, you know, benefit, and those integrations are pretty strong, huh?
 
 
-[05:32] **Kelley Wacher:** Yeah. You know, I say to people—someone asked me this question the other day, and what I say to people is, spending time in hospitality, particularly in hotels, you get to meet every walk of life, right? So when we talk about behavior, I mean, you get to meet Marah Park, who've come down from Tamworth for their 50th anniversary, and they've saved up for a year, and they're just—they're coming into this hotel and they want to have a wowsers of a time, right? And then you get to meet the corporate that's coming and going, coming and going, and the one that says, "Do you know who I am?"
+[05:32] **Kelley Wacher:** Yeah. You know, I say to people—someone asked me this question the other day, and what I say to people is, spending time in hospitality, particularly in hotels, you get to meet every walk of life, right? So when we talk about behaviour, I mean, you get to meet Marah Park, who've come down from Tamworth for their 50th anniversary, and they've saved up for a year, and they're just—they're coming into this hotel and they want to have a wowsers of a time, right? And then you get to meet the corporate that's coming and going, coming and going, and the one that says, "Do you know who I am?"
 
 [06:05] **Shannon:** Oh, I've met that—I've met that person so many times.
 
@@ -77,7 +77,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/H
 
 [06:18] **Shannon:** "Can I help you?"
 
-[06:20] **Kelley Wacher:** Yes! But, and just, you know, young people, old people, people with ability, people with disability, neurodivergence, whatever it might be, you get to serve and deal with and speak with everybody. And so I think that for me was the biggest realization that people's behavior fascinated me. And so I went on this quest to learn more about how do I uncover the potential in people, and how do I help people discover that for themselves?, you know, young people, old people, people with abilities, people with disabilities, I have had the most amazing experiences in hotel land, and it's a real—anyone, you know, any person, anyone with kids that are coming out of school, university, this is a basis for learning how to deal with people. I love it.
+[06:20] **Kelley Wacher:** Yes! But, and just, you know, young people, old people, people with ability, people with disability, neurodivergence, whatever it might be, you get to serve and deal with and speak with everybody. And so I think that for me was the biggest realization that people's behaviour fascinated me. And so I went on this quest to learn more about how do I uncover the potential in people, and how do I help people discover that for themselves?, you know, young people, old people, people with abilities, people with disabilities, I have had the most amazing experiences in hotel land, and it's a real—anyone, you know, any person, anyone with kids that are coming out of school, university, this is a basis for learning how to deal with people. I love it.
 
 
 [06:45] **Shannon:** Indeed. Now, you called your business when you founded it, Corporate Magic, and I've often wondered if that was a cheeky nod to making difficult executives disappear with a magic wand, or is there actual sorcery involved in your NLP techniques? She's holding up a magic wand!
@@ -119,7 +119,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/H
 [09:25] **Shannon:** Interesting. Interesting.
 
 
-[09:25] **Kelley Wacher:** And so what I do is that, you know, I can bring out—I can bring out either Extended DISC and look at behavioral styles, I can bring out strengths, and I love that because a lot of people deal with confidence problems. And then I can use Matrix Therapies for people that want to clear parental patterning and things from their past that are getting them stuck now. And so this year I did imposter syndrome coaching certification, because, you know, that's a really massive thing now, well... And, yeah, so I—I just love—it's not, I don't just collect certifications like reward points, but I—I am an avid learner, and I enjoy using the techniques with people and seeing them shine through—through the outcomes that they get.
+[09:25] **Kelley Wacher:** And so what I do is that, you know, I can bring out—I can bring out either Extended DISC and look at behavioural styles, I can bring out strengths, and I love that because a lot of people deal with confidence problems. And then I can use Matrix Therapies for people that want to clear parental patterning and things from their past that are getting them stuck now. And so this year I did imposter syndrome coaching certification, because, you know, that's a really massive thing now, well... And, yeah, so I—I just love—it's not, I don't just collect certifications like reward points, but I—I am an avid learner, and I enjoy using the techniques with people and seeing them shine through—through the outcomes that they get.
 
 [10:14] **Shannon:** Yeah, that's great. And so in doing so, going from selling hotel rooms like you did, and selling that experience to serving people, is there a thread between those two?, going from selling hotel rooms like you used to, to selling people on themselves, is there anything that surprises you most about that transition from selling hotel rooms to selling people on their own strengths and their own magic?
 
@@ -190,7 +190,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/H
 [16:03] **Kelley Wacher:** And room keys. I'm so glad room keys are gone. I—the thing that I loved, you know what? I loved working at Thomas Cook, right? It was such camaraderie.
 
 
-[16:03] **Shannon:** I've always heard that about that organization. I've often heard that, yeah.
+[16:03] **Shannon:** I've always heard that about that organisation. I've often heard that, yeah.
 
 
 [16:03] **Kelley Wacher:** I still have friends to this day who I am friends with from Thomas Cook days.
@@ -271,7 +271,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/H
 [25:02] **Shannon:** I'm listening. I'm listening. I'm listening.
 
 
-[25:02] **Kelley Wacher:** Is, can we bring three things? Can we look up, all right? So, our observation skills is the first thing, is like look up and recognize the impact that you have on a person. That's number one. All right? Don't get so busy with the computer and the paperwork. There's nothing worse than seeing this part of a person when they're checking into a hotel, right?
+[25:02] **Kelley Wacher:** Is, can we bring three things? Can we look up, all right? So, our observation skills is the first thing, is like look up and recognise the impact that you have on a person. That's number one. All right? Don't get so busy with the computer and the paperwork. There's nothing worse than seeing this part of a person when they're checking into a hotel, right?
 
 
 [25:02] **Shannon:** Yes!
@@ -307,7 +307,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/H
 [28:10] **Shannon:** Absolutely right. Now, before I let you get back to your curious coaching and solving the world's problems at Corporate Magic, one final question we close every Hotelier Huddle episode with the very same question, which is a final toast. If you are raising a glass to celebrate hoteliers everywhere, what would your toast be?
 
 
-[29:15] **Kelley Wacher:** Well, you know what? I have this favorite quote, I'll just toast with my Wonder Woman mug here, is that—it's from Jay Danzie, and my toast to you is this: Your smile is your logo. Your personality is your business card. But how you leave others feeling after having had an experience with you, that is your trademark. So, my toast is to your trademark.
+[29:15] **Kelley Wacher:** Well, you know what? I have this favourite quote, I'll just toast with my Wonder Woman mug here, is that—it's from Jay Danzie, and my toast to you is this: Your smile is your logo. Your personality is your business card. But how you leave others feeling after having had an experience with you, that is your trademark. So, my toast is to your trademark.
 
 
 [29:15] **Shannon:** I love that. Cheers, Kelley Wacher! I love that.
@@ -334,7 +334,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/H
 [29:57] **Kelley Wacher:** Yeah, it's called the Travel Industry Mentor Experience. I'm a mentor there, and it's a wonderful group of volunteer mentors from all walks of life in the industry, and you get to be mentored by them over a, you know, six-month period, and it's such a great program. Everybody comes out of there feeling more confident, feeling like they've learned something, we've got people coming out that have been promoted and people have coming out feeling better about themselves. So if you are interested in being a part of the Travel Industry Mentor Experience, either as a mentee or as a mentor, please let me know. Sorry, that was a shameless plug!
 
 
-[30:55] **Shannon:** No, I allow it, especially for organizations that I love. Is there a website, or do we just Google TIME?
+[30:55] **Shannon:** No, I allow it, especially for organisations that I love. Is there a website, or do we just Google TIME?
 
 
 [30:55] **Kelley Wacher:** Oh, the website is travelindustrymentor.com.au.

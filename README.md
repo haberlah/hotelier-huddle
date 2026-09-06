@@ -36,7 +36,7 @@ This archive preserves Shannon's contribution so her legacy continues to support
 Clone or point your AI assistant directly at this directory:
 
 ```bash
-git clone https://github.com/haberlah/hotelier-huddle.git
+git clone __PROTECTED_TOKEN_10__
 ```
 
 All transcripts in `transcripts/` feature standardised YAML frontmatter, strict monotonic timestamps and verified speaker diarisation. You can ask:

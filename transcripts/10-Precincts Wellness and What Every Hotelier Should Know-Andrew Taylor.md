@@ -85,7 +85,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/P
 
 [08:44] **Shannon:** Very strong. Very strong.
 
-[08:46] **Andrew Taylor:** Yeah, that were strong names, and I said to them, "But the problem is, guys, in Australia, no one no one cares." As in, you're kind of not not talking to the customer or the in this case, the investors and the owners that are local in a way that they need and, you know, need to be um not respected, but just recognized. And
+[08:46] **Andrew Taylor:** Yeah, that were strong names, and I said to them, "But the problem is, guys, in Australia, no one no one cares." As in, you're kind of not not talking to the customer or the in this case, the investors and the owners that are local in a way that they need and, you know, need to be um not respected, but just recognised. And
 
 [09:12] **Shannon:** Sure.
 
@@ -117,7 +117,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/P
 
 [11:25] **Shannon:** They are. I mean, guests can spot a gimmick a mile away.
 
-[11:29] **Andrew Taylor:** So true. So, so, and in a world where that's now on their phone and and everyone's a home renovator or a designer in, you know, like that's literally the world we live in is that you got to be very careful with that word design-led. So, I I think there's a time and place for it, but I where my my mind goes these days is that it's kind of just an expectation that when I when you say the return on investment analysis, I think what guests are looking for is whatever design you deploy, they're looking for the experience that's attached to it. So, it's it can't just be, "Wow, look at that Eames chair that someone selected for the space." It's got to be, what is it actually telling us, why is that relevant? And and my passion beyond design is more, and and as you can see with the name of my business, creative lifestyle hotels and lifestyle, is the reason I went down that path was because I felt that hotels have become more than just a place to to sleep and and put your head and rest. In my opinion, there's this incredible merge. There's a there's a coming together of lifestyle experiences that people want when they're on the road, whether that's for leisure or corporate or whatever the the reason they're traveling.
+[11:29] **Andrew Taylor:** So true. So, so, and in a world where that's now on their phone and and everyone's a home renovator or a designer in, you know, like that's literally the world we live in is that you got to be very careful with that word design-led. So, I I think there's a time and place for it, but I where my my mind goes these days is that it's kind of just an expectation that when I when you say the return on investment analysis, I think what guests are looking for is whatever design you deploy, they're looking for the experience that's attached to it. So, it's it can't just be, "Wow, look at that Eames chair that someone selected for the space." It's got to be, what is it actually telling us, why is that relevant? And and my passion beyond design is more, and and as you can see with the name of my business, creative lifestyle hotels and lifestyle, is the reason I went down that path was because I felt that hotels have become more than just a place to to sleep and and put your head and rest. In my opinion, there's this incredible merge. There's a there's a coming together of lifestyle experiences that people want when they're on the road, whether that's for leisure or corporate or whatever the the reason they're travelling.
 
 [12:52] **Shannon:** And people can choose that now. There's there's options and people know how to find that now. And, you know, if it's out there, there's sort of a curated something for everyone now. So, you know, that's why people like you that are out there creating exactly the right thing, there's a market for it.
 
@@ -129,15 +129,15 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/P
 
 [15:18] **Shannon:** So, on that, I I recently enjoyed living vicariously through every Instagram minute of your European scouting trip. Maybe you'll tell me, I guess that's what you call it. Was it a scouting trip? Maybe you'll tell me. Um, I believe you have a London-based client for a significant hotel project in Paris, which I believe will be your first project in Europe. That might be still secret squirrel, I don't know. Tell me more, tell me more.
 
-[15:44] **Andrew Taylor:** No, no, I'll tell you more, because I'm I'm I'm pumped, as you can see. Um, I mean, I think I think, once again, 9 years into a hotel consulting business now that I think you follow um, once again, the niche that you're in and you follow where you know you can add value. Um, the projects we've been doing in Australia led us to this, so I think it's just I'll just connect a few dots for you, but it's this wasn't about us, you know, going out hunting for jobs in Europe, just to be clear. But we are very much in a in a global market, and and so so once again, for your listeners, the way that the deals work in Europe or Paris or for that matter, and the way that a hotel works in terms of financials is identical, no matter where you are in the world. Um, currency changes, labor costs might change, construction costs might fluctuate slightly, but the absolute fundamentals are identical. Um,
+[15:44] **Andrew Taylor:** No, no, I'll tell you more, because I'm I'm I'm pumped, as you can see. Um, I mean, I think I think, once again, 9 years into a hotel consulting business now that I think you follow um, once again, the niche that you're in and you follow where you know you can add value. Um, the projects we've been doing in Australia led us to this, so I think it's just I'll just connect a few dots for you, but it's this wasn't about us, you know, going out hunting for jobs in Europe, just to be clear. But we are very much in a in a global market, and and so so once again, for your listeners, the way that the deals work in Europe or Paris or for that matter, and the way that a hotel works in terms of financials is identical, no matter where you are in the world. Um, currency changes, labour costs might change, construction costs might fluctuate slightly, but the absolute fundamentals are identical. Um,
 
 [16:45] **Shannon:** Sure.
 
 [16:47] **Andrew Taylor:** In fact, the the the challenges that they're facing there are the same top three challenges here: high construction costs,
 
-[16:54] **Shannon:** Still labor costs, energy, construction, yeah.
+[16:54] **Shannon:** Still labour costs, energy, construction, yeah.
 
-[16:55] **Andrew Taylor:** labor costs. Yeah. Yeah. And and so that's that's just the backdrop. I think the thing that was happening in Australia is that we're seeing probably less new-build developments, and there's a reason, as we just said, there's COVID changed the whole game. Um, and I hate necessarily talking about COVID, but what we've got to talk about is the the the way that the the paradigm shifted in terms of real estate development.
+[16:55] **Andrew Taylor:** labour costs. Yeah. Yeah. And and so that's that's just the backdrop. I think the thing that was happening in Australia is that we're seeing probably less new-build developments, and there's a reason, as we just said, there's COVID changed the whole game. Um, and I hate necessarily talking about COVID, but what we've got to talk about is the the the way that the the paradigm shifted in terms of real estate development.
 
 [17:23] **Shannon:** Sure, sure.
 
@@ -169,7 +169,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/P
 
 [21:43] **Shannon:** Sure.
 
-[21:44] **Andrew Taylor:** precincts are the new way that I think a hotel either completes a precinct really nicely or it can anchor a precinct. So, office, you know, childcare center, might even have a health facility, a um we're doing some work with medical-related hospitals,
+[21:44] **Andrew Taylor:** precincts are the new way that I think a hotel either completes a precinct really nicely or it can anchor a precinct. So, office, you know, childcare centre, might even have a health facility, a um we're doing some work with medical-related hospitals,
 
 [22:01] **Shannon:** Okay.
 
@@ -193,7 +193,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/P
 
 [23:35] **Shannon:** Yeah.
 
-[23:35] **Andrew Taylor:** And so they're not even bothering. Um, but where I've identified a huge opportunity, and I'm not saying it's me, but it's it's it's in the market, is that operators or brands that are kind of leaning into that space and going, what what used to be maybe the idea of a spa, right? The the the in-house spa, which, by the way, never really made money is incredibly hard because you got to have therapists on board to service the client, in other words, it's very labor-intensive, the new way of doing wellness is the opposite, it's all about self-guided. I don't need someone to massage me or whatever, I have this routine, I have sauna, I have bath, I have, you know, and it's pretty much I know what I'm doing because I've kind of done it in my own time. And so when I rock up to a facility, as long as it's all clearly marked, and this is the kind of Gurner model, where he's just in the absolute premium end of the market, but where I rock up and I kind of have all the facilities on site and I can use everything I like and then I can leave and it's very much on my own time, um, you know, with with all my needs being met.
+[23:35] **Andrew Taylor:** And so they're not even bothering. Um, but where I've identified a huge opportunity, and I'm not saying it's me, but it's it's it's in the market, is that operators or brands that are kind of leaning into that space and going, what what used to be maybe the idea of a spa, right? The the the in-house spa, which, by the way, never really made money is incredibly hard because you got to have therapists on board to service the client, in other words, it's very labour-intensive, the new way of doing wellness is the opposite, it's all about self-guided. I don't need someone to massage me or whatever, I have this routine, I have sauna, I have bath, I have, you know, and it's pretty much I know what I'm doing because I've kind of done it in my own time. And so when I rock up to a facility, as long as it's all clearly marked, and this is the kind of Gurner model, where he's just in the absolute premium end of the market, but where I rock up and I kind of have all the facilities on site and I can use everything I like and then I can leave and it's very much on my own time, um, you know, with with all my needs being met.
 
 [24:58] **Shannon:** On your terms.
 
@@ -233,7 +233,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/P
 
 [28:00] **Shannon:** Like an atrium?
 
-[28:01] **Andrew Taylor:** Yes, but it didn't have any natural light. So, the imagine that concept of an internal garden type thing which is j- adjacent to the bathroom, so it made it feel like there was something to look at, but they said, "Listen, this is our entry-level room that now gets utilized by a ton of entertainers who don't need natural light and want the kind of real sanctuary type of offering."
+[28:01] **Andrew Taylor:** Yes, but it didn't have any natural light. So, the imagine that concept of an internal garden type thing which is j- adjacent to the bathroom, so it made it feel like there was something to look at, but they said, "Listen, this is our entry-level room that now gets utilised by a ton of entertainers who don't need natural light and want the kind of real sanctuary type of offering."
 
 [28:27] **Shannon:** I mean, that that sort of room type, just putting my revenue manager's hat on, that sort of room type is very good for airline crew segment, as well. They love that.
 
@@ -297,7 +297,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/P
 
 [36:27] **Shannon:** Just on what you were just saying then with that kind of deconstructed hospitality experience concept, with your developer's crystal ball hat on, do you think that then is the trend in hotel development that you're betting on, and do you think other people might think that's crazy, or is there maybe another development trend that that you're betting on that people who aren't, um, you know, in the game might think is a bit kay-kay?
 
-[36:57] **Andrew Taylor:** Yeah. I I'm okay to be called, you know, off off-center on that. I think that's that's a that's a compliment, I'll take it. But but, I mean, answering your question sort of seriously, I think the the trend is hotels that are not in traditional hotel locations, and I'll give you a couple of examples, but imagine Surry Hills/Redfern, right? So
+[36:57] **Andrew Taylor:** Yeah. I I'm okay to be called, you know, off off-centre on that. I think that's that's a that's a compliment, I'll take it. But but, I mean, answering your question sort of seriously, I think the the trend is hotels that are not in traditional hotel locations, and I'll give you a couple of examples, but imagine Surry Hills/Redfern, right? So
 
 [37:22] **Shannon:** Redfern/Surry Hills, yeah.
 
@@ -363,7 +363,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/P
 
 [43:24] **Andrew Taylor:** Yeah.
 
-[43:25] **Shannon:** Yeah, in fact, see that orange hard hat that sits on the bookshelf here in my home office? That was given to me in the Mirvac days. I think it must have been on one of the Sea Temple projects, and I was going there and we were working out room types and square meters of room types and market segments and something, and we were on a property tour, and I was given that orange hard hat. So, of course I kept it, and then I wore it at every opportunity, even when I absolutely did not need to be wearing a hard hat, like politicians who wear high-vis vests and they really don't have to have it on. So, I keep that hard hat for the same reason.
+[43:25] **Shannon:** Yeah, in fact, see that orange hard hat that sits on the bookshelf here in my home office? That was given to me in the Mirvac days. I think it must have been on one of the Sea Temple projects, and I was going there and we were working out room types and square metres of room types and market segments and something, and we were on a property tour, and I was given that orange hard hat. So, of course I kept it, and then I wore it at every opportunity, even when I absolutely did not need to be wearing a hard hat, like politicians who wear high-vis vests and they really don't have to have it on. So, I keep that hard hat for the same reason.
 
 [44:00] **Andrew Taylor:** That's it. That's it, cuz you were you were a part of it, and, um, nothing better than seeing it come out of the ground, as they say.
 

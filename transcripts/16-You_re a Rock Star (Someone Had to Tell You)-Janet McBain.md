@@ -73,7 +73,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Y
 
 [02:58] **Shannon:** Yeah.
 
-[03:00] **Janet McBain:** Just traveling. Just traveling.
+[03:00] **Janet McBain:** Just travelling. Just travelling.
 
 [03:03] **Shannon:** That's how it happens.
 
@@ -173,7 +173,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Y
 
 [18:15] **Janet McBain:** Yeah! It is the same thing! And you, but you know, in your in your career, and I I said to somebody once that, you know, the in the part my hotel career was working, working, working, having children, head down, working, working, working, having children, it's like, you don't have time to actually think, "Oh, hang on." Um, so it was a an amazing experience and it actually really reassured me. And and and what it did was kind of put put a label to things in terms of, um, "Oh, yes. That process that I've always thought is important is XYZ." Yeah. It was a great experience, and and met some wonderful people who who are still really important to me now. And, you know, we do business together, and yeah, it's great.
 
-[19:01] **Shannon:** You know, I, uh, a number of years ago, I did a a project management little mini degree course at University of Sydney. And I was so pleased that there was no other hotel people or contact center people, there was no one from my universe in that course. There was an engineer, there was a banker, there was some other finance people. And I loved that because I learned all of these disciplines and I saw that people in all of these other universes were kind of learning the same thing as me. And I, there was a guy that was in charge of building a bridge in Hobart, and he was, you know, a structural engineer, and he was in the same course as me. And I learned so much from him. Um, and I mean, it just, you know, to to your point, it just validates perhaps knowledge that you already have.
+[19:01] **Shannon:** You know, I, uh, a number of years ago, I did a a project management little mini degree course at University of Sydney. And I was so pleased that there was no other hotel people or contact centre people, there was no one from my universe in that course. There was an engineer, there was a banker, there was some other finance people. And I loved that because I learned all of these disciplines and I saw that people in all of these other universes were kind of learning the same thing as me. And I, there was a guy that was in charge of building a bridge in Hobart, and he was, you know, a structural engineer, and he was in the same course as me. And I learned so much from him. Um, and I mean, it just, you know, to to your point, it just validates perhaps knowledge that you already have.
 
 [19:14] **Janet McBain:** Yeah. Project management is a That as a discipline is actually really important and universal. Yes. And, I mean, in anything, right? It's one of those things, so.
 

@@ -107,7 +107,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/N
 
 [12:04] **Shannon:** What's the What year did the the Four Seasons Sydney in George Street, did that open '82, I think? '81 or '82 or something, 82?
 
-[12:08] **Michael Johnson:** '82? Yeah, yeah. Uh Regent it was, yeah, course, in its day. But yeah, so we had very, you know, and and that was exactly how how the world was, you know what I mean? We weren't traveling yet, but by gosh, we were getting the fever. And, um, and now, as we know, it's uh we look at forecasts year-on-year, and it continues to be growth. You know what I mean? So, and and, of course, right at this minute, in Sydney, they're screaming out saying, "We need more hotels, with the new airport opening. We still don't have enough airports in Western Sydney to to cope." Um, we've got a few ones in the pipeline, but they're they're going to be still 3 years away, you know, '27, maybe '28. So, yeah, I think we will find ourselves get short there. But, of course, for owners and for operators, they'll be sitting in the 90s, and they'll be happy. Um, but of course there is that element where, as you know, if we can't get in, we'll go somewhere else. You know what I mean? So you've got to
+[12:08] **Michael Johnson:** '82? Yeah, yeah. Uh Regent it was, yeah, course, in its day. But yeah, so we had very, you know, and and that was exactly how how the world was, you know what I mean? We weren't travelling yet, but by gosh, we were getting the fever. And, um, and now, as we know, it's uh we look at forecasts year-on-year, and it continues to be growth. You know what I mean? So, and and, of course, right at this minute, in Sydney, they're screaming out saying, "We need more hotels, with the new airport opening. We still don't have enough airports in Western Sydney to to cope." Um, we've got a few ones in the pipeline, but they're they're going to be still 3 years away, you know, '27, maybe '28. So, yeah, I think we will find ourselves get short there. But, of course, for owners and for operators, they'll be sitting in the 90s, and they'll be happy. Um, but of course there is that element where, as you know, if we can't get in, we'll go somewhere else. You know what I mean? So you've got to
 
 [13:08] **Shannon:** Yeah, there is a tipping point.
 
@@ -155,7 +155,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/N
 
 [22:34] **Shannon:** Yeah.
 
-[22:35] **Michael Johnson:** And and one thing I have done in the last 18 months since I retired, is I've traveled a lot. And um hey, we do it pretty well, I'm telling you. [laughter]
+[22:35] **Michael Johnson:** And and one thing I have done in the last 18 months since I retired, is I've travelled a lot. And um hey, we do it pretty well, I'm telling you. [laughter]
 
 [22:45] **Shannon:** Yeah. Yes. Yes.
 
@@ -287,11 +287,11 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/N
 
 [38:13] **Shannon:** Wow.
 
-[38:14] **Michael Johnson:** and Karla and our volunteers go behind the truck and carry it all in, make the beds, put the cutlery in the drawer, put the pots in the cupboard, you know, actually set up, because these people have already been traumatized enough, you know, we're that we're that step, we don't ask any questions, they come with a case manager, we just say, "Let's go shopping," and the next day, they go from a dwelling, which they've got through social housing normally, to now to home. Even, you know, they get to pick prints, and put prints on the walls, and, you know, uh, we put them up for them and all the rest, the whole nine yards. Yeah, so it's it's a wonderful, uh, organization,
+[38:14] **Michael Johnson:** and Karla and our volunteers go behind the truck and carry it all in, make the beds, put the cutlery in the drawer, put the pots in the cupboard, you know, actually set up, because these people have already been traumatized enough, you know, we're that we're that step, we don't ask any questions, they come with a case manager, we just say, "Let's go shopping," and the next day, they go from a dwelling, which they've got through social housing normally, to now to home. Even, you know, they get to pick prints, and put prints on the walls, and, you know, uh, we put them up for them and all the rest, the whole nine yards. Yeah, so it's it's a wonderful, uh, organisation,
 
 [38:56] **Shannon:** And it must be so empowering, because to your point about not asking questions, I mean, these people have come to have this need through such a range of of different reasons. You know, they could be fleeing domestic abuse, right? They could be, you know, um recently incarcerated, and now they're getting back into a home. They could have lost their home in a flood or a fire, and it's not about that. It's just about the need and fulfilling the need, and that must be just so empowering, uh, to be able to to solve for that.
 
-[39:30] **Michael Johnson:** Yeah, yeah. And and it's, um, and it's great. And so I'm very much as an ambassador, uh, talking to hotels. I meet with hotels and talk about their refurbishment programs, and, and I have to say, it it keeps me connected to the industry I love, which is great, and and it's doing good to 25 25 people a week, so I'm I'm happy. And the sweet thing is we have 70 volunteers that that work at ReLove, and, um, that are helping these clients through their process and then picking the furniture and it's quite phenomenal. We've got a 1500 square meter warehouse, and, um, out at Alexandria, and it's just a yeah, it's a really good thing, and I stumbled onto it just as I was finishing Accommodation Australia, and it it just to me, it was something, "Yeah, I'd like to help." For example, on Monday, I will be on Gold Coast at the AHA National Awards. Now, someone might think we're going for the party, well, I'm not going for the party, I'm going to talk about ReLove to everyone I meet. [laughter]
+[39:30] **Michael Johnson:** Yeah, yeah. And and it's, um, and it's great. And so I'm very much as an ambassador, uh, talking to hotels. I meet with hotels and talk about their refurbishment programs, and, and I have to say, it it keeps me connected to the industry I love, which is great, and and it's doing good to 25 25 people a week, so I'm I'm happy. And the sweet thing is we have 70 volunteers that that work at ReLove, and, um, that are helping these clients through their process and then picking the furniture and it's quite phenomenal. We've got a 1500 square metre warehouse, and, um, out at Alexandria, and it's just a yeah, it's a really good thing, and I stumbled onto it just as I was finishing Accommodation Australia, and it it just to me, it was something, "Yeah, I'd like to help." For example, on Monday, I will be on Gold Coast at the AHA National Awards. Now, someone might think we're going for the party, well, I'm not going for the party, I'm going to talk about ReLove to everyone I meet. [laughter]
 
 [40:31] **Shannon:** Nice! Nice! Nice!
 
@@ -311,7 +311,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/N
 
 [42:15] **Shannon:** I bet.
 
-[42:16] **Michael Johnson:** So, and you know what I'm finding, which is there's there's more uh organizations now changing mattresses and not bases. So we're getting plenty of mattresses, but we don't have many bases, so if anyone's got any bases out there, we need bases.
+[42:16] **Michael Johnson:** So, and you know what I'm finding, which is there's there's more uh organisations now changing mattresses and not bases. So we're getting plenty of mattresses, but we don't have many bases, so if anyone's got any bases out there, we need bases.
 
 [42:31] **Shannon:** Right, right.
 

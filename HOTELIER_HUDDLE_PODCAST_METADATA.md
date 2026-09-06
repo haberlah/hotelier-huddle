@@ -3,9 +3,9 @@
 **Podcast Title:** The Hotelier Huddle  
 **Host & Creator:** Shannon Knapp, CHIA (Founder & Principal, SKnapp Consulting)  
 **Producer & Audio Editor:** Heidi Egger  
-**Primary RSS Feed:** `https://anchor.fm/s/109667b00/podcast/rss`  
+**Primary RSS Feed:** `__PROTECTED_TOKEN_0__  
 **Apple Podcasts Directory:** `https://podcasts.apple.com/us/podcast/hotelier-huddle/id1840076396`  
-**Spotify for Podcasters:** `https://podcasters.spotify.com/pod/show/hotelier-huddle`  
+**Spotify for Podcasters:** `__PROTECTED_TOKEN_2__  
 **YouTube Channel:** `https://www.youtube.com/@HotelierHuddle`  
 **Date of Reconciliation:** 2026-09-02  
 
@@ -16,8 +16,8 @@
 ### Shannon Knapp, CHIA
 * **Role:** Host, Executive Producer & Creator
 * **Credentials:** Certification in Hotel Industry Analytics (CHIA)
-* **Experience:** 26+ years across reservations, revenue optimization, hotel distribution, and commercial strategy across the APAC region.
-* **Organization:** Founder of **SKnapp Consulting** (established January 2015). Advisory Board Member and Certified Trainer for **HSMAI Asia Pacific**.
+* **Experience:** 26+ years across reservations, revenue optimisation, hotel distribution, and commercial strategy across the APAC region.
+* **Organisation:** Founder of **SKnapp Consulting** (established January 2015). Advisory Board Member and Certified Trainer for **HSMAI Asia Pacific**.
 * **Verified Sources:**
   * [SKnapp Consulting](https://www.sknappconsulting.com): *"Shannon Knapp founded SKnapp Consulting in January 2015 to provide strategic support to small-to-medium hotel groups and independent properties across APAC."*
   * [Apple Podcasts Memorial](https://podcasts.apple.com/us/podcast/hotelier-huddle/id1840076396): *"This episode is released in memory of Shannon Knapp, our host and dear friend. Hotelier Huddle was Shannon's homage to the hotel industry and the people within it who meant the world to her."*
@@ -38,7 +38,7 @@ This repository is an homage to the legacy of Shannon Knapp, CHIA. Until her las
 
 ## 📋 Comprehensive Episode Provenance Register (All 20 Published Episodes)
 
-| Ep # | Published Title | Published Date | Published Duration | Guest & Role | Organization | Local Status | Source URL & Verified Snippet |
+| Ep # | Published Title | Published Date | Published Duration | Guest & Role | Organisation | Local Status | Source URL & Verified Snippet |
 | :---: | :--- | :---: | :---: | :--- | :--- | :---: | :--- |
 | **01** | Will Sales and Revenue Ever See Eye To Eye? | 2025-09-16 | 00:53:51 | Francis Purvey (EVP) | Sunlark Associates LLC | Held (Complete) | [Spotify](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Will-Sales-and-Revenue-Ever-See-Eye-To-Eye-e389aht): *"Shannon and Francis Purvey (Sunlark Associates) discuss the benefits of hotel revenue and sales managers working together..."* |
 | **02** | Fake It Until You Become It | 2025-09-16 | 00:32:04 | Alexia Kalis (CEO) | Kalis Hospitality Group | Held (Complete) | [Spotify](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Fake-It-Until-You-Become-It-e389fm3): *"Shannon and Alexia Kalis (Kalis Hospitality Group) discuss starting out in hospitality; keeping hotel staff motivated..."* |

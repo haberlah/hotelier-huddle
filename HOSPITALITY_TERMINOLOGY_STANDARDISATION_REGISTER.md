@@ -1,6 +1,6 @@
 # The Hotelier Huddle — Comprehensive Hospitality Terminology Standardisation Register
 
-This register documents the canonical spelling, capitalization, definition, and strategic context of all commercial, technological, operational, and organizational terminology identified across the complete 20-episode *Hotelier Huddle* audio knowledge base.
+This register documents the canonical spelling, capitalization, definition, and strategic context of all commercial, technological, operational, and organisational terminology identified across the complete 20-episode *Hotelier Huddle* audio knowledge base.
 
 ---
 
@@ -14,12 +14,12 @@ This register documents the canonical spelling, capitalization, definition, and 
 | **GOPPAR** | Goppar, goppar | **Gross Operating Profit Per Available Room** (Gross Operating Profit ÷ Available Rooms) | Highlighted by Tamie Matthews (Ep 03), Francis Purvey (Ep 01), and Greg Brady (Ep 06) to demonstrate why 100% full occupancy often destroys profit margin through inflated servicing costs. |
 | **ADR** | Adr, adr | **Average Daily Rate** (Total Room Revenue ÷ Total Rooms Sold) | Explored across multiple commercial episodes regarding rate integrity, yield management, and avoiding panic discounting during slow shoulder seasons. |
 | **Contribution Margin** | contribution margin | **Revenue Remaining After Variable Room Costs** | Discussed by Tamie Matthews (Ep 03) regarding the variable costs of cleaning, laundry, utilities, and wear-and-tear incurred by filling low-yielding rooms. |
-| **Pace / Pick-up** | pace, pick up, pickup | **Booking Pace & Rate of Reservation Intake** | Analyzed by Mike Godfrey (Ep 17) (applying car rental pacing) and Matt Camp (Ep 07) regarding the discipline required not to panic over empty forward books. |
+| **Pace / Pick-up** | pace, pick up, pickup | **Booking Pace & Rate of Reservation Intake** | Analysed by Mike Godfrey (Ep 17) (applying car rental pacing) and Matt Camp (Ep 07) regarding the discipline required not to panic over empty forward books. |
 | **MLOS / LOS** | mlos, min stay | **Minimum Length of Stay / Length of Stay** | Discussed by Mike Godfrey (Ep 17) and Matt Camp (Ep 07) as a strategic demand filter to protect high-yield event weekends and smooth shoulder dates. |
-| **Content Parity** | content parity, rate parity | **Uniformity and Quality of Media & Descriptions Across Channels** | Analyzed by Tamie Matthews (Ep 03) as a crucial driver of direct bookings; if third-party OTAs show better photos or clearer room types, guests will book there even if rates are equal. |
+| **Content Parity** | content parity, rate parity | **Uniformity and Quality of Media & Descriptions Across Channels** | Analysed by Tamie Matthews (Ep 03) as a crucial driver of direct bookings; if third-party OTAs show better photos or clearer room types, guests will book there even if rates are equal. |
 | **Anecdata** | anecdata | **Frontline Qualitative Feedback Used Alongside Hard Data** | Coined and championed by Matt Camp (Ep 07) to describe feedback from front desk and reservation agents that explains "the why" behind booking numbers. |
 | **Day Trading (in Revenue)** | day trading | **Hyper-Reactive, High-Frequency Rate Alterations** | Critiqued by Matt Camp (Ep 07) as the destructive practice of changing room rates multiple times daily, confusing consumers, delaying bookings, and destroying market trust. |
-| **Displacement Analysis** | displacement analysis | **Evaluating Contracted Business vs. Transient Demand** | Explored by Francis Purvey (Ep 01) and Matt Camp (Ep 07) to assess whether accepting group or corporate blocks displaces higher-yielding retail transient travelers. |
+| **Displacement Analysis** | displacement analysis | **Evaluating Contracted Business vs. Transient Demand** | Explored by Francis Purvey (Ep 01) and Matt Camp (Ep 07) to assess whether accepting group or corporate blocks displaces higher-yielding retail transient travellers. |
 | **Wash Factor** | wash factor, wash | **Projected Slippage, Cancellations, and Attrition** | Applied by Matt Camp (Ep 07) and Mike Godfrey (Ep 17) to group blocks, wedding room commitments, and peak leisure holiday bookings. |
 | **Booking Window / Lead Time** | booking window, lead time | **Duration Between Booking Creation and Guest Check-in** | Discussed across commercial episodes regarding post-COVID compression of lead times and regional leisure booking patterns. |
 
@@ -30,14 +30,14 @@ This register documents the canonical spelling, capitalization, definition, and 
 | Canonical Term | Definition & Role | Strategic Context in Podcast |
 | :--- | :--- | :--- |
 | **AI Operating System (AI OS)** | **Unified Machine Intelligence Orchestration Layer** | Explored in depth by Dr. David Haberlah (Ep 05) as the coming shift where autonomous AI agents orchestrate hotel workflows across PMS, CRM, and guest messaging. |
-| **SLMs vs. LLMs** | **Small Language Models vs. Large Language Models** | Analyzed by Dr. David Haberlah (Ep 05); specialized SLMs run locally/cost-effectively on hotel infrastructure, while frontier LLMs handle complex multi-step reasoning. |
+| **SLMs vs. LLMs** | **Small Language Models vs. Large Language Models** | Analysed by Dr. David Haberlah (Ep 05); specialised SLMs run locally/cost-effectively on hotel infrastructure, while frontier LLMs handle complex multi-step reasoning. |
 | **Enterprise Data Boundary** | **Containment Architecture for Proprietary Hotel Data** | Emphasized by Dr. David Haberlah (Ep 05) as vital for safeguarding guest credit cards, PII, and negotiated corporate rate folios from public LLM training leakage. |
 | **RAG** | **Retrieval-Augmented Generation** | Grounding generative AI responses directly in verified hotel SOPs, local concierge recommendations, and booking terms to prevent hallucinations (Dr. David Haberlah, Ep 05). |
 | **Agentic Workflows** | **Autonomous Multi-Step AI Task Execution** | Moving beyond passive chat to AI agents that autonomously modify reservations, issue digital keys, and execute marketing actions (Dr. David Haberlah, Ep 05). |
-| **Hyper-Personalisation** | **Dynamic Tailoring of Guest Itineraries and Amenities** | Analyzed by Joaquin D'Orazio (Ep 09) and Dr. David Haberlah (Ep 05) as the sweet spot where AI synthesizes guest preferences to enable high-touch human service. |
-| **PMS** | **Property Management System** (Core hotel transactional database) | Dr. David Haberlah (Ep 05), Jasmine Xie (Ep 11), Stephen Fraser (Ep 19), and Jean-Christophe Buillet (Ep 14) on legacy database fragmentation and API modernization. |
+| **Hyper-Personalisation** | **Dynamic Tailoring of Guest Itineraries and Amenities** | Analysed by Joaquin D'Orazio (Ep 09) and Dr. David Haberlah (Ep 05) as the sweet spot where AI synthesizes guest preferences to enable high-touch human service. |
+| **PMS** | **Property Management System** (Core hotel transactional database) | Dr. David Haberlah (Ep 05), Jasmine Xie (Ep 11), Stephen Fraser (Ep 19), and Jean-Christophe Buillet (Ep 14) on legacy database fragmentation and API modernisation. |
 | **RMS** | **Revenue Management System** (Algorithmic pricing and forecasting engine) | Matt Camp (Ep 07), Heidi Gempel (Ep 18), and Francis Purvey (Ep 01) on balancing algorithmic recommendations with market intuition. |
-| **CRS** | **Central Reservation System** (Enterprise reservation distribution engine) | Stephen Fraser (Ep 19) & Jasmine Xie (Ep 11) on contact center operations and waitlist conversions. |
+| **CRS** | **Central Reservation System** (Enterprise reservation distribution engine) | Stephen Fraser (Ep 19) & Jasmine Xie (Ep 11) on contact centre operations and waitlist conversions. |
 | **GDS** | **Global Distribution System** (Sabre, Amadeus, Travelport) | Francis Purvey (Ep 01) & Kelley Wacher (Ep 13) on corporate travel procurement, consortia rates, and agency blocks. |
 | **OTA / OTAs** | **Online Travel Agency** (Booking.com, Expedia, Agoda) | Tamie Matthews (Ep 03) and Matt Camp (Ep 07) on OTA commission burdens, visibility algorithms, and converting third-party bookers into direct repeat guests. |
 | **Channel Manager** | **Software Synchronizing Rates and Inventory Across Channels** | Tamie Matthews (Ep 03) and Jean-Christophe Buillet (Ep 14) on two-way PMS connectivity and avoiding overbookings. |

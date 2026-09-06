@@ -69,7 +69,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/W
 
 [05:28] **Shannon:** Because of course you did.
 
-[05:30] **Francis Purvey:** Yes. Young, they all said, "Yes, sir. Thank you very much, sir." The idea was young people having a good time in Aruba. But then we went up to a game and promoted the destination at a particular game, and boy, there were people walked by and said, "Oh, Aruba, I can't go there. There's nasty people." Which was most unfortunate. But in that case, saying you were from Aruba—now, fortunately that's gone away, and everybody loves Aruba these days. So, but there are circumstances that it doesn't always work in your favor.
+[05:30] **Francis Purvey:** Yes. Young, they all said, "Yes, sir. Thank you very much, sir." The idea was young people having a good time in Aruba. But then we went up to a game and promoted the destination at a particular game, and boy, there were people walked by and said, "Oh, Aruba, I can't go there. There's nasty people." Which was most unfortunate. But in that case, saying you were from Aruba—now, fortunately that's gone away, and everybody loves Aruba these days. So, but there are circumstances that it doesn't always work in your favour.
 
 [06:03] **Shannon:** No. Indeed, I was just about to ask you if, as is in my experience so far in this industry, the consumers and tourists' memory is relatively short? And I was going to ask you if they've, if your key target markets for Aruba have pretty much forgotten about that, or if not, forgiven Aruba and then they're coming back in droves now? Cuz the memory for that sort of thing is relatively short normally, even if it's something horrifying usually, right?
 
@@ -209,7 +209,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/W
 
 [31:13] **Francis Purvey:** I mean, I saw on the news, I didn't see this in fact, but in Florida the other day, you might have seen it too, that somebody was checking, it was a limited service hotel, somebody was checking into this hotel and instead of there being a person at the front desk, there was a iPad. And the person was somewhere trying to check somebody in with absolutely no personal experience, no personal interaction, and they call that hospitality. I mean, fortunately, from what I understand, it was shut down.
 
-[31:43] **Shannon:** I wondered about that. Were they just trying to be clever and be tech-savvy and "Oh, look how clever we are, we've got tech running the hotel." I think it's it's it's that. It's probably "Let's save on some labor" and, you know, save on some human, yeah, because, you know, a human employee overhead with on-costs and, you know, head count, actual human head count is a lot more expensive. Or were they just trying to be clever? But I agree with you, I mean, hospitality is always and in my view will always be about people. And I don't think that property did themselves any favors, because the press that I've read about it was not great.
+[31:43] **Shannon:** I wondered about that. Were they just trying to be clever and be tech-savvy and "Oh, look how clever we are, we've got tech running the hotel." I think it's it's it's that. It's probably "Let's save on some labour" and, you know, save on some human, yeah, because, you know, a human employee overhead with on-costs and, you know, head count, actual human head count is a lot more expensive. Or were they just trying to be clever? But I agree with you, I mean, hospitality is always and in my view will always be about people. And I don't think that property did themselves any favours, because the press that I've read about it was not great.
 
 [32:09] **Francis Purvey:** Yeah, but to your point, that's press today, tomorrow people will forget about it.
 
@@ -267,7 +267,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/W
 
 [41:03] **Shannon:** Yes.
 
-[41:04] **Francis Purvey:** So what tech has done, it's had to make the hotels, revenue managers, sales, operations a lot smarter. I know they talk about personalized travel, you know, people travel, they want their personalization. I'd I'd—a lot of times when I check in a hotel, I don't know what I want, so God knows if how the hotel knows what I want. But, um, I think it I think it's a challenge. I think it's good in general, I mean, there's extremes and AI—I have no idea where AI is going except I know it's changing tomorrow.
+[41:04] **Francis Purvey:** So what tech has done, it's had to make the hotels, revenue managers, sales, operations a lot smarter. I know they talk about personalised travel, you know, people travel, they want their personalisation. I'd I'd—a lot of times when I check in a hotel, I don't know what I want, so God knows if how the hotel knows what I want. But, um, I think it I think it's a challenge. I think it's good in general, I mean, there's extremes and AI—I have no idea where AI is going except I know it's changing tomorrow.
 
 [41:38] **Shannon:** Yes.
 
@@ -311,7 +311,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/W
 
 [46:50] **Shannon:** You know, let me just ask you, Francis, um, two more quick questions before I let you go back to, um, driving more tourism into Sunlark Associates Hotels and Vero Beach. If you could time travel and give your early career self a warning, what would it be? Or or what would be one thing you would tell your early career self, "Don't fret about that, don't freak about, don't freak out about that, it's going to be fine"?
 
-[47:16] **Francis Purvey:** Well, I I think what you said is actually what I would say to myself in the sense that don't take yourself too seriously, there's there's no place for for ego or boastfulness in in any industry. Uh, take your successes and and be proud of them, speak of them if you want to. I guess to my to my thinking, that's really where you have to go. You can't I mean, I know people who stress and I know people are driven to I personally have been driven to stress, uh, by some general managers. Uh, and you have to walk away from it. Probably one of my favorite movies is, uh, Monty Python in in, um, Holy Grail...
+[47:16] **Francis Purvey:** Well, I I think what you said is actually what I would say to myself in the sense that don't take yourself too seriously, there's there's no place for for ego or boastfulness in in any industry. Uh, take your successes and and be proud of them, speak of them if you want to. I guess to my to my thinking, that's really where you have to go. You can't I mean, I know people who stress and I know people are driven to I personally have been driven to stress, uh, by some general managers. Uh, and you have to walk away from it. Probably one of my favourite movies is, uh, Monty Python in in, um, Holy Grail...
 
 [48:01] **Shannon:** Life of Brian?
 
@@ -347,7 +347,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/W
 
 [50:44] **Shannon:** Oh! Goodness me. Resort fees and resort taxes and this fee and that fee, it's sort of like what airlines have tried to get away with with a a baggage tax and "Oh, you wanted to have a seat on the airplane? Oh, that'll be extra." Um, yeah. I mean, hopefully we're, you know, not not, uh, nickeling and diming customers, as we used to call it. But you know, to your point, we have had, even here in Australia in destinations like Byron Bay, Australia, we've had a lot of over—we've been overfed lions in some destinations where we just have too much tourism, too many guests, and it does create multiple kinds of problems.
 
-[51:24] **Francis Purvey:** Yeah. And and travel is one of those things that for many is a tedious job every day going traveling in hotel and this and that and the next thing. Um, but a lot of times these people say, "Oh, but look at all the points I got and our family went to Bermuda, uh, and all I could use all my points," you know, so things like that. It's it's all a big cycle and it and it's all good.
+[51:24] **Francis Purvey:** Yeah. And and travel is one of those things that for many is a tedious job every day going travelling in hotel and this and that and the next thing. Um, but a lot of times these people say, "Oh, but look at all the points I got and our family went to Bermuda, uh, and all I could use all my points," you know, so things like that. It's it's all a big cycle and it and it's all good.
 
 [51:47] **Shannon:** Yes. And you see this is where I am firmly convinced that AI, with all of its perils and problems and nonsense and troubles, AI and solid, proven revenue management systems can actually help hotels and even destinations not be overfed lions that then have to, you know, put crazy taxes on tourists and squirt them with water bottles in cafes to get them to go away. If we use AI and our revenue management systems in the way that they're intended and designed to be more data-driven and science and fact-based in our predictive forecasting, then we can put some of those filters and fences in place long before we become overfed lions and we have to put terrible things in place to force them to go away. So maybe in that way, you know, that's where I think AI and revenue management RMSs can actually make us smarter and better providers of hospitality.
 
@@ -355,7 +355,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/W
 
 [53:07] **Shannon:** Yes.
 
-[53:08] **Francis Purvey:** Uh, recycling is yet another. I I did see a thing yesterday that said that business travelers are not as concerned about that, they just want to get in and out, I guess, uh, but in general, people have become much more aware of it, and destinations, and cities, and hotels to to a certain extent. So, maybe we are all trying to save the planet after all.
+[53:08] **Francis Purvey:** Uh, recycling is yet another. I I did see a thing yesterday that said that business travellers are not as concerned about that, they just want to get in and out, I guess, uh, but in general, people have become much more aware of it, and destinations, and cities, and hotels to to a certain extent. So, maybe we are all trying to save the planet after all.
 
 [53:32] **Shannon:** Wouldn't that be nice? Well, thank you, Francis Purvey, for joining me today on The Hotelier Huddle. I always enjoy chatting with you. We should make this a a more frequent thing.
 

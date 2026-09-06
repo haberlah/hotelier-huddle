@@ -48,7 +48,7 @@
 
 ### Expert Perspective: Jean-Christophe Buillet (Episode 14)
 
-[00:00] **Shannon:** In today's huddle, I traveled virtually to Sedona, Arizona, to talk with a wildly successful hotelier, the owner-operator of a Sunset Chateau Resort. He shared his insights on the behind-the-scenes hard work required to create magical guest experiences, and also how his computer engineering degree prepared him for the beautifully chaotic world of hospitality. I hope you enjoy the chat as much as I did. [00:34] Jean-Christophe Bouillet, thank you so much for doing this. I really appreciate you taking the time. By the way, I'm always pronouncing your surname Bouillet. Have I got that right?
+[00:00] **Shannon:** In today's huddle, I travelled virtually to Sedona, Arizona, to talk with a wildly successful hotelier, the owner-operator of a Sunset Chateau Resort. He shared his insights on the behind-the-scenes hard work required to create magical guest experiences, and also how his computer engineering degree prepared him for the beautifully chaotic world of hospitality. I hope you enjoy the chat as much as I did. [00:34] Jean-Christophe Bouillet, thank you so much for doing this. I really appreciate you taking the time. By the way, I'm always pronouncing your surname Bouillet. Have I got that right?
 
 [00:44] **Jean-Christophe Buillet:** Uh, it's it's a tough name. Jean-Christophe Bouillet is my—not a not a good American name, but that's okay. I've I've I've lived with it for a while, so. You can call me whatever you like though, I won't I won't complain.
 

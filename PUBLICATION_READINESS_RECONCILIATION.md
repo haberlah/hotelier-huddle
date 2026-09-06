@@ -3,9 +3,9 @@
 **Date of Reconciliation:** 2026-09-05  
 **Corpus Root:** `/Users/haberlah/Documents/hotelier huddle/hotelier huddle`  
 **Live Feeds Audited:**
-* RSS Feed: `https://anchor.fm/s/109667b00/podcast/rss` (20 items verified)
+* RSS Feed: `__PROTECTED_TOKEN_0__ (20 items verified)
 * Apple Podcasts: `https://podcasts.apple.com/us/podcast/hotelier-huddle/id1840076396` (id1840076396, 20 items verified)
-* Spotify for Podcasters: `https://podcasters.spotify.com/pod/show/hotelier-huddle`
+* Spotify for Podcasters: `__PROTECTED_TOKEN_2__
 * **Corpus Completion Status:** **100% COMPLETE (All 20 Published Episodes Transcribed, Audited, and Held Locally)**
 
 ---

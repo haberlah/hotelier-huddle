@@ -139,7 +139,7 @@ Throughout *The Hotelier Huddle*, host Shannon Knapp poses this core inquiry to 
 **Guest:** Kelley Wacher — *Founder & Executive Coach, Corporate Magic™ / TIME Board Director*  
 **Episode:** *Hotel Sales Consultant: The Magic is in You* (2025-12-21)  
 
-[03:00] **Shannon:** Wow! Ooh, you must be having fun. So, as a member of the Australian Board of NLP and certified life, business, and executive coach practitioner, master practitioner in NLP, NLP trainer, and Matrix Therapies practitioner, wow! You're also a qualified Extended DISC behavioral profiler, Gallup Strengths coach, leadership and project management consultant. Holy buckets! Wow! Thank you for joining, as busy as you are. Wowza!
+[03:00] **Shannon:** Wow! Ooh, you must be having fun. So, as a member of the Australian Board of NLP and certified life, business, and executive coach practitioner, master practitioner in NLP, NLP trainer, and Matrix Therapies practitioner, wow! You're also a qualified Extended DISC behavioural profiler, Gallup Strengths coach, leadership and project management consultant. Holy buckets! Wow! Thank you for joining, as busy as you are. Wowza!
 
 [03:00] **Kelley Wacher:** You make me sound so impressive!
 
@@ -149,7 +149,7 @@ Throughout *The Hotelier Huddle*, host Shannon Knapp poses this core inquiry to 
 **Guest:** Jean-Christophe Buillet — *Owner-Operator, A Sunset Chateau (Sedona, Arizona)*  
 **Episode:** *Hotel Owner Insights: 23 Years Of Building Balance* (2026-01-07)  
 
-[00:00] **Shannon:** In today's huddle, I traveled virtually to Sedona, Arizona, to talk with a wildly successful hotelier, the owner-operator of a Sunset Chateau Resort. He shared his insights on the behind-the-scenes hard work required to create magical guest experiences, and also how his computer engineering degree prepared him for the beautifully chaotic world of hospitality. I hope you enjoy the chat as much as I did. [00:34] Jean-Christophe Bouillet, thank you so much for doing this. I really appreciate you taking the time. By the way, I'm always pronouncing your surname Bouillet. Have I got that right?
+[00:00] **Shannon:** In today's huddle, I travelled virtually to Sedona, Arizona, to talk with a wildly successful hotelier, the owner-operator of a Sunset Chateau Resort. He shared his insights on the behind-the-scenes hard work required to create magical guest experiences, and also how his computer engineering degree prepared him for the beautifully chaotic world of hospitality. I hope you enjoy the chat as much as I did. [00:34] Jean-Christophe Bouillet, thank you so much for doing this. I really appreciate you taking the time. By the way, I'm always pronouncing your surname Bouillet. Have I got that right?
 
 [00:44] **Jean-Christophe Buillet:** Uh, it's it's a tough name. Jean-Christophe Bouillet is my—not a not a good American name, but that's okay. I've I've I've lived with it for a while, so. You can call me whatever you like though, I won't I won't complain.
 
@@ -159,7 +159,7 @@ Throughout *The Hotelier Huddle*, host Shannon Knapp poses this core inquiry to 
 **Guest:** Andrew Turner — *Head of Development – Australia, Minor Hotels*  
 **Episode:** *How I Grew 48 Hotels Worth $1.8 Billion (Career Advice for Hoteliers) with Andrew Turner* (2026-01-21)  
 
-[02:33] **Shannon:** So when you and my other former boss, Tim Davis, hired me at Mirvac, I think I was the first person in the organization to have "revenue" in their title. Thank you for that, by the way.
+[02:33] **Shannon:** So when you and my other former boss, Tim Davis, hired me at Mirvac, I think I was the first person in the organisation to have "revenue" in their title. Thank you for that, by the way.
 
 [02:46] **Andrew Turner:** You certainly were. We didn't We didn't know what it meant then.
 

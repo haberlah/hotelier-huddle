@@ -33,7 +33,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/T
 
 ## Complete Verbatim Transcript
 
-[00:00] **Shannon:** In today's episode of The Hotelier Huddle, I had a delightful, inspiring chat with one of my favorite people, Tracy Martin, who is the founder of The Wisdom Well. We spoke about several fascinating topics including her terrific advice for hoteliers who may be dreaming of going solo. We spoke about our gratitude for hotel general managers out there and the types of strengths it takes to be successful in our industry. I hope you enjoy the discussion as much as I did.
+[00:00] **Shannon:** In today's episode of The Hotelier Huddle, I had a delightful, inspiring chat with one of my favourite people, Tracy Martin, who is the founder of The Wisdom Well. We spoke about several fascinating topics including her terrific advice for hoteliers who may be dreaming of going solo. We spoke about our gratitude for hotel general managers out there and the types of strengths it takes to be successful in our industry. I hope you enjoy the discussion as much as I did.
 [00:33] Tracy Martin, thank you so much for joining The Hotelier Huddle. I'm so thrilled to talk to you today. I mean, I'm thrilled to talk to you anytime, Tracy Martin.
 
 [00:43] **Tracy Martin:** Thanks, Shannon, and likewise!
@@ -88,7 +88,7 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/T
 
 [09:34] **Shannon:** And they're not price obsessed. It's about the experience, and they're focused on, "What am I going to get out of this? How is this going to enrich my life?", not, "How much is it going to empty my bank account?"
 
-[09:44] **Tracy Martin:** It's completely experience related, and, um, believe it or not, ev- every single guest booking a property, whether it's a corporate traveler or uh and where that property is located, it can be CBD, or it can be, you know, as exquisite as a as a private safari camp, but you every traveler is looking for an experience, even a corporate traveler, right? So, it's about marrying their um their needs and their wants with with the right budget.
+[09:44] **Tracy Martin:** It's completely experience related, and, um, believe it or not, ev- every single guest booking a property, whether it's a corporate traveller or uh and where that property is located, it can be CBD, or it can be, you know, as exquisite as a as a private safari camp, but you every traveller is looking for an experience, even a corporate traveller, right? So, it's about marrying their um their needs and their wants with with the right budget.
 
 [10:17] **Shannon:** Well, indeed. And I think a lot of folks forget that um uh primarily, you know, when we think about being on safari or in an overwater bungalow or even, you know, a ski experience in Queenstown, New Zealand, most people think that's only leisure or families or people with a lot of money, but it is corporate business as well for incentives and banking and finance and insurance, and they send a lot of corporate retreats and business to those sorts of destinations, right? So, from a market segmentation perspective, it that's always really fascinating to me, and I think it's not well known for people that are new at the game.
 
@@ -114,11 +114,11 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/T
 
 [14:57] **Tracy Martin:** Yes, because you're not going to get to those very senior roles unless you've really got experience with every market segment and every distribution channel. So, it's not a straight line, um, and and one that takes a while, you know, so don't expect to just achieve it in in a few years, but uh wouldn't have swapped anything for the world.
 
-[15:20] **Shannon:** No, that's so true. In fact, I remember um when the uh Central Reservation Services Manager and I in a company you and I both worked for, um, were hiring to start this, you know, we used to call it call centers in those days, but then we evolved to calling it a contact center. And we would hire hotel school students,
+[15:20] **Shannon:** No, that's so true. In fact, I remember um when the uh Central Reservation Services Manager and I in a company you and I both worked for, um, were hiring to start this, you know, we used to call it call centres in those days, but then we evolved to calling it a contact centre. And we would hire hotel school students,
 
 [15:41] **Tracy Martin:** Yes.
 
-[15:41] **Shannon:** and I remember this one particular hotel school student, I won't name him, but he's still in the industry and he's done very well for himself, but he'd been in the industry literally about 5 minutes, right? He just finished hotel school. And this was going to be his first job in the industry working for us in the call center, and he came to us about a week after he'd been in the role with his headset taking calls for hotels making bookings, and asked about how soon he could be in a hotel general manager role.
+[15:41] **Shannon:** and I remember this one particular hotel school student, I won't name him, but he's still in the industry and he's done very well for himself, but he'd been in the industry literally about 5 minutes, right? He just finished hotel school. And this was going to be his first job in the industry working for us in the call centre, and he came to us about a week after he'd been in the role with his headset taking calls for hotels making bookings, and asked about how soon he could be in a hotel general manager role.
 
 [16:07] **Tracy Martin:** Oh, dear me.
 
@@ -172,11 +172,11 @@ spotify_url: "https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/T
 
 [21:46] **Shannon:** I suppose so, because not only is the expectation driven by the fact that it might be something that customer, that guest has been dreaming about for a long time, perhaps they've been saving for a long time, so it's built up in their mind, and and so there's that, you know, imagination that's been built up, but also because, you know, it is a bit more of an investment.
 
-[22:09] **Tracy Martin:** It is, but the the interesting fact with um hotel complaints is that most of the time the traveler had uh woke up and something happened in the morning before they even got to the property, right?
+[22:09] **Tracy Martin:** It is, but the the interesting fact with um hotel complaints is that most of the time the traveller had uh woke up and something happened in the morning before they even got to the property, right?
 
 [22:23] **Shannon:** Yes.
 
-[22:24] **Tracy Martin:** They either had a bad They almost missed their flight, or something happened, and that just set the tone for the day. And then unfortunately, you're on the receiving end of the person checking into the room and maybe the air con's not working. So, [laughter] more often than not, um, they've got this this this sort of frame of mind before they even arrive at the property. But, you know, we work in a dynamic industry and many, many, many things can go wrong because there's so many moving parts in a in a hotel. So, the only thing I can say to the listeners and especially those who have to put up with um with this type of behavior is that it's not personal, people. It's definitely not personal. It's not aimed at you as a person. You are just receiving the message.
+[22:24] **Tracy Martin:** They either had a bad They almost missed their flight, or something happened, and that just set the tone for the day. And then unfortunately, you're on the receiving end of the person checking into the room and maybe the air con's not working. So, [laughter] more often than not, um, they've got this this this sort of frame of mind before they even arrive at the property. But, you know, we work in a dynamic industry and many, many, many things can go wrong because there's so many moving parts in a in a hotel. So, the only thing I can say to the listeners and especially those who have to put up with um with this type of behaviour is that it's not personal, people. It's definitely not personal. It's not aimed at you as a person. You are just receiving the message.
 
 [23:16] **Shannon:** So important.
 

@@ -1,7 +1,7 @@
 # The Hotelier Huddle — Episode Inventory & Gap Analysis (Complete Corpus)
 
 **Date of Reconciliation:** 2026-09-05  
-**Live RSS Feed Verified:** `https://anchor.fm/s/109667b00/podcast/rss` (20 items verified)  
+**Live RSS Feed Verified:** `__PROTECTED_TOKEN_0__ (20 items verified)  
 **Apple Podcasts Directory Verified:** `id1840076396` (20 items verified)  
 **Corpus Completion Status:** **100% Complete** (All 20 published episodes transcribed and held locally)
 
