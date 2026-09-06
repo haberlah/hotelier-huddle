@@ -3,7 +3,7 @@ import json
 import glob
 import re
 
-FOLDER = "/Users/haberlah/Documents/hotelier huddle/hotelier huddle"
+FOLDER = os.path.dirname(os.path.abspath(__file__))
 DERIVED_DIR = os.path.join(FOLDER, "derived_knowledge_base")
 PANELS_DIR = os.path.join(DERIVED_DIR, "virtual_panels")
 QUESTIONS_DIR = os.path.join(DERIVED_DIR, "question_knowledge_bases")
