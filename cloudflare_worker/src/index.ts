@@ -675,6 +675,7 @@ export default {
   </div>
 
   <p>GitHub Repository: <a href="https://github.com/haberlah/hotelier-huddle" target="_blank">github.com/haberlah/hotelier-huddle</a></p>
+  <p>Methodology Paper: <a href="https://medium.com/@haberlah/shannon-knapps-final-masterclass-87904b7fbbe1" target="_blank">Shannon Knapp’s final masterclass (Medium)</a></p>
 </body>
 </html>`;
 

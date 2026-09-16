@@ -102,6 +102,7 @@ Or configure via local python script:
 hotelier-huddle/
 ├── README.md                      # Project overview, quick start and architecture
 ├── LICENSE.md                     # Open source license (Code: MIT; Content: CC BY 4.0)
+├── CITATION.cff                   # Citation metadata for academic and industry referencing
 ├── CONTRIBUTING.md                # Contribution guidelines and transcript standardisation rules
 ├── .gitignore                     # Git rules (audio binaries excluded from repo)
 ├── index.json                     # Lightweight master index for instant MCP / RAG consumption
@@ -110,6 +111,7 @@ hotelier-huddle/
 ├── HOTELIER_HUDDLE_EXPERT_PANEL_MATRIX.md               # 7 Thematic virtual panels matrix
 ├── PUBLICATION_READINESS_RECONCILIATION.md              # Master verification and audit report
 │
+├── assets/                        # Brand mark and 20-episode catalog matrix
 ├── transcripts/                   # 20 Verbatim transcripts with YAML frontmatter
 │   ├── 01-Will Sales and Revenue Ever See Eye To Eye-Francis Purvey.md
 │   └── ...
@@ -118,12 +120,17 @@ hotelier-huddle/
 │   ├── virtual_panels/            # 7 Cross-episode virtual roundtable panels
 │   └── question_knowledge_bases/  # 5 Signature question anthologies
 │
-├── mcp_server/                    # FastMCP server implementation
+├── mcp_server/                    # FastMCP server implementation (local Python/uvx)
 │   ├── server.py                  # Server exposing tools, resources and prompts
 │   └── pyproject.toml             # uv/pip package configuration
 │
+├── cloudflare_worker/             # Serverless MCP server for Cloudflare Workers (edge deployment)
+│   ├── src/index.ts               # Remote MCP endpoint (/mcp, /sse) and documentation UI
+│   └── wrangler.jsonc             # Cloudflare edge configuration
+│
 └── scripts/
-    └── download_audio.py          # Script to stream/download raw audio from CDN
+    ├── download_audio.py          # Script to stream/download raw audio from CDN
+    └── bundle_corpus.py           # Inlines corpus JSON for zero-latency edge deployment
 ```
 
 ---

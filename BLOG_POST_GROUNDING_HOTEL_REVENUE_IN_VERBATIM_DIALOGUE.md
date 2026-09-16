@@ -1,7 +1,8 @@
 # Shannon Knapp's final masterclass: Preserving The Hotelier Huddle as an interactive AI knowledge base
 
 **David Haberlah**  
-*Published 6 September 2026*
+*Published 6 September 2026*  
+*Medium publication:* [https://medium.com/@haberlah/shannon-knapps-final-masterclass-87904b7fbbe1](https://medium.com/@haberlah/shannon-knapps-final-masterclass-87904b7fbbe1)
 
 ---
 
