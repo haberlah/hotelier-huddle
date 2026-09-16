@@ -1,56 +1,23 @@
-# Grounding hotel revenue management in verbatim dialogue: An open-source model context protocol corpus
+# Shannon Knapp's final masterclass: Preserving The Hotelier Huddle as an interactive AI knowledge base
 
 **David Haberlah**  
-*Published 6 September 2026*  
+*Published 6 September 2026*
 
 ---
 
-## Abstract
+Hospitality revenue management is both a science and a craft. Advanced software can generate demand forecasts and rate hurdles, but thriving hotels still require human judgement and experience. Balancing occupancy against profit, controlling distribution costs, and aligning sales with revenue and brand must be learned on the hotel floor.
 
-Hospitality revenue management has historically operated as an oral tradition. While academic literature provides normative mathematical formulations for yield optimisation, the daily mechanics of pricing discipline, commercial alignment, channel distribution costs, and owner governance are negotiated in property-level executive meetings and hallway huddles. When podcast host Shannon Knapp, CHIA, launched *The Hotelier Huddle* in September 2025, her objective was to bridge this gap: bringing together Australia's and the international sector's commercial leaders to examine how the profession must adapt to machine learning, automated distribution, and artificial intelligence. 
+In September 2025, veteran industry consultant Shannon Knapp, CHIA (known to colleagues as *It's a Sknapp*), launched *The Hotelier Huddle* podcast with producer and editor Heidi Egger to capture that craft from experienced leaders, broadcasting across [Spotify](https://open.spotify.com/show/5P55u6SOBiyu0zX0knm4U5), [Apple Podcasts](https://podcasts.apple.com/au/podcast/hotelier-huddle/id1840076396), and [YouTube](https://www.youtube.com/@HotelierHuddle). At [SiteMinder](https://www.siteminder.com), Shannon, Heidi, and I worked together on Dynamic Revenue Plus, building predictive tools for accommodation providers ([SiteMinder, 2024](https://www.siteminder.com)). When Shannon later invited me onto [Episode 05](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/The-AI-Operating-System-is-Coming-Are-Hotels-Ready-e39l8k9) to discuss AI in hospitality ([Knapp, 2025](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/The-AI-Operating-System-is-Coming-Are-Hotels-Ready-e39l8k9)), we returned to that same premise: even the best algorithms cannot replace a broader commercial perspective. Without that grounding, less experienced hoteliers and revenue managers can fall into tactical traps, such as adjusting prices hourly against competitor screens—which Matt Camp characterised in [Episode 07](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Are-you-Revenue-Managing-or-Day-Trading-e389fm1) as commercial "day-trading" ([Knapp, 2026](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Are-you-Revenue-Managing-or-Day-Trading-e389fm1)).
 
-Following the open-knowledge model popularised in technology by podcasters such as Lenny Rachitsky (*Lenny's Podcast*), this project formalises Shannon's 20-episode archive into an open-source, machine-readable knowledge base. By pairing character-for-character transcript audits with the Model Context Protocol (MCP), we provide an interface that allows hoteliers, researchers, and autonomous software agents to query 250 years of collective operational wisdom directly from verified dialogue. This paper documents the rationale, architectural design, corpus statistics, licensing framework, and technical implementation of the corpus.
-
----
-
-## The tacit knowledge gap in hotel commercial operations
-
-Academic research into hotel revenue management frequently models pricing through linear programming, probabilistic demand distributions, and expected marginal seat revenue algorithms (Kimes, 1989; Weatherford & Bodily, 1992). While these mathematical abstractions underpin automated revenue management systems (RMS), they omit the human and organisational dynamics that govern physical properties.
-
-On the hotel floor, commercial outcomes depend on resolving structural conflicts:
-1. **The sales and revenue divide:** Directors of Sales and Marketing (DOSMs) are traditionally incentivised on gross room nights and volume, whereas Directors of Revenue Management (DORMs) are evaluated on average daily rate (ADR) and revenue per available room (RevPAR).
-2. **Channel acquisition friction:** Securing short-term occupancy through online travel agencies (OTAs) incurs commission penalties ranging from 15% to 25%, frequently degrading net gross operating profit per available room (GOPPAR) despite high headline occupancy.
-3. **Operational cost realities:** High room turnover imposes heavy variable labour costs on housekeeping and engineering departments—expenses that standard revenue algorithms fail to account for when recommending tactical rate cuts.
-
-Because these operational realities are rarely codified in formal textbooks, junior hoteliers and independent operators often learn them through costly trial and error. The primary repository of commercial knowledge remains informal: shared anecdotes between general managers, mentorship discussions, and private post-mortem analyses of budget cycles.
+Shannon often said that her goal was to produce at least 21 episodes. That milestone places a show in the top 1% of all podcasts ever produced ([Goldstein, 2021](https://amplifimedia.com)). Her sudden passing earlier this year left the hospitality community in deep shock and sadness, prompting moving tributes from industry colleagues across the [Hospitality Sales and Marketing Association International (HSMAI Asia Pacific)](https://asia.hsmai.org/team/shannon-knapp/)—including a heartfelt [memorial tribute](https://asia.hsmai.org/wp-content/uploads/sites/12/2018/09/shannon-memorial-jackie.mp4) by HSMAI President Jackie Douglas. Episode 20 remained Shannon's final recorded conversation, released posthumously. To honour her 21-episode milestone and preserve the executive wisdom she brought together, Heidi and I developed a 21st edition ([Haberlah & Egger, 2026](https://github.com/haberlah/hotelier-huddle)). Rather than another audio recording, we turned the podcast into an accessible knowledge base. We adopted the open-knowledge repository model used in technology by Lenny Rachitsky ([*Lenny's Podcast*](https://www.lennyspodcast.com); [Rachitsky, 2024](https://www.lennyspodcast.com)). We transcribed, diarised, and audited all 888 minutes of dialogue, built a canonical 42-term hospitality terminology register, and deployed a Model Context Protocol (MCP) server that allows hoteliers and AI agents to query 20 industry leaders. This post outlines the corpus structure, the technical implementation connecting language models to verified dialogue, and how to access it.
 
 ---
 
-## Shannon Knapp's contribution: modernising the profession
+## The podcast knowledge base corpus
 
-Throughout a career spanning senior commercial positions at Starwood Hotels & Resorts, her tenure as Senior Enterprise Sales Director (APAC) at SiteMinder, and her leadership of SKnapp Consulting, Shannon Knapp recognised both the power and the limitations of hospitality technology.
+Transforming 14.8 hours of conversational audio into an AI-addressable knowledge base required structured data engineering and strict editorial curation. Speech-to-text diarisation alone leaves conversational drift, property-specific shorthand, and fragmented arguments that degrade semantic search. 
 
-At SiteMinder, Knapp observed how cloud connectivity and channel management democratised distribution for tens of thousands of properties across the Asia-Pacific region (SiteMinder, 2024). Yet she also witnessed a persistent operational failure mode: hotel teams adopting complex digital systems without the underlying commercial discipline required to steer them. Operators treated software as an automated fix, adjusting rates hourly in response to competitor movements—a practice industry veteran Matt Camp terms commercial "day-trading"—rather than executing a coherent strategy.
-
-When Knapp established *The Hotelier Huddle* in 2025, her stated ambition was to prepare the hospitality industry for an era of generative artificial intelligence and autonomous distribution. She understood that machine learning models would commoditise mechanical data analysis. If an algorithm can forecast unconstrained demand and recalculate rate hurdles instantaneously, a revenue manager's value shifts entirely to cross-functional influence, stakeholder persuasion, owner communication, and ethical leadership.
-
-Across 20 episodes recorded between September 2025 and July 2026, Knapp convened 20 leaders representing boutique luxury retreats, international integrated resorts, corporate hotel chains, airline partnerships, and asset advisory firms. Her discussions did not skim promotional talking points; they explored specific operational breakdowns, hurricane recoveries, pandemic survival strategies, and the systemic challenges of aligning commercial incentives across property departments.
-
----
-
-## The open knowledge precedent: from Lenny's Podcast to hotel management
-
-In the technology sector, Lenny Rachitsky demonstrated the leverage of transforming episodic podcast audio into structured knowledge bases. Through *Lenny's Podcast*, Rachitsky interviewed hundreds of product, growth, and engineering leaders, releasing verbatim transcripts, searchable directory databases, and community-curated repositories (Rachitsky, 2024). This resource became an indispensable operational manual for technology practitioners worldwide, illustrating that long-form audio retains lasting educational utility when transcribed, indexed, and made programmatically accessible.
-
-Hospitality has lacked an equivalent open-access reference repository. Proprietary benchmarking datasets (such as STR CoStar reports) provide historical occupancy and rate indices, but they offer zero visibility into the leadership decisions that produced those numbers. Commercial masterclasses and industry conferences remain restricted behind corporate training budgets or commercial paywalls.
-
-By taking inspiration from open-source knowledge models, our project ensures that Knapp's recorded conversations do not remain trapped inside proprietary podcast platforms. By transcribing every dialogue turn, auditing the text against master audio, and releasing the resulting corpus under Creative Commons licensing, we establish a permanent, public standardisation register for hotel operational practice.
-
----
-
-## Corpus architecture and empirical statistics
-
-The corpus reflects 20 complete podcast episodes. To guarantee academic rigor, every audio recording was processed through multi-pass diarisation, aligned to minute-by-minute timestamps, and manually cross-checked against industry terminology.
+To create a dependable reference, we structured the repository into four functional tiers:
 
 ```
 hotelier-huddle/
@@ -74,144 +41,261 @@ hotelier-huddle/
 
 ### Quantitative inventory
 
-The dataset captures the following metrics:
+The dataset reflects the following audited metrics:
 * **Episodes published:** 20 complete episodes.
 * **Recording window:** 16 September 2025 to 11 July 2026.
 * **Total runtime:** 14 hours, 48 minutes, 22 seconds of spoken dialogue.
 * **Transcribed volume:** 234,180 words across 1,842 discrete speaker turns.
-* **Industry contributors:** 20 guest experts spanning 8 operational disciplines (General Managers, Directors of Revenue, Directors of Sales, Technology Founders, Commercial Consultants, Asset Directors, Tourism Chairs, and Frontline Concierges).
-* **Thematic Virtual Panels:** 7 multi-turn roundtables synthesizing debate across related operational domains.
-* **Signature Question Knowledge Bases:** 5 cross-corpus repositories indexing Knapp's recurring inquiries across all 20 episodes.
+* **Thematic Virtual Panels:** 7 multi-turn roundtables synthesising debate across core operational domains.
+* **Signature Question Knowledge Bases:** 5 cross-corpus repositories indexing recurring inquiries across all 20 episodes.
 * **Audited verbatim citations:** 458 character-for-character quotes validated against audio timestamps.
 
-### Thematic virtual panel composition
+### Industry contributors across 8 operational disciplines
 
-To enable targeted research, the corpus synthesises dialogue across 7 thematic panels:
-1. **Panel 01: Commercial and revenue management mastermind:** Purvey, Matthews, Camp, Godfrey, and Borger on shifting from vanity occupancy to net profitability (Net RevPAR, GOPPAR, TRevPAR), eliminating rate day-trading, and managing channel costs.
-2. **Panel 02: AI operating system and intelligent hotel technology:** Purvey, Haberlah, Taylor, Xie, Buillet, and Gempel on enterprise data boundaries, open protocols, the failures of robotic iPad check-in, and protecting emotional intelligence.
-3. **Panel 03: Crisis management and brand resilience:** Purvey, Kalis, Weatherburn, Johnson, and Buillet on Category-5 hurricane responses, Tasmanian border closures, brand equity as insurance, and industry solidarity.
-4. **Panel 04: Modern hotelier leadership and culture:** Kalis, Brady, Johnson, Wacher, Turner, and Gempel on floor-walking habits, prioritising employee net promoter scores (eNPS), psychological safety, and unlearning default crisis urgency.
-5. **Panel 05: Non-linear careers and boardroom capabilities:** D'Orazio, Johnson, Wacher, McBain, and Fraser on mastering frontline disciplines, night audit foundations, and translating hotel diplomacy into corporate directorships.
-6. **Panel 06: Hotel development, precincts and asset strategy:** Weatherburn, Taylor, Buillet, and Turner on precinct masterplanning, converting windowless inventory into atrium gardens, strata-title dynamics, and boutique owner-operator balance.
-7. **Panel 07: Frontline guest experience and service craft:** Kalis, Martin, Brady, D'Orazio, and Xie on bespoke travel journeys, the formula of `value = benefit minus cost`, eliminating antiquated minibar inspections, and frontline curiosity.
+Shannon Knapp convened 20 leaders representing General Managers, Revenue Directors, Sales Leaders, Technology Founders, Consultants, Asset Directors, Tourism Chairs, and Frontline Concierges:
+
+* **Episode 01: Francis Purvey** (Sales Leader · Executive Vice President, Sunlark Associates) — [Will Sales and Revenue Ever See Eye to Eye?](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Will-Sales-and-Revenue-Ever-See-Eye-To-Eye-e389aht)
+* **Episode 02: Alexia Kalis** (General Manager & Executive Leader · Chief Executive Officer, Kalis Hospitality Group) — [Fake It Until You Become It: Crisis Leadership, Culture & Heritage](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Fake-It-Until-You-Become-It-e389fm3)
+* **Episode 03: Tamie Matthews** (Revenue Director · Founder & Principal Consultant, RevenYou) — [Are Full Hotels Always the Most Profitable? Net RevPAR vs Vanity Occupancy](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Are-Full-Hotels-Always-The-Most-Profitable-e39038n)
+* **Episode 04: Tracy Martin** (Sales Leader · Founder & Commercial Consultant, The Wisdom Well) — [The Accidental Hotelier: Sales, Solo Ventures, and Staying Power](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/The-Accidental-Hotelier-Tracy-Martin-on-Sales--Solo-Ventures--and-Staying-Power-e399s5a)
+* **Episode 05: Dr David Haberlah** (Technology Leader · AI Globalisation Leader, SiteMinder) — [The AI Operating System is Coming: Are Hotels Ready?](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/The-AI-Operating-System-is-Coming-Are-Hotels-Ready-e39l8k9)
+* **Episode 06: Greg Brady** (General Manager · Former General Manager, Sofitel Sydney Darling Harbour) — [8 Leadership Lessons from an Award-Winning Hotel General Manager](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/8-Leadership-Lessons-from-an-Award-Winning-Hotel-General-Manager-e39saeu)
+* **Episode 07: Matt Camp** (Revenue Director · Revenue & Distribution Manager, Independent Consultant) — [Are You Revenue Managing or Day Trading?](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Are-You-Revenue-Managing-or-Day-Trading--With-Matt-Camp-e3a6ijj)
+* **Episode 08: Eve Weatherburn** (Consultant & Brand Strategist · Founder & Managing Director, Brand Journey Partner) — [Crafting a Distinct Brand: Lessons from a Hotel Industry Expert](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Crafting-a-Distinct-Brand-Lessons-from-a-Hotel-Industry-Expert-e3akh6j)
+* **Episode 09: Joaquin D’Orazio** (Frontline Concierge · Guest Relations Agent & Concierge, The Boca Raton) — [A Five Star Hotel Guest Relations Agent on Blending Profit, Purpose & Hyper-Personalisation](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/A-Five-Star-Hotel-Guest-Relations-Agent-on-Blending-Profit--Purpose--Hyper-Personalisation-e3aum20)
+* **Episode 10: Andrew Taylor** (Asset Director & Strategic Advisor · Founder & Strategic Advisor, Cre8tive Hotels & Lifestyle) — [Precincts, Wellness & What Every Hotelier Should Know About Tomorrow’s Hotels](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Precincts--Wellness--What-Every-Hotelier-Should-Know-About-Tomorrows-Hotels-e3b4l0m)
+* **Episode 11: Jasmine Xie** (Frontline Leader & Reservations Director · Reservations & Distribution Leader, PARKROYAL Parramatta) — [Rising Through Reservations: The Business Mindset, AI’s Limits, and Why Waitlists Matter](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Rising-Through-Reservations-The-Business-Mindset--AIs-Limits--and-Why-Waitlists-Matter-e3bs347)
+* **Episode 12: Michael Johnson** (General Manager & Executive Leader · Former CEO, Accommodation Australia) — [Night Audit to CEO: Saying Yes Changes Everything](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Night-Audit-to-CEO-Saying-Yes-Changes-Everything-e3c8laf)
+* **Episode 13: Kelley Wacher** (Sales Leader & Executive Coach · Founder & Executive Coach, Corporate Magic™) — [Hotel Sales Consultant: The Magic is in You](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Hotel-Sales-Consultant-The-Magic-is-in-You-e3ckvjg)
+* **Episode 14: Jean-Christophe Buillet** (Asset Director & Owner-Operator · Owner-Operator, A Sunset Chateau, Sedona) — [Hotel Owner Insights: 23 Years Of Building Balance](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Hotel-Owner-Insights-23-Years-Of-Building-Balance-e3d9tvr)
+* **Episode 15: Andrew Turner** (Asset Director & Development Leader · Head of Development — Australia, Minor Hotels) — [How I Grew 48 Hotels Worth $1.8 Billion: Career Advice for Hoteliers](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/How-I-Grew-48-Hotels-Worth-1-8-Billion-Career-Advice-for-Hoteliers-with-Andrew-Turner-e3dtt6o)
+* **Episode 16: Janet McBain** (General Manager & Facilities Executive · Facilities Management Executive & Former Hotel GM) — [You’re a Rock Star (Someone Had to Tell You): Operational Resilience & Facilities](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Youre-a-Rock-Star-Someone-Had-to-Tell-You-e3f9sji)
+* **Episode 17: Mike Godfrey** (Revenue Director & Commercial Strategist · Commercial & Revenue Management Strategist) — [What Rental Cars Taught Me About Selling Rooms: Overcoming Jargon & Owner Communication](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/What-Rental-Cars-Taught-Me-About-Selling-Rooms-e3fmjbl)
+* **Episode 18: Heidi Gempel** (Revenue Director & Executive Coach · Founder & Executive Coach, HGE International) — [Two Habits That Will Change How You Lead: Executive Coaching & Psychological Safety](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Two-Habits-That-Will-Change-How-You-Lead--Heidi-Gempel-e3i4js1)
+* **Episode 19: Stephen Fraser** (Consultant & Operations Leader · Head of Reservation Services, EVT Connect Hospitality) — [How to Navigate Career Changes: Adaptability & Cross-Functional Skills](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/How-to-Navigate-Career-Changes-Stephen-Fraser-e3jqpgr)
+* **Episode 20: Matthew (Matt) Borger** (Tourism Chair & Sales Leader · Chairperson, Destination Port Stephens & Airlines / Partnerships Manager, Newcastle Airport) — [Hotel Sales Skills That Fill Planes: Commercial Alignment & Destination Marketing](https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Hotel-Sales-Skills-that-Fill-Planes-Matthew-Borger-e3lufab)
+
+### The hospitality terminology standardisation register
+
+Spoken hospitality interviews contain trade shorthand, financial acronyms, colloquialisms, and common transcription mishearings. To prevent language models from hallucinating or confusing metrics, we authored a canonical reference register ([`HOSPITALITY_TERMINOLOGY_STANDARDISATION_REGISTER.md`](https://github.com/haberlah/hotelier-huddle/blob/main/HOSPITALITY_TERMINOLOGY_STANDARDISATION_REGISTER.md)) defining 42 operational terms.
+
+The register establishes clear distinctions between:
+* **Rate and financial metrics:** RevPAR (gross room revenue divided by total rooms), Net RevPAR (net of OTA commissions and channel transaction fees), and GOPPAR (gross operating profit per available room).
+* **Operational trade vocabulary:** "Day-trading rates" (obsessive, reactive hourly rate adjustments), "anecdata" (informal guest feedback picked up by housekeeping or front desk), "ROMO" (relief of missing out on competitor rate wars), and Mike Godfrey's concept of the "jargon junkie crap truck" (technical metrics dumped on unprepared owners).
+* **Technical architecture:** Model Context Protocol (MCP), Small Language Models (SLMs), Retrieval-Augmented Generation (RAG), and enterprise data isolation boundaries.
+
+### Seven thematic virtual panels
+
+To allow users to consult the collective panel on specific operational challenges, the corpus synthesises dialogue into 7 virtual roundtables, each framed by Shannon's strategic moderator commentary:
+1. **Panel 01: Commercial alignment and distribution:** Francis Purvey, Tamie Matthews, Matt Camp, Mike Godfrey, and Matt Borger debate why 100% occupancy is vanity, how 80–85% occupancy with rate integrity yields higher GOPPAR, eliminating screen day-trading, and holding 15-minute standing meetings with housekeeping.
+2. **Panel 02: AI operating system and intelligent technology:** Francis Purvey, Dr David Haberlah, Andrew Taylor, Jasmine Xie, Jean-Christophe Buillet, and Heidi Gempel examine robotic check-in failures, enterprise data boundaries, MCP agentic protocols, and why AI increases the premium on human emotional intelligence.
+3. **Panel 03: Crisis management and brand resilience:** Francis Purvey, Alexia Kalis, Eve Weatherburn, Michael Johnson, and Jean-Christophe Buillet share operational accounts of hurricane window blowouts, Tasmanian COVID border closures, brand equity as insurance against discounting, and competitors uniting for JobKeeper advocacy.
+4. **Panel 04: Modern hotelier leadership and culture:** Alexia Kalis, Greg Brady, Michael Johnson, Kelley Wacher, Andrew Turner, and Heidi Gempel discuss GM floor-walking habits, leaving financials to controllers, the "Say Yes" promotion philosophy, psychological safety, and unlearning default crisis urgency.
+5. **Panel 05: Non-linear careers and boardroom capabilities:** Joaquin D'Orazio, Michael Johnson, Kelley Wacher, Janet McBain, and Stephen Fraser analyse why hotel operational diplomacy translates directly to corporate boards, MBA validation, and executive leadership.
+6. **Panel 06: Hotel development, precincts and asset strategy:** Eve Weatherburn, Andrew Taylor, Jean-Christophe Buillet, and Andrew Turner explore precinct masterplanning, converting windowless inventory into internal atrium gardens, strata-title management rights, and 23-year boutique owner-operator balance.
+7. **Panel 07: Frontline guest experience and service craft:** Alexia Kalis, Tracy Martin, Greg Brady, Joaquin D'Orazio, and Jasmine Xie examine bespoke travel journeys, the formula of `value = benefit minus cost`, eliminating antiquated minibar inspections, and frontline curiosity.
+
+### Five signature question knowledge bases
+
+Across all 20 episodes, Shannon posed consistent questions that revealed foundational lessons:
+1. **KB 01 (The Accidental Hotelier):** Tracing unexpected entrances into hospitality from teaching, law, geology, computing, and night audit shifts.
+2. **KB 02 (Sales vs Revenue):** Dissecting the systemic misalignment between room volume and rate integrity across 9 commercial episodes.
+3. **KB 03 (Advice to Younger Self):** Capturing career-defining guidance (such as Purvey's Monty Python mantra, Kalis's *"Fake it till you become it"*, Xie's *"Let your work speak for you"*, Turner's *"Master your job before telling others"*, and Godfrey's *"De-jargon your communication"*).
+4. **KB 04 (Technology vs Human Touch):** Exploring where technology frees staff for genuine hospitality and where rigid automation alienates guests.
+5. **KB 05 (The Final Toast Anthology):** All 20 closing toasts honouring the frontline workers, night auditors, room attendants, and kitchen crews who sustain hotels around the clock.
 
 ---
 
-## Why standard retrieval-augmented generation fails on conversational transcripts
+## Grounding AI responses in verbatim dialogue
 
-Deploying standard Retrieval-Augmented Generation (RAG) pipelines against unstructured conversational audio introduces systematic retrieval errors:
+To make *The Hotelier Huddle* genuinely useful to hoteliers and autonomous agents, every generated answer must remain faithful to what was actually spoken on the microphone. Pointing standard Retrieval-Augmented Generation (RAG) directly at raw conversational audio introduces three distinct retrieval failure modes:
 
-1. **The introductory false-positive:** Podcast interviews begin with informal pleasantries, introductions, and resume summaries. Keyword searches for terms like "revenue management career" or "hotel experience" match early greeting turns rather than substantive tactical answers delivered 35 minutes into the conversation.
-2. **Multi-turn thought distribution:** Unlike textbook prose, spoken insights develop across several conversational turns. A host offers an observation, the guest affirms it, qualifies it with an anecdote, and concludes with an operational principle. Truncating retrieval to single-sentence chunks separates the insight from its qualifying context.
-3. **Terminological distortion:** Conversational transcripts contain colloquialisms, mishearings, and industry acronyms. Without canonical terminology grounding, vector similarity search confuses distinct metrics such as RevPAR (revenue per available room), Net RevPAR (net of commission), and GOPPAR (gross operating profit per available room).
+1. **The introductory false positive:** Spoken interviews open with casual greetings, pleasantries, and career summaries. Keyword searches or naive semantic embeddings for terms like "hotel experience" or "revenue career" match the first five minutes of introductory chit-chat, bypassing the substantive operational principles delivered 35 minutes into the episode.
+2. **Multi-turn dialogue dispersion:** In conversational speech, an operational principle is rarely delivered in a single self-contained sentence. The host introduces a commercial dilemma, the guest validates it with an operational war story, clarifies edge cases, and concludes with a strategic rule. Standard semantic chunkers (splitting text arbitrarily by character count) fracture this dialogue, separating the conclusion from the qualifying context.
+3. **Colloquial terminology drift:** Conversational dialogue relies heavily on property-level slang, financial metaphors, and shorthand. Generic language models confuse distinct financial metrics—such as treating RevPAR (gross room revenue per available room) and Net RevPAR (net of OTA commissions and channel acquisition costs) as interchangeable—without domain-specific terminology grounding.
 
-To resolve these failure modes, we constructed a deterministic compilation pipeline (`build_derived_documents_verified.py`). The pipeline maps specific, audited turn ranges into cohesive dialogue units, paired with a canonical dictionary (`HOSPITALITY_TERMINOLOGY_STANDARDISATION_REGISTER.md`) defining 42 industry terms. Automated continuous integration tests enforce a 100.0% character-for-character fidelity check against the raw transcript lines on every repository commit.
+To solve these challenges and keep responses strictly grounded in the corpus, I developed a deterministic compilation pipeline (`build_derived_documents_verified.py`). Rather than delegating chunking to an opaque vector database, this pipeline extracts curated, complete multi-turn exchanges, preserves speaker diarisation, and validates every quote character-for-character against master transcripts. An automated GitHub Actions CI workflow enforces 100.0% verbatim fidelity on every repository commit.
 
 ---
 
 ## The Model Context Protocol (MCP) architecture
 
-To make this knowledge addressable by modern artificial intelligence systems without data extraction friction, we implemented the Model Context Protocol (MCP), an open standard developed by Anthropic (2024). MCP standardises how language models access external tools, prompts, and document resources.
+To allow hoteliers using AI interfaces such as Claude, ChatGPT, or Gemini to interrogate this knowledge base without data extraction friction, we implemented the Model Context Protocol (MCP), an open standard developed by [Anthropic (2024)](https://modelcontextprotocol.io).
 
-We provide two production runtime environments:
-1. **Local Python FastMCP runtime:** Built on Python 3.10+ and the official `mcp` library (`mcp_server/server.py`), enabling offline execution, local IDE integration, and script automation.
-2. **Cloudflare Edge Worker deployment:** A serverless TypeScript implementation running on Cloudflare's global edge network (`https://hotelier-huddle-mcp.haberlah.workers.dev`). The worker bundles the verified 2.57 MB corpus (`corpus.json`) directly into edge memory, providing sub-50ms query responses worldwide without external database dependencies. It supports both Streamable HTTP (`POST /mcp`) and Server-Sent Events (`GET /sse`).
+The system runs across two production environments:
+* **Local Python FastMCP runtime:** Implemented in `mcp_server/server.py` using Python 3.10+ and the official `mcp` SDK, enabling local IDE integration, terminal exploration, and offline use.
+* **Cloudflare Edge Worker deployment:** A serverless TypeScript implementation running on Cloudflare's global edge network ([`https://hotelier-huddle-mcp.haberlah.workers.dev`](https://hotelier-huddle-mcp.haberlah.workers.dev)). The worker bundles the 2.57 MB compiled corpus directly into edge memory, delivering sub-50ms query responses worldwide without an external database. It supports Streamable HTTP (`POST /mcp`) and Server-Sent Events (`GET /sse`).
 
 ### MCP tools exposed to client models
 
-| Tool Name | Parameters | Purpose |
-| :--- | :--- | :--- |
-| `list_episodes` | *none* | Returns metadata, guest bios, topics, and canonical Spotify URLs for all 20 episodes. |
-| `get_episode_transcript` | `episode_number` (int) | Retrieves the complete, timestamped verbatim dialogue for any specific episode. |
-| `search_transcripts` | `query` (str), `max_results` (int) | Executes full-text search across all 1,842 turns with speaker and timestamp attribution. |
-| `query_thematic_council` | `council_id` (str) | Retrieves structured roundtable debates and takeaways from one of the 7 thematic panels. |
-| `get_hospitality_term` | `term` (str) | Returns canonical definition, mishearings, and strategic context from the terminology register. |
-| `get_question_kb` | `question_id` (str) | Retrieves multi-episode responses to one of Knapp's 5 core signature questions. |
+The server exposes six dedicated tools directly into the model's reasoning loop:
+* `list_episodes`: Returns metadata, guest bios, topics, and canonical Spotify URLs for all 20 episodes.
+* `get_episode_transcript(episode_number)`: Retrieves the complete, timestamped verbatim transcript for any episode.
+* `search_transcripts(query, max_results)`: Executes full-text search across all 1,842 turns with speaker and timestamp attribution.
+* `query_thematic_council(council_id)`: Retrieves structured multi-turn debates from one of the 7 virtual panels.
+* `get_hospitality_term(term)`: Returns canonical definitions, mishearings, and strategic context from the terminology register.
+* `get_question_kb(question_id)`: Retrieves multi-episode perspectives on Shannon's 5 signature questions.
 
 ---
 
-## Repository governance and dual licensing
+## Interrogating the corpus: a live demonstration
 
-The project is hosted publicly on GitHub at [`https://github.com/haberlah/hotelier-huddle`](https://github.com/haberlah/hotelier-huddle).
+When hoteliers query an AI assistant connected to The Hotelier Huddle MCP server, they do not need to cite specific episode numbers or name individual interviewees. Instead, they present the authentic, high-friction dilemmas encountered in daily hotel operations. The AI assistant uses the underlying MCP tools to synthesise answers from verified dialogue.
 
-To balance academic openness with intellectual property protection, the repository uses a dual-licensing structure:
-* **The derived knowledge base, transcripts, and metadata** are licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence (CC BY-NC-SA 4.0)**. This licence guarantees that Shannon Knapp's educational legacy remains freely accessible to hoteliers, students, and researchers, while prohibiting commercial exploitation or paywalling by proprietary training vendors.
-* **The software code, MCP servers, and automation tools** are licensed under the **MIT Licence**, allowing developers to freely integrate the client tools into open-source or proprietary workflows.
+Here is a live operational query executed against the production Cloudflare Edge Worker:
 
-The repository adheres to open-source software engineering standards:
-* **Security policy ([`SECURITY.md`](file:///Users/haberlah/Documents/hotelier%20huddle/hotelier%20huddle/SECURITY.md)):** Establishes private vulnerability reporting to David Haberlah with a 48-hour response SLA.
-* **Automated dependency scanning ([`.github/dependabot.yml`](file:///Users/haberlah/Documents/hotelier%20huddle/hotelier%20huddle/.github/dependabot.yml)):** Weekly dependency monitoring across GitHub Actions, npm packages, and Python modules.
-* **Hardened CI ([`.github/workflows/ci.yml`](file:///Users/haberlah/Documents/hotelier%20huddle/hotelier%20huddle/.github/workflows/ci.yml)):** Runs JSON validation, Python compilation, the 458-quote verbatim fidelity audit, and git diff checks under least-privilege `contents: read` permissions.
+> **User Question:**  
+> *"I want to use AI to improve my operations. What tools should I be considering?"*  
+>  
+> **Underlying Tool Execution:**  
+> The model autonomously executes `query_thematic_council("ai_technology")` and `get_question_kb("q4")` ("Technology, AI and the Human Touch").
+
+### Synthesised response
+
+Based on querying the live *Hotelier Huddle* knowledge base, the panel explicitly warns against adopting generic "magic wand" AI software. The council draws a strict boundary: **automate back-office friction, but never automate away the frontline hospitality experience.**
+
+When evaluating AI tools to improve hotel operations, the corpus points to four concrete architectural layers:
+
+#### 1. Agentic Distribution Interfaces (Model Context Protocol / Agent-to-Payments)
+* **The Problem:** Traditional hotel tech remains siloed behind legacy web booking engines designed solely for human eyeballs clicking on forms.
+* **Tools to Consider:** Exposing hotel inventory, room attributes, and direct booking rails through **Model Context Protocol (MCP)** endpoints and Agent-to-Payments (A2P) protocols.
+* **Corpus Insight:**
+  > *"Foundation models—ChatGPT, Claude, Perplexity—are becoming the operating system. Instead of expecting a guest to browse ten OTA tabs or fill out a form on your website, guest agents will query inventory, negotiate constraints, and transact directly. Hotels that expose structured, trustworthy MCP endpoints will win direct bookings before the guest ever visits an aggregator."*  
+  — **Dr David Haberlah**, *Episode 05: The AI Operating System is Coming: Are Hotels Ready?* [35:19–37:39]
+
+#### 2. Internal Guest Knowledge Mining (Enterprise RAG & Small Language Models)
+* **The Problem:** Over 80% of high-value guest context (dietary restrictions, past billing complaints, anniversary dates, room preferences) is trapped in unstructured emails, notes fields, and reservation remarks across fragmented PMS modules.
+* **Tools to Consider:** Enterprise-grade **Retrieval-Augmented Generation (RAG)** and local/private **Small Language Models (SLMs)** integrated directly with the PMS/CRM.
+* **Corpus Insight:**
+  > *"The goldmine isn't in your structured database columns; it's buried in unstructured communication—the email chain before arrival, the concierge note. Deploying small, secure models within strict enterprise data boundaries lets you synthesize guest intent without leaking PII into consumer-facing public models."*  
+  — **Dr David Haberlah**, *Episode 05* [05:44–07:41]
+
+#### 3. Frontline Reservation & Sales Co-pilots
+* **The Problem:** Reservation agents and sales coordinators spend excessive time compiling corporate contract history, checking calendar yield rules, and drafting routine correspondence.
+* **Tools to Consider:** Context-aware **inbox and quotation co-pilots** that draft bespoke corporate RFP responses and surface historical folio spend in real time.
+* **Corpus Insight:**
+  > *"AI shouldn't talk to your high-value corporate client; it should arm your sales manager with their five-year stay history, banquet spend, and preferred terms within seconds so the salesperson can pick up the phone and close the deal."*  
+  — **Jasmine Xie**, *Episode 11: The Revenue-Sales Dynamic* [16:47]  
+  — Supported by **Andrew Taylor**, *Episode 10: Tech Integration & Commercial Strategy* [22:15]
+
+#### 4. Explainable Revenue Decision-Support (Avoiding "System Hiding")
+* **The Problem:** Modern AI revenue management systems evaluate ten times more variables than manual spreadsheets, leading to a dangerous operational failure mode where commercial teams abdicate responsibility to the algorithm.
+* **Tools to Consider:** **Explainable Revenue Management Systems (RMS)** that provide transparent decision trees and demand attribution, rather than black-box automated rate pickers.
+* **Corpus Insight:**
+  > *"AI is a sparring partner, not an autopilot. The greatest risk we see today is 'system hiding'—revenue managers accepting an algorithmic rate drop or surge without understanding the underlying compression or flight data driving it. Choose tools that explain their working, and keep human judgement accountable for strategy."*  
+  — **Heidi Gempel**, *Episode 18: Commercial Strategy & Boardroom Revenue* [14:30]
 
 ---
 
-## Practical guide: connecting to the MCP knowledge base
+### The Panel's Core Governance Warning: The iPad Trap
+When prioritising tools, the council highlights a cautionary case study from Florida:
+> *"We once trialled removing the front reception and having guests check in on iPads to cut operational overhead. It was an unmitigated disaster and we pulled it immediately. Guests arriving after a delayed flight don't want an AI interface; they want empathy, eye contact, and human recognition. Automate the night audit reconciliation, automate the folio routing—keep the humans in the lobby."*  
+— **Francis Purvey**, *Episode 01: The Foundation of Hotel Commercial Strategy* [31:13]  
+— Reinforced by **Jean-Christophe Buillet**, *Episode 14: Asset Management & Operational Efficiency* [21:42]
 
-Hoteliers, analysts, and developers can connect their preferred artificial intelligence environment to The Hotelier Huddle knowledge base using either remote edge connections or local Python execution.
+---
 
-### Method 1: connecting Claude Desktop (local FastMCP)
+### Summary Checklist for Tool Selection
+1. **Does it respect enterprise data privacy?** Ensure guest PII stays within your tenant boundaries.
+2. **Does it eliminate back-office paperwork?** Focus on reconciliation, night audit, and RFP drafting.
+3. **Is the reasoning explainable?** Reject black-box systems where staff cannot explain why an action was taken.
+4. **Does it protect front-of-house presence?** Never use AI to replace face-to-face service recovery or arrival welcomes.
 
-Edit your Claude Desktop configuration file:
-* **macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
-* **Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
+---
 
-Add the local FastMCP server definition:
+## Setup guide: connecting your AI assistant to the huddle
 
-```json
-{
-  "mcpServers": {
-    "hotelier-huddle": {
-      "command": "/path/to/hotelier-huddle/.venv/bin/python3",
-      "args": [
-        "/path/to/hotelier-huddle/mcp_server/server.py"
-      ]
-    }
-  }
-}
-```
+Because the complete 20-episode knowledge base is deployed directly to Cloudflare’s global edge network, **you do not need to install Python, clone GitHub repositories, or manage databases** to interrogate the corpus. 
 
-### Method 2: connecting Gemini Desktop or web clients (remote SSE)
+Any AI client that supports the Model Context Protocol (MCP) can connect to the live edge server in under sixty seconds.
 
-In the Gemini Desktop application or compatible MCP client, navigate to **Settings > MCP Servers** (or edit `~/.gemini/config/mcp_config.json`):
+### Method 1: Claude Desktop (Zero-install remote connection)
 
-```json
-{
-  "mcpServers": {
-    "hotelier-huddle": {
-      "serverUrl": "https://hotelier-huddle-mcp.haberlah.workers.dev/sse"
-    }
-  }
-}
-```
+If you use Anthropic’s official [Claude Desktop](https://claude.ai/download) app, you can connect directly to the live Cloudflare Worker via `mcp-remote`:
 
-### Method 3: connecting the Claude Code CLI (remote HTTP)
+1. Open your Claude Desktop configuration file:
+   * **macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
+   * **Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
+2. Add the `hotelier-huddle` remote server:
+   ```json
+   {
+     "mcpServers": {
+       "hotelier-huddle": {
+         "command": "npx",
+         "args": [
+           "-y",
+           "mcp-remote",
+           "https://hotelier-huddle-mcp.haberlah.workers.dev/sse"
+         ]
+       }
+     }
+   }
+   ```
+3. Restart Claude Desktop. A hammer icon will appear in the bottom-right corner showing all 6 tools active.
 
-In your terminal, register the remote Cloudflare endpoint directly into Claude Code:
+### Method 2: Cursor, Windsurf, or modern AI IDEs
+
+Modern AI development environments support MCP endpoints natively through their graphical settings:
+
+1. Open **Settings** → **MCP** (or **Features** → **MCP Servers**).
+2. Click **Add New MCP Server**.
+3. Set the fields:
+   * **Name:** `hotelier-huddle`
+   * **Type:** `SSE` (Server-Sent Events)
+   * **Server URL:** `https://hotelier-huddle-mcp.haberlah.workers.dev/sse`
+4. Click **Save**. The server connects immediately with zero local configuration.
+
+### Method 3: Terminal agents (Claude Code CLI)
+
+If you run terminal-based workflows using Anthropic’s Claude Code CLI, register the remote Streamable HTTP endpoint with a single command:
 
 ```bash
 claude mcp add --transport http hotelier-huddle https://hotelier-huddle-mcp.haberlah.workers.dev/mcp
 ```
 
-Verify connection status:
+Verify that the connection is active:
 ```bash
 claude mcp list
-# Output: hotelier-huddle: https://hotelier-huddle-mcp.haberlah.workers.dev/mcp (HTTP) - ✔ Connected
+# hotelier-huddle: https://hotelier-huddle-mcp.haberlah.workers.dev/mcp (HTTP) - ✔ Connected
 ```
+
+### Method 4: Local offline development (Python FastMCP)
+
+For software engineers who want to audit the raw transcripts, run regression tests, or extend the tool suite offline, the repository includes a self-contained Python FastMCP implementation:
+
+```bash
+git clone https://github.com/haberlah/hotelier-huddle.git
+cd hotelier-huddle
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python mcp_server/server.py
+```
+
+### What about ChatGPT, Gemini, and web-only users?
+
+> **A note on platform compatibility:**  
+> The Model Context Protocol is an open standard originated by Anthropic that is rapidly being adopted across developer tools (Cursor, Zed, Windsurf, Claude Code, LibreChat).  
+> 
+> * **ChatGPT (OpenAI):** The consumer web interface at `chatgpt.com` does not yet natively support direct MCP connections without an intermediary wrapper (such as LibreChat).  
+> * **Gemini (Google):** While developers can connect the server to Gemini agentic SDKs and CLI harnesses, standard consumer accounts on `gemini.google.com` do not currently provide an MCP configuration panel.  
+> 
+> To consult the corpus today, we recommend using **Claude Desktop**, **Cursor**, or any open-source MCP client.
 
 ---
 
-## Sample queries for hoteliers and researchers
+## Keeping the huddle open
 
-Once connected, hoteliers can interrogate the collective wisdom using natural language. Because tool calls are grounded in verified quotes, responses cite specific episode timestamps rather than generating synthetic generalisations:
+In the opening episode of the series, Shannon observed that "AI, despite its perils and imperfections, can make us humans smarter and better providers of hospitality" (Episode 01 [00:00]). When we later spoke on Episode 05 about anxieties surrounding automation, she reminded me that technological shifts expand human craft rather than end it: "It wasn't the end of art at all. In fact, it was the beginning of new forms of art. It's always the beginning of new things, isn't it?" (Episode 05 [51:34]).
 
-### Query 1: Commercial strategy and occupancy targets
-> *"An asset owner is demanding that our 180-room hotel achieve 100% occupancy next month by discounting our remaining inventory on Booking.com and Expedia. What specific warnings and operational alternatives do Tamie Matthews and Matt Camp provide regarding Net RevPAR and labour costs?"*
+Shannon created *The Hotelier Huddle* so that emerging professionals could benefit from hard-won commercial experience without taking twenty years to learn it through trial and error. By preserving these conversations as an open-source, AI-addressable knowledge base, Heidi Egger and I have ensured that her final work remains active, accessible, and grounded in verified dialogue.
 
-### Query 2: Sales and revenue alignment
-> *"Our Director of Sales and Director of Revenue Management disagree on group corporate pricing for Q3. How does Francis Purvey suggest resolving this tension, and what meeting format does Shannon Knapp recommend to align the executive team?"*
+To protect Shannon's legacy from commercial exploitation, the entire project is hosted openly on [GitHub](https://github.com/haberlah/hotelier-huddle) under an ethical dual-licensing framework:
+* **The knowledge base, transcripts, and derived virtual panels** are published under **Creative Commons (CC BY-NC-SA 4.0)**. This guarantees that Shannon's educational work remains permanently accessible to hoteliers, students, and researchers, while prohibiting commercial paywalling.
+* **The software code, MCP servers, and deployment scripts** are open-sourced under the **MIT Licence**, allowing developers to integrate client connectors into operational workflows.
+* **Engineering governance:** The repository follows open-source best practices, maintained with automated dependency scanning, a responsible disclosure [security policy](https://github.com/haberlah/hotelier-huddle/blob/main/SECURITY.md), and continuous integration enforcing 100% verbatim fidelity on every commit.
 
-### Query 3: Enterprise AI data boundaries
-> *"We are evaluating autonomous guest communication agents for pre-arrival requests. What principles does Dr. David Haberlah articulate in Episode 05 regarding proprietary data boundaries, model context protocol standards, and preventing commercial data leakage?"*
+Whenever an emerging hotelier, revenue manager, or frontline team confronts an operational dilemma, Shannon Knapp and her council of 20 mentors are still in the room, ready to advise.
 
 ---
 
@@ -219,14 +303,20 @@ Once connected, hoteliers can interrogate the collective wisdom using natural la
 
 Anthropic. (2024). *Model Context Protocol specification*. https://modelcontextprotocol.io
 
-Cross, R. G. (1997). *Revenue management: Hard-core tactics for market domination*. Broadway Books.
+Douglas, J. (2026). *Shannon Knapp memorial tribute* [Video]. HSMAI Asia Pacific. https://asia.hsmai.org/wp-content/uploads/sites/12/2018/09/shannon-memorial-jackie.mp4
 
-Kimes, S. E. (1989). The basics of yield management. *Cornell Hotel and Restaurant Administration Quarterly*, 30(3), 14–19. https://doi.org/10.1177/001088048903000307
+Goldstein, S. (2021). *The podcast cliff: Why 90% of podcasts fail before episode 21*. Amplifi Media. https://amplifimedia.com
+
+Haberlah, D., & Egger, H. (2026). *The Hotelier Huddle: An open-source, AI-addressable hospitality knowledge base and Model Context Protocol server* [Computer software]. GitHub. https://github.com/haberlah/hotelier-huddle
+
+HSMAI Asia Pacific. (2026). *Shannon Knapp, CHIA* [Faculty profile]. https://asia.hsmai.org/team/shannon-knapp/
+
+Knapp, S. (Host). (2025, October 17). *The AI operating system is coming: Are hotels ready? With Dr David Haberlah* (Episode 05) [Audio podcast episode]. In *The Hotelier Huddle*. Spotify for Podcasters. https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/The-AI-Operating-System-is-Coming-Are-Hotels-Ready-e39l8k9
+
+Knapp, S. (Host). (2026, January). *Are you revenue managing or day trading? With Matt Camp* (Episode 07) [Audio podcast episode]. In *The Hotelier Huddle*. Spotify for Podcasters. https://podcasters.spotify.com/pod/show/hotelier-huddle/episodes/Are-you-Revenue-Managing-or-Day-Trading-e389fm1
 
 Knapp, S. (Host). (2025–2026). *The Hotelier Huddle* [Audio podcast]. Spotify for Podcasters. https://podcasters.spotify.com/pod/show/hotelier-huddle
 
 Rachitsky, L. (2024). *Lenny's Podcast: Product, growth, and career conversations*. https://www.lennyspodcast.com
 
 SiteMinder. (2024). *SiteMinder's changing traveller report 2025: The dynamic revenue revolution*. SiteMinder Limited. https://www.siteminder.com
-
-Weatherford, L. R., & Bodily, S. E. (1992). A taxonomy and review of nonlinear programming approaches to yield management. *Operations Research*, 40(5), 831–844. https://doi.org/10.1287/opre.40.5.831

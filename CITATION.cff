@@ -21,3 +21,15 @@ keywords:
   - model-context-protocol
   - audio-transcription
 license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Haberlah"
+      given-names: "David"
+    - family-names: "Egger"
+      given-names: "Heidi"
+  title: "Shannon Knapp’s final masterclass: Preserving The Hotelier Huddle as an interactive AI knowledge base"
+  year: 2026
+  month: 9
+  url: "https://medium.com/@haberlah/shannon-knapps-final-masterclass-87904b7fbbe1"
+

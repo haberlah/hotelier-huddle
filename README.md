@@ -29,6 +29,20 @@ This archive preserves Shannon's contribution so her legacy continues to support
 
 ---
 
+## Architectural methodology and companion publication
+
+This repository serves as the reference implementation for the companion methodology paper:
+
+* **Haberlah, D., & Egger, H. (2026).** *Shannon Knapp’s final masterclass: Preserving The Hotelier Huddle as an interactive AI knowledge base.* Medium. [https://medium.com/@haberlah/shannon-knapps-final-masterclass-87904b7fbbe1](https://medium.com/@haberlah/shannon-knapps-final-masterclass-87904b7fbbe1)
+
+The companion paper documents the complete engineering and curation pipeline required to transform 14.8 hours (888 minutes) of conversational audio into an autonomous, AI-addressable knowledge engine:
+* **Verbatim dialogue auditing:** Why standard semantic chunking fractures spoken arguments, and how deterministic compilation (`build_derived_documents_verified.py`) enforces 100.0% verbatim character-for-character fidelity against master audio transcripts.
+* **Domain terminology grounding:** Why generic language models hallucinate on hotel shorthand (such as treating RevPAR and Net RevPAR interchangeably), and how our 42-term standardisation register (`HOSPITALITY_TERMINOLOGY_STANDARDISATION_REGISTER.md`) enforces semantic precision.
+* **Thematic synthesis:** How multi-turn debates were extracted across episodes into 7 specialised virtual councils and 5 signature question anthologies (`derived_knowledge_base/`).
+* **Zero-install edge deployment:** How the compiled corpus is deployed directly to Cloudflare’s global edge network via the Model Context Protocol (MCP), delivering sub-50ms responses to Claude Desktop, Cursor, and terminal agents without database overhead.
+
+---
+
 ## Quick start for AI tools and MCP
 
 ### 1. Ingesting into Claude Code or Cursor
@@ -115,6 +129,10 @@ hotelier-huddle/
 ---
 
 ## Episode catalog and holdings
+
+![The Hotelier Huddle 20-Episode Catalogue](assets/hotelier_huddle_fig_01.png)
+
+*Figure 1: Sequential visual matrix of all 20 episodes across general management, revenue strategy, sales, frontline operations, and hotel asset ownership (Episodes 01–20, read left to right, top to bottom).*
 
 | Ep # | Title | Date | Duration | Words | Guest and Organisation | Controlled tags |
 | :---: | :--- | :---: | :---: | :---: | :--- | :--- |
